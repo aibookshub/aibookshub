@@ -9,7 +9,7 @@ import styles from "@/src/styles/bookstyles";
 import { ProgressBar } from "react-native-paper";
 
 const source = {
-    uri: "https://bbarrettchs.weebly.com/uploads/3/7/7/8/37782575/lvp_java_text.pdf",
+    uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
     cache: true,
 };
 

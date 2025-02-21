@@ -1,32 +1,32 @@
 const UL = "https://aibookshub.github.io/aibookshub_data/cat_img/";
 
 export const cat1 = [
-    { id: "2", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
-    { id: "4", name: "Python & Data Science",       cover: `${UL}python.png`},
-    { id: "6", name: "Java & Android",              cover: `${UL}java.png`},
-    { id: "8", name: "React & Full Stack",          cover: `${UL}react.png`},
+    { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
+    { id: "14", name: "Python & Data Science",       cover: `${UL}python.png`},
+    { id: "16", name: "Java & Android",              cover: `${UL}java.png`},
+    { id: "18", name: "React & Full Stack",          cover: `${UL}react.png`},
 ];
 
 export const cat2 = [
-    { id: "22", name: "ChatGPT & LLM",      cover: `${UL}ai_llm.jpg`},
-    { id: "24", name: "Deep Learning",      cover: `${UL}ai_dl.jpg`},
-    { id: "26", name: "Machine Learning",   cover: `${UL}ai_ml.jpg`},
-    { id: "28", name: "Nerual Network",     cover: `${UL}ai_nn.jpg`},
+    { id: "1224", name: "ChatGPT & LLM",      cover: `${UL}ai_llm.jpg`},
+    { id: "1226", name: "Deep Learning",      cover: `${UL}ai_dl.jpg`},
+    { id: "1228", name: "Machine Learning",   cover: `${UL}ai_ml.jpg`},
+    { id: "1230", name: "Nerual Network",     cover: `${UL}ai_nn.jpg`},
 
-    { id: "42", name: "Interview",     cover: `${UL}python_interview.jpg`},
-    { id: "44", name: "FastAPI & Web", cover: `${UL}python_fastapi.jpg`},
-    { id: "46", name: "Data Science",  cover: `${UL}python_datascience.jpg`},
-    { id: "48", name: "Programming",   cover: `${UL}python_programming.jpg`},
+    { id: "1442", name: "Interview",     cover: `${UL}python_interview.jpg`},
+    { id: "1444", name: "FastAPI & Web", cover: `${UL}python_fastapi.jpg`},
+    { id: "1446", name: "Data Science",  cover: `${UL}python_datascience.jpg`},
+    { id: "1448", name: "Programming",   cover: `${UL}python_programming.jpg`},
 
-    { id: "62", name: "Interview",     cover: `${UL}java_interview.jpg`},
-    { id: "64", name: "Core Java", cover: `${UL}java_core.jpg`},
-    { id: "66", name: "Android & Kotlin",  cover: `${UL}java_android.webp`},
-    { id: "68", name: "Spring & Web",   cover: `${UL}java_spring.png`},
+    { id: "1662", name: "Interview",     cover: `${UL}java_interview.jpg`},
+    { id: "1664", name: "Core Java", cover: `${UL}java_core.jpg`},
+    { id: "1666", name: "Android & Kotlin",  cover: `${UL}java_android.webp`},
+    { id: "1668", name: "Spring & Web",   cover: `${UL}java_spring.png`},
 
-    { id: "82", name: "React",        cover: `${UL}react_react.png`},
-    { id: "84", name: "React Native", cover: `${UL}react_native.webp`},
-    { id: "86", name: "Angular",      cover: `${UL}react_angular.jpg`},
-    { id: "88", name: "Vue",          cover: `${UL}react_vue.jpg`},
+    { id: "1882", name: "React",        cover: `${UL}react_react.png`},
+    { id: "1884", name: "React Native", cover: `${UL}react_native.webp`},
+    { id: "1886", name: "Angular",      cover: `${UL}react_angular.jpg`},
+    { id: "1888", name: "Vue",          cover: `${UL}react_vue.jpg`},
 ];
 
 

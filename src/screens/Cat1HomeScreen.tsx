@@ -1,5 +1,4 @@
 import React from "react";
-import { StackNavigationProp } from "@react-navigation/stack";
 import { View, Text, FlatList, TouchableOpacity, Image } from "react-native";
 
 import styles from "@/src/styles/bookstyles";

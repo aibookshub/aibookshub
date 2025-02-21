@@ -1,13 +1,3 @@
-二进前项人工神经网络----理论及应用.pdf
-人工神经网络——第六代计算机的实现.pdf
-人工神经网络实用教程.pdf
-人工神经网络导论.pdf
-人工神经网络技术及应用.pdf
-人工神经网络理论及应用.pdf
-从神经元芯片到控制网络.pdf
-多智能体原理与技术.pdf
-大规模人工神经网络理论基础.pdf
-智能控制——基础与应用.pdf
-智能控制系统及其应用.pdf
-智能系统的综合集成.pdf
-电脑人脑化 神经网络.pdf
+1222\Machine-Learning-Interview-Guide.pdf 
+1222\Top 50 Machine Learning Interview Questions.pdf 
+1222\Top 50 Machine Learning Questions.pdf 
