@@ -1,4 +1,4 @@
-const UL = "https://aibookshub.github.io/aibookshub_data/cat_img/";
+const UL = "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/cat_img/"
 
 export const HomeList = [
     { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
