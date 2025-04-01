@@ -24,7 +24,7 @@ const StackNavigator = () => (
                 headerRight: () => (<TouchableOpacity onPress={() => alert("Settings")}><Text></Text></TouchableOpacity>),
             }}
             listeners={{
-                focus: () => console.log("BookDetail focused"),
+                focus: () => console.log("Home focused"),
             }}
         />
 
@@ -38,13 +38,14 @@ const StackNavigator = () => (
                 headerRight: () => (<TouchableOpacity onPress={() => alert("Settings")}><Text></Text></TouchableOpacity>),
             })}
             listeners={{
-                focus: () => console.log("BookDetail focused"),
+                focus: () => console.log("Category- focused"),
             }}
         />
 
         <Stack.Screen   name="Books"    component={BookListScreen}
             options={({ route }) => ({
-                title: route.params?.categoryName || "Book 2 List",
+                // title: route.params?.categoryName || "Book 2 List",
+                title: "book2",
                 headerShown: true,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
@@ -66,7 +67,7 @@ const StackNavigator = () => (
                 headerShown: true,
             })}
             listeners={{
-                focus: () => console.log("BookDetail focused"),
+                focus: () => console.log("Book Detail f 1 ocused"),
             }}
         />
     </Stack.Navigator>

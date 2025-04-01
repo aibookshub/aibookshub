@@ -1,10 +1,9 @@
 // trustAllCerts={false}
 
-import { StatusBar, SafeAreaView, useWindowDimensions, ActivityIndicator, Text } from "react-native";
 import PDF from "react-native-pdf";
 import 'expo-dev-client';
 import React, { useState } from "react";
-import { StyleSheet, Dimensions, View } from 'react-native';
+import { View } from 'react-native';
 import styles from "@/src/styles/bookstyles";
 import { ProgressBar } from "react-native-paper";
 
@@ -13,11 +12,10 @@ const source = {
     cache: true,
 };
 
-function RateTheApp() {
-    const { width, height } = useWindowDimensions();
-    const [isLoading, setIsLoading] = React.useState(true);
+function ShowPDF() {
     const [progress, setProgress] = React.useState(0);
-
+    console.log("Rendering PDF component...");
+    
     return (
         <View style={styles.pdf_container}>
             <ProgressBar progress={progress} color="#0000ff" />
@@ -45,4 +43,4 @@ function RateTheApp() {
     );
 }
 
-export default RateTheApp;
+export default ShowPDF;
