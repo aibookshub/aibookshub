@@ -1,11 +1,11 @@
 import React from "react";
-import { View, Text, FlatList, TouchableOpacity, Image } from "react-native";
+import { Text, TouchableOpacity } from "react-native";
 
 import { createStackNavigator } from "@react-navigation/stack";
 import { RootStackParamList } from "@/src/types"; 
 
-import Cat1HomeScreen from "@/src/screens/Cat1HomeScreen";
-import Cat2SubScreen from "@/src/screens/Cat2SubScreen";
+import HomeScreen from "@/src/screens/HomeScreen";
+import CatScreen from "@/src/screens/CatScreen";
 import BookListScreen from "@/src/screens/BookListScreen";
 import BookDetailScreen from "@/src/screens/BookDetailScreen";
 
@@ -14,9 +14,9 @@ const Stack = createStackNavigator<RootStackParamList>();
 
 const StackNavigator = () => (
     <Stack.Navigator>
-        <Stack.Screen name="Home" component={Cat1HomeScreen}
+        <Stack.Screen name="Home" component={HomeScreen}
             options={{
-                title: "Book Category",
+                title: "Home List",
                 headerShown: false,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
@@ -24,11 +24,11 @@ const StackNavigator = () => (
                 headerRight: () => (<TouchableOpacity onPress={() => alert("Settings")}><Text></Text></TouchableOpacity>),
             }}
             listeners={{
-                focus: () => console.log("Home focused"),
+                focus: () => console.log("Home List"),
             }}
         />
 
-        <Stack.Screen name="Category" component={Cat2SubScreen}
+        <Stack.Screen name="Category" component={CatScreen}
             options={({ route }) => ({
                 title: route.params?.categoryName || "Category",
                 headerShown: true,
@@ -42,10 +42,9 @@ const StackNavigator = () => (
             }}
         />
 
-        <Stack.Screen   name="Books"    component={BookListScreen}
+        <Stack.Screen   name="BookList"    component={BookListScreen}
             options={({ route }) => ({
-                // title: route.params?.categoryName || "Book 2 List",
-                title: "book2",
+                title: route.params?.categoryName || "Book 2 List",
                 headerShown: true,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
@@ -57,7 +56,7 @@ const StackNavigator = () => (
                 ),
             })}
             listeners={{
-                focus: () => console.log("Books screen focused"),
+                focus: () => console.log("Book List screen"),
             }}
         />
 

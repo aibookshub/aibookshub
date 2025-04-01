@@ -1,6 +1,6 @@
 const UL = "https://aibookshub.github.io/aibookshub_data/cat_img/";
 
-export const cat1 = [
+export const HomeList = [
     { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
     { id: "14", name: "Python & Data Science",       cover: `${UL}python.png`},
     { id: "16", name: "Java & Android",              cover: `${UL}java.png`},

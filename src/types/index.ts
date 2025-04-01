@@ -6,7 +6,7 @@ import { DrawerNavigationProp } from '@react-navigation/drawer';
 export type RootStackParamList = {
     Home: undefined;
     Category: { categoryId: string; categoryName: string };
-    Books: { subCateId: string; categoryName: string };
+    BookList: { subCateId: string; categoryName: string };
     BookDetail: { book: { 
         id: string;  
         title: string;  // ✅ Replace `name` with `title`
@@ -47,8 +47,8 @@ export interface SubCateItem {
 }
 
 // booklist
-type BooklistRouteProp = RouteProp<RootStackParamList, "Books">;
-type BooklistNavigationProp = NavigationProp<RootStackParamList, "Books">;
+type BooklistRouteProp = RouteProp<RootStackParamList, "BookList">;
+type BooklistNavigationProp = NavigationProp<RootStackParamList, "BookList">;
 
 export type BooklistProps = {
     route: BooklistRouteProp;
