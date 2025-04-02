@@ -23,7 +23,8 @@ function ShowPDF() {
     const { book } = route.params as ShowPDFRouteParams;
 
     const source = {
-        uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
+        // uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
+        uri: "https://aibookshub.github.io/b18/1888/MEAN Web Development 2014.pdf",
         cache: true,
     };
     // https://raw.githubusercontent.com/aibookshub/b18/1888/MEAN Web Development 2014.pdf
