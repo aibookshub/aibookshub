@@ -7,16 +7,19 @@ export type RootStackParamList = {
   Category: {
     subjectId: string;
     subjectName: string;
-  };
+    bookName?:string;
+};
   BookList: {
     catId: string;
     catName: string;
     subjectId?: string;
-  };
+    bookName?:string;
+};
   BookDetail: {
     book: {
       id: string;
       title: string; // ✅ Replace `name` with `title`
+      bookName?:string;
       cover: string;
       author: string;
       publisher: string;
@@ -58,6 +61,7 @@ export interface SubCateItem {
   name: string;
   cover: string;
   catName?: string;
+  bookName?:string;
 }
 
 // booklist

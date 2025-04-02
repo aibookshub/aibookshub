@@ -3,21 +3,30 @@
 import PDF from "react-native-pdf";
 import 'expo-dev-client';
 import React, { useLayoutEffect } from "react";
-import { useNavigation } from "@react-navigation/native";
+import { useNavigation, useRoute  } from "@react-navigation/native";
 import { View, StatusBar  } from 'react-native';
 import styles from "@/src/styles/bookstyles";
 import { ProgressBar } from "react-native-paper";
 
-const source = {
-    uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
-    cache: true,
+
+type ShowPDFRouteParams = {
+    book: {
+        original_path: string;
+        // Add other book properties you need
+    };
 };
 
 function ShowPDF() {
     const navigation = useNavigation();
+    const route = useRoute();
     const [progress, setProgress] = React.useState(0);
-    console.log("Rendering PDF component...");
-    
+    const { book } = route.params as ShowPDFRouteParams;
+
+    const source = {
+        uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
+        cache: true,
+    };
+    // https://raw.githubusercontent.com/aibookshub/b18/1888/MEAN Web Development 2014.pdf
     useLayoutEffect(() => {
         StatusBar.setHidden(true); // Hide status bar
         return () => StatusBar.setHidden(false); // Restore on unmount
