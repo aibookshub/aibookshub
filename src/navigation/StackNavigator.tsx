@@ -17,7 +17,7 @@ const StackNavigator = () => (
         <Stack.Screen name="Home" component={HomeScreen}
             options={{
                 title: "Home List",
-                headerShown: true,
+                headerShown: false,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
                 gestureEnabled: true,
