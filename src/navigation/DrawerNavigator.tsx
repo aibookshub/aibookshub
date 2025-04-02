@@ -8,9 +8,7 @@ import StackNavigator from "./StackNavigator";
 const Drawer = createDrawerNavigator();
 
 const DrawerNavigator = () => (
-    <Drawer.Navigator drawerContent={(props: any) =>
-        <CustomDrawerContent {...props} />}
-    >
+    <Drawer.Navigator>
         <Drawer.Screen
             name="TopDrawerScreen"
             component={StackNavigator}
