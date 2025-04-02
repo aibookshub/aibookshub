@@ -1,6 +1,7 @@
 export const booklist = [
     {
-        "id": "18820001",
+        "id": "1882",
+        "name": "(2 封私信) React 16.3 的 Context API 能否完全取代 Redux？ - 知乎.pdf",
         "title": "(2 封私信) React 16.3 的 Context API 能否完全取代 Redux？ - 知乎.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -11,7 +12,8 @@ export const booklist = [
         "original_path": "1882/(2 封私信) React 16.3 的 Context API 能否完全取代 Redux？ - 知乎.pdf"
     },
     {
-        "id": "18820002",
+        "id": "1882",
+        "name": "(2 封私信) 网上都说操作真实 DOM 慢，但测试结果却比 React 更快，为什么？ - 知乎.pdf",
         "title": "集装箱改变世界",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -22,7 +24,8 @@ export const booklist = [
         "original_path": "1882/(2 封私信) 网上都说操作真实 DOM 慢，但测试结果却比 React 更快，为什么？ - 知乎.pdf"
     },
     {
-        "id": "18820003",
+        "id": "1882",
+        "name": "(35 条消息) 什么时候react.js合适使用redux与不使用？ - 知乎.pdf",
         "title": "英语进阶指南",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -33,7 +36,8 @@ export const booklist = [
         "original_path": "1882/(35 条消息) 什么时候react.js合适使用redux与不使用？ - 知乎.pdf"
     },
     {
-        "id": "18820004",
+        "id": "1882",
+        "name": "1. Write a React Component Like a Pro _ by Selcuk Ozdemir _ May, 2024 _ JavaScript in Plain English.pdf",
         "title": "Caregiving and Home Care",
         "cover": "http://books.google.com/books/content?id=Nv2PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "BoD – Books on Demand",
@@ -44,7 +48,8 @@ export const booklist = [
         "original_path": "1882/1. Write a React Component Like a Pro _ by Selcuk Ozdemir _ May, 2024 _ JavaScript in Plain English.pdf"
     },
     {
-        "id": "18820005",
+        "id": "1882",
+        "name": "2020.Fullstack React with TypeScript-2020.pdf",
         "title": "Fullstack React",
         "cover": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Fullstack.IO",
@@ -55,7 +60,8 @@ export const booklist = [
         "original_path": "1882/2020.Fullstack React with TypeScript-2020.pdf"
     },
     {
-        "id": "18820006",
+        "id": "1882",
+        "name": "2020.fullstack-react-the-complete-guide-to-reactjs-and-friends.pdf",
         "title": "Fullstack React",
         "cover": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Fullstack.IO",
@@ -66,7 +72,8 @@ export const booklist = [
         "original_path": "1882/2020.fullstack-react-the-complete-guide-to-reactjs-and-friends.pdf"
     },
     {
-        "id": "18820007",
+        "id": "1882",
+        "name": "2020.fullstack-react-with-typescript-a-6259461.pdf",
         "title": "Fullstack React",
         "cover": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Fullstack.IO",
@@ -77,7 +84,8 @@ export const booklist = [
         "original_path": "1882/2020.fullstack-react-with-typescript-a-6259461.pdf"
     },
     {
-        "id": "18820008",
+        "id": "1882",
+        "name": "2020.React_MERN.Projects_Modern_web_development.pdf",
         "title": "Full-Stack React Projects",
         "cover": "http://books.google.com/books/content?id=097dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -88,7 +96,8 @@ export const booklist = [
         "original_path": "1882/2020.React_MERN.Projects_Modern_web_development.pdf"
     },
     {
-        "id": "18820009",
+        "id": "1882",
+        "name": "2021.react-cookbook-recipes-for-mastering-the-react-framework2021.pdf",
         "title": "React Cookbook",
         "cover": "http://books.google.com/books/content?id=5fo8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -99,7 +108,8 @@ export const booklist = [
         "original_path": "1882/2021.react-cookbook-recipes-for-mastering-the-react-framework2021.pdf"
     },
     {
-        "id": "18820010",
+        "id": "1882",
+        "name": "2023.React_18_Design_Patterns_and_Best_Practices_Carlos.pdf",
         "title": "2023.React_18_Design_Patterns_and_Best_Practices_Carlos.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -110,7 +120,8 @@ export const booklist = [
         "original_path": "1882/2023.React_18_Design_Patterns_and_Best_Practices_Carlos.pdf"
     },
     {
-        "id": "18820011",
+        "id": "1882",
+        "name": "2023.state-management-with-react-query-improve-developer.pdf",
         "title": "State Management with React Query",
         "cover": "http://books.google.com/books/content?id=rgu6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -121,7 +132,8 @@ export const booklist = [
         "original_path": "1882/2023.state-management-with-react-query-improve-developer.pdf"
     },
     {
-        "id": "18820012",
+        "id": "1882",
+        "name": "5 Advanced Data-Fetching Techniques in React for Enhanced User Experience _ by Juntao Qiu _ ITNEXT.pdf",
         "title": "Animals in Four Worlds",
         "cover": "http://books.google.com/books/content?id=Jb1Wa_SRNewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "University of Chicago Press",
@@ -132,7 +144,8 @@ export const booklist = [
         "original_path": "1882/5 Advanced Data-Fetching Techniques in React for Enhanced User Experience _ by Juntao Qiu _ ITNEXT.pdf"
     },
     {
-        "id": "18820013",
+        "id": "1882",
+        "name": "671230 React16 进阶之路.pdf",
         "title": "671230 React16 进阶之路.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -143,7 +156,8 @@ export const booklist = [
         "original_path": "1882/671230 React16 进阶之路.pdf"
     },
     {
-        "id": "18820014",
+        "id": "1882",
+        "name": "Alex Banks & Eve Porcello - Learning React Learning React Modern Patterns for Developing React Apps - O′Reilly (2020).pdf",
         "title": "Learning React",
         "cover": "http://books.google.com/books/content?id=tjjrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -154,7 +168,8 @@ export const booklist = [
         "original_path": "1882/Alex Banks & Eve Porcello - Learning React Learning React Modern Patterns for Developing React Apps - O′Reilly (2020).pdf"
     },
     {
-        "id": "18820015",
+        "id": "1882",
+        "name": "Authorization in Node.js and React.js_ Best practices and tips _ by Mateo Galic _ Medium.pdf",
         "title": "Modern Full-Stack Development",
         "cover": "http://books.google.com/books/content?id=XLfZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Apress",
@@ -165,7 +180,8 @@ export const booklist = [
         "original_path": "1882/Authorization in Node.js and React.js_ Best practices and tips _ by Mateo Galic _ Medium.pdf"
     },
     {
-        "id": "18820016",
+        "id": "1882",
+        "name": "Build a To-Do App w_ TypeScript, React, Vite _ Bits and Pieces.pdf",
         "title": "Fullstack React",
         "cover": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Fullstack.IO",
@@ -176,7 +192,8 @@ export const booklist = [
         "original_path": "1882/Build a To-Do App w_ TypeScript, React, Vite _ Bits and Pieces.pdf"
     },
     {
-        "id": "18820017",
+        "id": "1882",
+        "name": "Curry away in React _ HackerNoon.pdf",
         "title": "Functional Programming in JavaScript",
         "cover": "http://books.google.com/books/content?id=HzkzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Simon and Schuster",
@@ -187,7 +204,8 @@ export const booklist = [
         "original_path": "1882/Curry away in React _ HackerNoon.pdf"
     },
     {
-        "id": "18820018",
+        "id": "1882",
+        "name": "learn-react-with-typescript-3-beginners-guide-to 2018.pdf",
         "title": "Learn React with TypeScript 3",
         "cover": "http://books.google.com/books/content?id=Rt18DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -198,7 +216,8 @@ export const booklist = [
         "original_path": "1882/learn-react-with-typescript-3-beginners-guide-to 2018.pdf"
     },
     {
-        "id": "18820019",
+        "id": "1882",
+        "name": "Learning Web Development with React and Bootstrap.pdf",
         "title": "Learning Web Development with React and Bootstrap",
         "cover": "http://books.google.com/books/content?id=sJf1vQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -209,7 +228,8 @@ export const booklist = [
         "original_path": "1882/Learning Web Development with React and Bootstrap.pdf"
     },
     {
-        "id": "18820020",
+        "id": "1882",
+        "name": "learning-react-functional-web-development-with-react-and-flux-9781491954621 2017.pdf",
         "title": "Learning React",
         "cover": "http://books.google.com/books/content?id=pMTADgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -220,7 +240,8 @@ export const booklist = [
         "original_path": "1882/learning-react-functional-web-development-with-react-and-flux-9781491954621 2017.pdf"
     },
     {
-        "id": "18820021",
+        "id": "1882",
+        "name": "Next.js Full-Stack Web App (2024) _ by Devon Wijesinghe _ Stackademic.pdf",
         "title": "Next.js Full-Stack Web App (2024) _ by Devon Wijesinghe _ Stackademic.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -231,7 +252,8 @@ export const booklist = [
         "original_path": "1882/Next.js Full-Stack Web App (2024) _ by Devon Wijesinghe _ Stackademic.pdf"
     },
     {
-        "id": "18820022",
+        "id": "1882",
+        "name": "Quick Start – React.pdf",
         "title": "Create React App 2 Quick Start Guide",
         "cover": "http://books.google.com/books/content?id=Fs6KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -242,7 +264,8 @@ export const booklist = [
         "original_path": "1882/Quick Start – React.pdf"
     },
     {
-        "id": "18820023",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（七）添加菜单点击功能 - 知乎.pdf",
         "title": "学习Web设计",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -253,7 +276,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（七）添加菜单点击功能 - 知乎.pdf"
     },
     {
-        "id": "18820024",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（三）todo list - 知乎.pdf",
         "title": "Go语言编程",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -264,7 +288,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（三）todo list - 知乎.pdf"
     },
     {
-        "id": "18820025",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（九）完整多页签应用基本框架 - 知乎.pdf",
         "title": "学习Web设计",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -275,7 +300,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（九）完整多页签应用基本框架 - 知乎.pdf"
     },
     {
-        "id": "18820026",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（二）Hello world - 知乎.pdf",
         "title": "英语进阶指南",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -286,7 +312,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（二）Hello world - 知乎.pdf"
     },
     {
-        "id": "18820027",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（五）React路由 - 知乎.pdf",
         "title": "学习Web设计",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -297,7 +324,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（五）React路由 - 知乎.pdf"
     },
     {
-        "id": "18820028",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（八）使用全局状态 - 知乎.pdf",
         "title": "英语进阶指南",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -308,7 +336,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（八）使用全局状态 - 知乎.pdf"
     },
     {
-        "id": "18820029",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（六）应用基本框架组件 - 知乎.pdf",
         "title": "学习Web设计",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -319,7 +348,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（六）应用基本框架组件 - 知乎.pdf"
     },
     {
-        "id": "18820030",
+        "id": "1882",
+        "name": "React + typescript + antd开发前端应用（四）代码拆分 - 知乎.pdf",
         "title": "英语进阶指南",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -330,7 +360,8 @@ export const booklist = [
         "original_path": "1882/React + typescript + antd开发前端应用（四）代码拆分 - 知乎.pdf"
     },
     {
-        "id": "18820031",
+        "id": "1882",
+        "name": "React Design Patterns and Best Practices 2017.pdf",
         "title": "React Design Patterns and Best Practices",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -341,7 +372,8 @@ export const booklist = [
         "original_path": "1882/React Design Patterns and Best Practices 2017.pdf"
     },
     {
-        "id": "18820032",
+        "id": "1882",
+        "name": "React Design Patterns. Learn how to apply design patterns in… _ by Bryan Aguilar _ Medium.pdf",
         "title": "Depression in Parents, Parenting, and Children",
         "cover": "http://books.google.com/books/content?id=4vNjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "National Academies Press",
@@ -352,7 +384,8 @@ export const booklist = [
         "original_path": "1882/React Design Patterns. Learn how to apply design patterns in… _ by Bryan Aguilar _ Medium.pdf"
     },
     {
-        "id": "18820033",
+        "id": "1882",
+        "name": "React 中文版 - v1.1.pdf",
         "title": "民主主义与教育",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -363,7 +396,8 @@ export const booklist = [
         "original_path": "1882/React 中文版 - v1.1.pdf"
     },
     {
-        "id": "18820034",
+        "id": "1882",
+        "name": "React 入门实例教程.pdf",
         "title": "Wang ye she ji yu kai fa",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -374,7 +408,8 @@ export const booklist = [
         "original_path": "1882/React 入门实例教程.pdf"
     },
     {
-        "id": "18820035",
+        "id": "1882",
+        "name": "React 入门教程 - v1.0.pdf",
         "title": "OpenGL编程指南(第四版)",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -385,7 +420,8 @@ export const booklist = [
         "original_path": "1882/React 入门教程 - v1.0.pdf"
     },
     {
-        "id": "18820036",
+        "id": "1882",
+        "name": "React 应用设计之道 - curry 化妙用 - 知乎.pdf",
         "title": "專業大廚",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -396,7 +432,8 @@ export const booklist = [
         "original_path": "1882/React 应用设计之道 - curry 化妙用 - 知乎.pdf"
     },
     {
-        "id": "18820037",
+        "id": "1882",
+        "name": "React 编程风格指南.pdf",
         "title": "C程序设计语言",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -407,7 +444,8 @@ export const booklist = [
         "original_path": "1882/React 编程风格指南.pdf"
     },
     {
-        "id": "18820038",
+        "id": "1882",
+        "name": "react-projects-build-12-real-world-applications-from-scratch-react-native 2019.pdf",
         "title": "React Projects",
         "cover": "http://books.google.com/books/content?id=2HvGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -418,7 +456,8 @@ export const booklist = [
         "original_path": "1882/react-projects-build-12-real-world-applications-from-scratch-react-native 2019.pdf"
     },
     {
-        "id": "18820039",
+        "id": "1882",
+        "name": "react.js - 用动画和实战打开 React Hooks（一）：useState 和 useEffect - 图雀社区 - SegmentFault 思否.pdf",
         "title": "react.js - 用动画和实战打开 React Hooks（一）：useState 和 useEffect - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -429,7 +468,8 @@ export const booklist = [
         "original_path": "1882/react.js - 用动画和实战打开 React Hooks（一）：useState 和 useEffect - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820040",
+        "id": "1882",
+        "name": "react.js - 用动画和实战打开 React Hooks（三）：useReducer 和 useContext - 图雀社区 - SegmentFault 思否.pdf",
         "title": "react.js - 用动画和实战打开 React Hooks（三）：useReducer 和 useContext - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -440,7 +480,8 @@ export const booklist = [
         "original_path": "1882/react.js - 用动画和实战打开 React Hooks（三）：useReducer 和 useContext - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820041",
+        "id": "1882",
+        "name": "react.js - 用动画和实战打开 React Hooks（二）：自定义 Hook 和 useCallback - 图雀社区 - SegmentFault 思否.pdf",
         "title": "react.js - 用动画和实战打开 React Hooks（二）：自定义 Hook 和 useCallback - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -451,7 +492,8 @@ export const booklist = [
         "original_path": "1882/react.js - 用动画和实战打开 React Hooks（二）：自定义 Hook 和 useCallback - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820042",
+        "id": "1882",
+        "name": "react.js - 类型即正义：TypeScript 从入门到实践（一） - 图雀社区 - SegmentFault 思否.pdf",
         "title": "react.js - 类型即正义：TypeScript 从入门到实践（一） - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -462,7 +504,8 @@ export const booklist = [
         "original_path": "1882/react.js - 类型即正义：TypeScript 从入门到实践（一） - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820043",
+        "id": "1882",
+        "name": "react.js - 类型即正义：TypeScript 从入门到实践（序章） - 图雀社区 - SegmentFault 思否.pdf",
         "title": "react.js - 类型即正义：TypeScript 从入门到实践（序章） - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -473,7 +516,8 @@ export const booklist = [
         "original_path": "1882/react.js - 类型即正义：TypeScript 从入门到实践（序章） - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820044",
+        "id": "1882",
+        "name": "react.js合适使用redux与不使用？ - 知乎.pdf",
         "title": "狼书",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -484,7 +528,8 @@ export const booklist = [
         "original_path": "1882/react.js合适使用redux与不使用？ - 知乎.pdf"
     },
     {
-        "id": "18820045",
+        "id": "1882",
+        "name": "ReactJS by Example_ Building Modern Web Applications with React2016.pdf",
         "title": "Reactjs by Example- Building Modern Web Applications with React",
         "cover": "http://books.google.com/books/content?id=WWPdjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Packt Publishing",
@@ -495,7 +540,8 @@ export const booklist = [
         "original_path": "1882/ReactJS by Example_ Building Modern Web Applications with React2016.pdf"
     },
     {
-        "id": "18820046",
+        "id": "1882",
+        "name": "ReactJSNotesForProfessionals.pdf",
         "title": "React JavaScript Notes For Professionals",
         "cover": "http://books.google.com/books/content?id=s9eyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Concepts Books Publication",
@@ -506,7 +552,8 @@ export const booklist = [
         "original_path": "1882/ReactJSNotesForProfessionals.pdf"
     },
     {
-        "id": "18820047",
+        "id": "1882",
+        "name": "ReactJS_ Become a professional in web app development 2016.pdf",
         "title": "Learning React Native",
         "cover": "http://books.google.com/books/content?id=wgg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -517,7 +564,8 @@ export const booklist = [
         "original_path": "1882/ReactJS_ Become a professional in web app development 2016.pdf"
     },
     {
-        "id": "18820048",
+        "id": "1882",
+        "name": "React_ Building a Multi-Step Form with Wizard Pattern _ by Ishara Amarasekera _ May, 2024 _ Stackademic.pdf",
         "title": "React_ Building a Multi-Step Form with Wizard Pattern _ by Ishara Amarasekera _ May, 2024 _ Stackademic.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -528,7 +576,8 @@ export const booklist = [
         "original_path": "1882/React_ Building a Multi-Step Form with Wizard Pattern _ by Ishara Amarasekera _ May, 2024 _ Stackademic.pdf"
     },
     {
-        "id": "18820049",
+        "id": "1882",
+        "name": "React_GraphQL_The_Complete_Guide_to_Writing.pdf",
         "title": "React_GraphQL_The_Complete_Guide_to_Writing.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -539,7 +588,8 @@ export const booklist = [
         "original_path": "1882/React_GraphQL_The_Complete_Guide_to_Writing.pdf"
     },
     {
-        "id": "18820050",
+        "id": "1882",
+        "name": "React_引领未来的用户界面开发框架.pdf",
         "title": "JavaScript gao ji cheng xu she ji",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -550,7 +600,8 @@ export const booklist = [
         "original_path": "1882/React_引领未来的用户界面开发框架.pdf"
     },
     {
-        "id": "18820051",
+        "id": "1882",
+        "name": "React与Redux开发实例精解2016.pdf",
         "title": "财务会计",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -561,29 +612,32 @@ export const booklist = [
         "original_path": "1882/React与Redux开发实例精解2016.pdf"
     },
     {
-        "id": "18820052",
-        "title": "城市发展研究",
-        "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "id": "1882",
+        "name": "React两大组件，三大核心属性,事件处理和函数柯里化-腾讯云开发者社区-腾讯云.pdf",
+        "title": "挑战与出路",
+        "cover": "http://books.google.com/books/content?id=TItnAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
         "author": "Unknown Author",
-        "summary": "None",
+        "summary": "本书收有论述铁路深化改革、逐步走向市场、加强发展速度的文章70余篇,均为近期中央和铁道部领导及专家学者的讲话、专论选编等。",
         "previewLink": "No preview link",
         "isbn_13": "",
         "original_path": "1882/React两大组件，三大核心属性,事件处理和函数柯里化-腾讯云开发者社区-腾讯云.pdf"
     },
     {
-        "id": "18820053",
-        "title": "HTML,CSS,JavaScript shi li jiao cheng",
+        "id": "1882",
+        "name": "React入门指南.pdf",
+        "title": "Wang ye she ji yu kai fa",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
         "author": "Unknown Author",
-        "summary": "本书讲解HTML5,CSS3和JavaScript的基本语法和设计技巧.在HTML5部分,强调HTML5基本语法及新增元素和属性的应用.在CSS3部分,通过评析知名网站典型页面,加强学生对商业网站页面设计基本原则及页面布局技术的理解和应用.在JavaScript部分,讲授基本语法和程序结构,并通过案例加强学生对页面元素交互编程的理解.最后通过一个班级网站整站设计案例介绍网站从规划,设计,实现到发布的完整过程.",
+        "summary": "本书共12章,内容包括:网页设计简介,HTML基础,文字与段落,列表,超链接,表格,表单,使用CSS格式化网页,JayaScript基础,HTML5应用,综合网站案例制作,质臻家居网站制作实例.",
         "previewLink": "No preview link",
-        "isbn_13": "9787302562740",
+        "isbn_13": "9787302556886",
         "original_path": "1882/React入门指南.pdf"
     },
     {
-        "id": "18820054",
+        "id": "1882",
+        "name": "React和Redux深入浅出 2017.pdf",
         "title": "Quan zhan kai fa zhi dao",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -594,7 +648,8 @@ export const booklist = [
         "original_path": "1882/React和Redux深入浅出 2017.pdf"
     },
     {
-        "id": "18820055",
+        "id": "1882",
+        "name": "React学习手册 2017.pdf",
         "title": "網頁設計手冊(上)：網站開發基礎16堂課",
         "cover": "http://books.google.com/books/content?id=Q1HuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "五南圖書出版股份有限公司",
@@ -605,7 +660,8 @@ export const booklist = [
         "original_path": "1882/React学习手册 2017.pdf"
     },
     {
-        "id": "18820056",
+        "id": "1882",
+        "name": "React快速上手开发.pdf",
         "title": "深入淺出設計模式",
         "cover": "http://books.google.com/books/content?id=I3U5PFHMZJ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "O'Reilly Taiwan",
@@ -616,7 +672,8 @@ export const booklist = [
         "original_path": "1882/React快速上手开发.pdf"
     },
     {
-        "id": "18820057",
+        "id": "1882",
+        "name": "react快速上手开发[撩撩前端].pdf",
         "title": "Python从入门到精通",
         "cover": "http://books.google.com/books/content?id=0yf7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "清华大学出版社（崧博）",
@@ -627,7 +684,8 @@ export const booklist = [
         "original_path": "1882/react快速上手开发[撩撩前端].pdf"
     },
     {
-        "id": "18820058",
+        "id": "1882",
+        "name": "React精髓[撩撩前端]2015.pdf",
         "title": "数据库系统实验指导",
         "cover": "http://books.google.com/books/content?id=geT9XAFkNwEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "清华大学出版社有限公司",
@@ -638,7 +696,8 @@ export const booklist = [
         "original_path": "1882/React精髓[撩撩前端]2015.pdf"
     },
     {
-        "id": "18820059",
+        "id": "1882",
+        "name": "React系列(一) -邂逅React开发-阿里云开发者社区.pdf",
         "title": "在React生態圈打滾的一年feat.TypeScript（iT邦幫忙鐵人賽系列書）",
         "cover": "http://books.google.com/books/content?id=TcQiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩",
@@ -649,7 +708,8 @@ export const booklist = [
         "original_path": "1882/React系列(一) -邂逅React开发-阿里云开发者社区.pdf"
     },
     {
-        "id": "18820060",
+        "id": "1882",
+        "name": "React系列(一) -邂逅React开发.pdf",
         "title": "在React生態圈打滾的一年feat.TypeScript（iT邦幫忙鐵人賽系列書）",
         "cover": "http://books.google.com/books/content?id=TcQiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩",
@@ -660,18 +720,20 @@ export const booklist = [
         "original_path": "1882/React系列(一) -邂逅React开发.pdf"
     },
     {
-        "id": "18820061",
-        "title": "Wang ye she ji yu kai fa",
+        "id": "1882",
+        "name": "React设计模式与最佳实践.pdf",
+        "title": "HTML,CSS,JavaScript shi li jiao cheng",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
         "author": "Unknown Author",
-        "summary": "本书共12章,内容包括:网页设计简介,HTML基础,文字与段落,列表,超链接,表格,表单,使用CSS格式化网页,JayaScript基础,HTML5应用,综合网站案例制作,质臻家居网站制作实例.",
+        "summary": "本书讲解HTML5,CSS3和JavaScript的基本语法和设计技巧.在HTML5部分,强调HTML5基本语法及新增元素和属性的应用.在CSS3部分,通过评析知名网站典型页面,加强学生对商业网站页面设计基本原则及页面布局技术的理解和应用.在JavaScript部分,讲授基本语法和程序结构,并通过案例加强学生对页面元素交互编程的理解.最后通过一个班级网站整站设计案例介绍网站从规划,设计,实现到发布的完整过程.",
         "previewLink": "No preview link",
-        "isbn_13": "9787302556886",
+        "isbn_13": "9787302562740",
         "original_path": "1882/React设计模式与最佳实践.pdf"
     },
     {
-        "id": "18820062",
+        "id": "1882",
+        "name": "React设计模式与最佳实践2018.pdf",
         "title": "设计体系",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -682,7 +744,8 @@ export const booklist = [
         "original_path": "1882/React设计模式与最佳实践2018.pdf"
     },
     {
-        "id": "18820063",
+        "id": "1882",
+        "name": "Redux 包教包会（一）：解救 React 状态危机-腾讯云开发者社区-腾讯云.pdf",
         "title": "Redux 包教包会（一）：解救 React 状态危机-腾讯云开发者社区-腾讯云.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -693,7 +756,8 @@ export const booklist = [
         "original_path": "1882/Redux 包教包会（一）：解救 React 状态危机-腾讯云开发者社区-腾讯云.pdf"
     },
     {
-        "id": "18820064",
+        "id": "1882",
+        "name": "Thinking in React - React.pdf",
         "title": "Fullstack React",
         "cover": "http://books.google.com/books/content?id=ppjUtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Fullstack.IO",
@@ -704,7 +768,8 @@ export const booklist = [
         "original_path": "1882/Thinking in React - React.pdf"
     },
     {
-        "id": "18820065",
+        "id": "1882",
+        "name": "Top 5 React Best Practices Every Developer Should Know _ Danusha Navod _ Bits and Pieces.pdf",
         "title": "The Science of Fairy Tales: An Inquiry into Fairy Mythology",
         "cover": "http://books.google.com/books/content?id=MWUZxZd1HSgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Library of Alexandria",
@@ -715,7 +780,8 @@ export const booklist = [
         "original_path": "1882/Top 5 React Best Practices Every Developer Should Know _ Danusha Navod _ Bits and Pieces.pdf"
     },
     {
-        "id": "18820066",
+        "id": "1882",
+        "name": "Write a React Component Like a Pro _ by Selcuk Ozdemir _ JavaScript in Plain English.pdf",
         "title": "Nutritional Composition of Fruit Cultivars",
         "cover": "http://books.google.com/books/content?id=r4bVBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Academic Press",
@@ -726,7 +792,8 @@ export const booklist = [
         "original_path": "1882/Write a React Component Like a Pro _ by Selcuk Ozdemir _ JavaScript in Plain English.pdf"
     },
     {
-        "id": "18820067",
+        "id": "1882",
+        "name": "[Tutorial] Building a chatbot with React and OpenAI • Buttondown.pdf",
         "title": "The Complete FreeBSD",
         "cover": "http://books.google.com/books/content?id=7Y5kfaRmtKUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -737,7 +804,8 @@ export const booklist = [
         "original_path": "1882/[Tutorial] Building a chatbot with React and OpenAI • Buttondown.pdf"
     },
     {
-        "id": "18820068",
+        "id": "1882",
+        "name": "一杯茶的时间，上手 React 框架开发 - 掘金.pdf",
         "title": "我们终将改变潮水的方向",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Bright Sparks",
@@ -748,7 +816,8 @@ export const booklist = [
         "original_path": "1882/一杯茶的时间，上手 React 框架开发 - 掘金.pdf"
     },
     {
-        "id": "18820069",
+        "id": "1882",
+        "name": "前端 - Redux 包教包会（一）：解救 React 状态危机 - 图雀社区 - SegmentFault 思否.pdf",
         "title": "前端 - Redux 包教包会（一）：解救 React 状态危机 - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -759,7 +828,8 @@ export const booklist = [
         "original_path": "1882/前端 - Redux 包教包会（一）：解救 React 状态危机 - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820070",
+        "id": "1882",
+        "name": "前端 - 一杯茶的时间，上手 React 框架开发 - 图雀社区 - SegmentFault 思否.pdf",
         "title": "前端 - 一杯茶的时间，上手 React 框架开发 - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -770,7 +840,8 @@ export const booklist = [
         "original_path": "1882/前端 - 一杯茶的时间，上手 React 框架开发 - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820071",
+        "id": "1882",
+        "name": "彻底让你理解redux-腾讯云开发者社区-腾讯云.pdf",
         "title": "英语进阶指南",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -781,7 +852,8 @@ export const booklist = [
         "original_path": "1882/彻底让你理解redux-腾讯云开发者社区-腾讯云.pdf"
     },
     {
-        "id": "18820072",
+        "id": "1882",
+        "name": "深入React技术栈 2016.pdf",
         "title": "Go语言编程",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -792,7 +864,8 @@ export const booklist = [
         "original_path": "1882/深入React技术栈 2016.pdf"
     },
     {
-        "id": "18820073",
+        "id": "1884",
+        "name": "fullstack-react-native-create-beautiful-mobile-apps-with-javascript-and-react-native-5nbsped-1728995558-9781728995557.pdf",
         "title": "Fullstack React Native",
         "cover": "http://books.google.com/books/content?id=HXk6wQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Independently Published",
@@ -803,7 +876,8 @@ export const booklist = [
         "original_path": "1884/fullstack-react-native-create-beautiful-mobile-apps-with-javascript-and-react-native-5nbsped-1728995558-9781728995557.pdf"
     },
     {
-        "id": "18820074",
+        "id": "1884",
+        "name": "Getting Started with React Native2015.pdf",
         "title": "Learning React Native",
         "cover": "http://books.google.com/books/content?id=wgg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -814,7 +888,8 @@ export const booklist = [
         "original_path": "1884/Getting Started with React Native2015.pdf"
     },
     {
-        "id": "18820075",
+        "id": "1884",
+        "name": "Learning React Native2016.pdf",
         "title": "Learning React Native",
         "cover": "http://books.google.com/books/content?id=wgg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -825,7 +900,8 @@ export const booklist = [
         "original_path": "1884/Learning React Native2016.pdf"
     },
     {
-        "id": "18820076",
+        "id": "1884",
+        "name": "Practical React Native_ Build Two Full Projects and One Full Game Using React Native 2018.pdf",
         "title": "Practical React Native",
         "cover": "http://books.google.com/books/content?id=oIx5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Apress",
@@ -836,7 +912,8 @@ export const booklist = [
         "original_path": "1884/Practical React Native_ Build Two Full Projects and One Full Game Using React Native 2018.pdf"
     },
     {
-        "id": "18820077",
+        "id": "1884",
+        "name": "React and React Native2017.pdf",
         "title": "Learning React Native",
         "cover": "http://books.google.com/books/content?id=wgg7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -847,7 +924,8 @@ export const booklist = [
         "original_path": "1884/React and React Native2017.pdf"
     },
     {
-        "id": "18820078",
+        "id": "1884",
+        "name": "React Native Cookbook 2018.pdf",
         "title": "React Native Cookbook",
         "cover": "http://books.google.com/books/content?id=HexLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -858,7 +936,8 @@ export const booklist = [
         "original_path": "1884/React Native Cookbook 2018.pdf"
     },
     {
-        "id": "18820079",
+        "id": "1884",
+        "name": "React Native入门与实战.pdf",
         "title": "代码之美",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -869,7 +948,8 @@ export const booklist = [
         "original_path": "1884/React Native入门与实战.pdf"
     },
     {
-        "id": "18820080",
+        "id": "1884",
+        "name": "React Native应用开发实例解析.pdf",
         "title": "實戰Firebase｜APP開發者的最佳雲端服務平台(電子書)",
         "cover": "http://books.google.com/books/content?id=UGlwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "碁峰資訊股份有限公司",
@@ -880,7 +960,8 @@ export const booklist = [
         "original_path": "1884/React Native应用开发实例解析.pdf"
     },
     {
-        "id": "18820081",
+        "id": "1884",
+        "name": "React Native开发指南.pdf",
         "title": "OpenGL编程指南(第四版)",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -891,7 +972,8 @@ export const booklist = [
         "original_path": "1884/React Native开发指南.pdf"
     },
     {
-        "id": "18820082",
+        "id": "1884",
+        "name": "ReactNativeNotesForProfessionals.pdf",
         "title": "React Native Notes for Professionals book",
         "cover": "http://books.google.com/books/content?id=r9eyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Concepts Books Publication",
@@ -902,7 +984,8 @@ export const booklist = [
         "original_path": "1884/ReactNativeNotesForProfessionals.pdf"
     },
     {
-        "id": "18820083",
+        "id": "1884",
+        "name": "ReactNative移动开发实战.html.pdf",
         "title": "React进阶之路",
         "cover": "http://books.google.com/books/content?id=DSf7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "清华大学出版社（崧博）",
@@ -913,7 +996,8 @@ export const booklist = [
         "original_path": "1884/ReactNative移动开发实战.html.pdf"
     },
     {
-        "id": "18820084",
+        "id": "1886",
+        "name": "2020.learning-angular-a-no-nonsense-beginners-guide-to-building-web-applications-with-angular-10.pdf",
         "title": "Learning Angular",
         "cover": "http://books.google.com/books/content?id=tV-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -924,7 +1008,8 @@ export const booklist = [
         "original_path": "1886/2020.learning-angular-a-no-nonsense-beginners-guide-to-building-web-applications-with-angular-10.pdf"
     },
     {
-        "id": "18820085",
+        "id": "1886",
+        "name": "2021 angular-cookbook-over-80-actionable-recipes-every-angular-developer-should-know.pdf",
         "title": "Angular Cookbook",
         "cover": "http://books.google.com/books/content?id=wTvrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -935,7 +1020,8 @@ export const booklist = [
         "original_path": "1886/2021 angular-cookbook-over-80-actionable-recipes-every-angular-developer-should-know.pdf"
     },
     {
-        "id": "18820086",
+        "id": "1886",
+        "name": "2021.Angular_Projects_Second_Edition_Build_modern_web.pdf",
         "title": "Angular Projects",
         "cover": "http://books.google.com/books/content?id=huPLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -946,7 +1032,8 @@ export const booklist = [
         "original_path": "1886/2021.Angular_Projects_Second_Edition_Build_modern_web.pdf"
     },
     {
-        "id": "18820087",
+        "id": "1886",
+        "name": "2022.Adam_Freeman_Pro_Angular_Build_Powerful_and_Dynamic_Web_Apps.pdf",
         "title": "2022.Adam_Freeman_Pro_Angular_Build_Powerful_and_Dynamic_Web_Apps.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -957,7 +1044,8 @@ export const booklist = [
         "original_path": "1886/2022.Adam_Freeman_Pro_Angular_Build_Powerful_and_Dynamic_Web_Apps.pdf"
     },
     {
-        "id": "18820088",
+        "id": "1886",
+        "name": "2023. Angular Projects - Third Edition-9781803239118.pdf",
         "title": "2023. Angular Projects - Third Edition-9781803239118.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -968,7 +1056,8 @@ export const booklist = [
         "original_path": "1886/2023. Angular Projects - Third Edition-9781803239118.pdf"
     },
     {
-        "id": "18820089",
+        "id": "1886",
+        "name": "2023. getting-started-with-angular-create-and-deploy-angular-applications.pdf",
         "title": "Getting Started with Angular",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -979,7 +1068,8 @@ export const booklist = [
         "original_path": "1886/2023. getting-started-with-angular-create-and-deploy-angular-applications.pdf"
     },
     {
-        "id": "18820090",
+        "id": "1886",
+        "name": "2023. Learning Angular - Fourth Edition-9781803240602.pdf",
         "title": "Learning Angular",
         "cover": "http://books.google.com/books/content?id=tV-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -990,7 +1080,8 @@ export const booklist = [
         "original_path": "1886/2023. Learning Angular - Fourth Edition-9781803240602.pdf"
     },
     {
-        "id": "18820091",
+        "id": "1886",
+        "name": "2023.Angular Projects - Third Edition-9781803239118.pdf",
         "title": "Angular Projects",
         "cover": "http://books.google.com/books/content?id=huPLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1001,7 +1092,8 @@ export const booklist = [
         "original_path": "1886/2023.Angular Projects - Third Edition-9781803239118.pdf"
     },
     {
-        "id": "18820092",
+        "id": "1886",
+        "name": "2023.Getting Started with Angular Create and Deploy Angular Applications-9781484292068.pdf",
         "title": "Getting Started with Angular",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1012,7 +1104,8 @@ export const booklist = [
         "original_path": "1886/2023.Getting Started with Angular Create and Deploy Angular Applications-9781484292068.pdf"
     },
     {
-        "id": "18820093",
+        "id": "1886",
+        "name": "2023.Learning Angular - Fourth Edition-9781803240602.pdf",
         "title": "Learning Angular",
         "cover": "http://books.google.com/books/content?id=tV-vEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1023,7 +1116,8 @@ export const booklist = [
         "original_path": "1886/2023.Learning Angular - Fourth Edition-9781803240602.pdf"
     },
     {
-        "id": "18820094",
+        "id": "1886",
+        "name": "@premium_ebooks_Angular_Projects_Second_Edition_Build_modern_web.pdf",
         "title": "@premium_ebooks_Angular_Projects_Second_Edition_Build_modern_web.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1034,7 +1128,8 @@ export const booklist = [
         "original_path": "1886/@premium_ebooks_Angular_Projects_Second_Edition_Build_modern_web.pdf"
     },
     {
-        "id": "18820095",
+        "id": "1886",
+        "name": "Angular Test-Driven Development - Second Edition 2017.pdf",
         "title": "Test-Driven iOS Development with Swift",
         "cover": "http://books.google.com/books/content?id=-axKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1045,7 +1140,8 @@ export const booklist = [
         "original_path": "1886/Angular Test-Driven Development - Second Edition 2017.pdf"
     },
     {
-        "id": "18820096",
+        "id": "1886",
+        "name": "Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - JerryWang_汪子熙 - 博客园.pdf",
         "title": "Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - JerryWang_汪子熙 - 博客园.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1056,7 +1152,8 @@ export const booklist = [
         "original_path": "1886/Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - JerryWang_汪子熙 - 博客园.pdf"
     },
     {
-        "id": "18820097",
+        "id": "1886",
+        "name": "Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - 知乎.pdf",
         "title": "Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - 知乎.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1067,7 +1164,8 @@ export const booklist = [
         "original_path": "1886/Angular 应用里产品列表行项目点击后跳转到产品明细页面的实现 - 知乎.pdf"
     },
     {
-        "id": "18820098",
+        "id": "1886",
+        "name": "angular-from-theory-to-practice.pdf",
         "title": "Angular Development with TypeScript",
         "cover": "http://books.google.com/books/content?id=1TgzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Simon and Schuster",
@@ -1078,7 +1176,8 @@ export const booklist = [
         "original_path": "1886/angular-from-theory-to-practice.pdf"
     },
     {
-        "id": "18820099",
+        "id": "1886",
+        "name": "AngularJS Essentials 2014.pdf",
         "title": "AngularJS Design Patterns",
         "cover": "http://books.google.com/books/content?id=koTWngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1089,7 +1188,8 @@ export const booklist = [
         "original_path": "1886/AngularJS Essentials 2014.pdf"
     },
     {
-        "id": "18820100",
+        "id": "1886",
+        "name": "AngularJS Test-driven Development 2015.pdf",
         "title": "Test-Driven Development with React",
         "cover": "http://books.google.com/books/content?id=tWg6zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Apress",
@@ -1100,7 +1200,8 @@ export const booklist = [
         "original_path": "1886/AngularJS Test-driven Development 2015.pdf"
     },
     {
-        "id": "18820101",
+        "id": "1886",
+        "name": "angularjs 实现简单的快递页面_angularjs 送货-CSDN博客.pdf",
         "title": "使用Laravel 8 PHP主流框架打造RESTful API（iT邦幫忙鐵人賽系列書）",
         "cover": "http://books.google.com/books/content?id=RcQiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩",
@@ -1111,18 +1212,20 @@ export const booklist = [
         "original_path": "1886/angularjs 实现简单的快递页面_angularjs 送货-CSDN博客.pdf"
     },
     {
-        "id": "18820102",
-        "title": "Ionic移动开发入门与实战",
-        "cover": "http://books.google.com/books/content?id=zSf7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "publisher": "清华大学出版社（崧博）",
-        "author": "秦超，李一鸣著",
-        "summary": "Ionic是目前集流行与成熟两个特点于一身的跨平台移动开发框架。本书以实例驱动讲解的方式，让仅有简单网页制作基础知识的读者，也能轻松掌握Ionic3.X下的移动应用开发。 本书分为4篇，第1篇是移动开发准备，介绍了Ionic、Phonegap、Cordova、HTML5和移动开发的一些基础知识；第2篇是Ionic基础知识准备与常用库，介绍了配置开发Ionic环境所依赖的Angular、SASS、Gulplodash等业内主流库和工具；第3篇是Ionic组件完全解析，对Ionic的内置样式和TypeScript组件类进行完整解析；第4篇是App项目实战和发布推广，介绍了如何按照业内通行实践的策划、设计、开发过程完成Ionic开发的完整App。在开发完成之后，详解如何为Android和iOS两大移动平台发布和推广更新自己的App。 本书内容详尽、实例丰富，是Ionic初学者、HTML 5爱好者、移动互联网创业者、移动开发人员必备的参考书，同时也适合高等院校和培训学校的师生学习阅读。",
+        "id": "1886",
+        "name": "AngularJS开发下一代Web应用.pdf",
+        "title": "微服务分布式构架开发实战",
+        "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "None",
+        "author": "龚鹏",
+        "summary": "Ben shu zhu yao miao shu fen bu shi jia gou zu cheng ji ji chu ban ben shi xian yuan li,Jie shao Dubbo yu Spring Cloud zhu liu fen bu shi kuang jia.Yi shi ji xiang mu xu qiu wei chu fa dian,Shi yong Spring Cloud(wei zhu)Yu Dubbo jie jue fu wu fa xian yu zhu ce,Fu wu wang guan,restful,Shu ju ku cao zuo,Huan cun,Xiao xi dui lie,Ri zhi,Quan wen jian suo fu wu,Fu wu diao yong,Cuo wu chu li,Fu wu guan li,Biao dan yan zheng deng.",
         "previewLink": "No preview link",
-        "isbn_13": "9787302503453",
+        "isbn_13": "9787115475589",
         "original_path": "1886/AngularJS开发下一代Web应用.pdf"
     },
     {
-        "id": "18820103",
+        "id": "1886",
+        "name": "AngularJS权威教程.ng-book2014.pdf",
         "title": "AngularJS权威教程.ng-book2014.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1133,7 +1236,8 @@ export const booklist = [
         "original_path": "1886/AngularJS权威教程.ng-book2014.pdf"
     },
     {
-        "id": "18820104",
+        "id": "1886",
+        "name": "Angular新手入门指南【最全】 - 浅浅而谈 - 博客园.pdf",
         "title": "中国国家治理的制度逻辑",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1144,7 +1248,8 @@ export const booklist = [
         "original_path": "1886/Angular新手入门指南【最全】 - 浅浅而谈 - 博客园.pdf"
     },
     {
-        "id": "18820105",
+        "id": "1886",
+        "name": "Core2andAngular5_Full-StackWebDev.NET.2017.pdf",
         "title": "Core2andAngular5_Full-StackWebDev.NET.2017.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1155,7 +1260,8 @@ export const booklist = [
         "original_path": "1886/Core2andAngular5_Full-StackWebDev.NET.2017.pdf"
     },
     {
-        "id": "18820106",
+        "id": "1886",
+        "name": "getting-started-with-angular-2nbsped 2020.pdf",
         "title": "Web Development with Node and Express",
         "cover": "http://books.google.com/books/content?id=1cHvAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -1166,7 +1272,8 @@ export const booklist = [
         "original_path": "1886/getting-started-with-angular-2nbsped 2020.pdf"
     },
     {
-        "id": "18820107",
+        "id": "1886",
+        "name": "Learning Web Development with Bootstrap and Angular - Second Edition.pdf",
         "title": "Web Development with Angular and Bootstrap",
         "cover": "http://books.google.com/books/content?id=uK78vgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1177,7 +1284,8 @@ export const booklist = [
         "original_path": "1886/Learning Web Development with Bootstrap and Angular - Second Edition.pdf"
     },
     {
-        "id": "18820108",
+        "id": "1886",
+        "name": "Learning Web Development with Bootstrap and AngularJS.pdf",
         "title": "AngularJS Web Application Development Blueprints",
         "cover": "http://books.google.com/books/content?id=t-laBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1188,7 +1296,8 @@ export const booklist = [
         "original_path": "1886/Learning Web Development with Bootstrap and AngularJS.pdf"
     },
     {
-        "id": "18820109",
+        "id": "1886",
+        "name": "Mastering Web Application Development with AngularJS 2013.pdf",
         "title": "AngularJS Design Patterns",
         "cover": "http://books.google.com/books/content?id=koTWngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1199,7 +1308,8 @@ export const booklist = [
         "original_path": "1886/Mastering Web Application Development with AngularJS 2013.pdf"
     },
     {
-        "id": "18820110",
+        "id": "1886",
+        "name": "ng-book2-angular-6-r68.pdf",
         "title": "The Siouan Project",
         "cover": "http://books.google.com/books/content?id=g85rAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1210,7 +1320,8 @@ export const booklist = [
         "original_path": "1886/ng-book2-angular-6-r68.pdf"
     },
     {
-        "id": "18820111",
+        "id": "1886",
+        "name": "Pro.Angular.5th.Edition.Apress.9781484281758.EBooksWorld.ir.pdf",
         "title": "Pro Angular 9",
         "cover": "http://books.google.com/books/content?id=ji3rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Apress",
@@ -1221,7 +1332,8 @@ export const booklist = [
         "original_path": "1886/Pro.Angular.5th.Edition.Apress.9781484281758.EBooksWorld.ir.pdf"
     },
     {
-        "id": "18820112",
+        "id": "1886",
+        "name": "Reactive Patterns with RxJS for Angular-9781801811514.pdf",
         "title": "Reactive Patterns with RxJS for Angular",
         "cover": "http://books.google.com/books/content?id=V01nEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1232,7 +1344,8 @@ export const booklist = [
         "original_path": "1886/Reactive Patterns with RxJS for Angular-9781801811514.pdf"
     },
     {
-        "id": "18820113",
+        "id": "1886",
+        "name": "Web Development with Bootstrap 4 and Angular 2 - Second Edition.pdf",
         "title": "Rails, Angular, Postgres, and Bootstrap",
         "cover": "http://books.google.com/books/content?id=dK5RvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1243,7 +1356,8 @@ export const booklist = [
         "original_path": "1886/Web Development with Bootstrap 4 and Angular 2 - Second Edition.pdf"
     },
     {
-        "id": "18820114",
+        "id": "1887",
+        "name": "Learning Vue.js 2.pdf",
         "title": "Learning Vue.js 2",
         "cover": "http://books.google.com/books/content?id=nszcDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1254,7 +1368,8 @@ export const booklist = [
         "original_path": "1887/Learning Vue.js 2.pdf"
     },
     {
-        "id": "18820115",
+        "id": "1887",
+        "name": "The Majesty of Vue.js.pdf",
         "title": "The Majesty of Vue. Js",
         "cover": "http://books.google.com/books/content?id=w90cMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1265,7 +1380,8 @@ export const booklist = [
         "original_path": "1887/The Majesty of Vue.js.pdf"
     },
     {
-        "id": "18820116",
+        "id": "1887",
+        "name": "vue.js - 全栈“食”代：Django + Nuxt 实现美食分享网站（下） - 图雀社区 - SegmentFault 思否.pdf",
         "title": "vue.js - 全栈“食”代：Django + Nuxt 实现美食分享网站（下） - 图雀社区 - SegmentFault 思否.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1276,7 +1392,8 @@ export const booklist = [
         "original_path": "1887/vue.js - 全栈“食”代：Django + Nuxt 实现美食分享网站（下） - 图雀社区 - SegmentFault 思否.pdf"
     },
     {
-        "id": "18820117",
+        "id": "1887",
+        "name": "Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps.pdf",
         "title": "Vue.js 2 Web Development Projects",
         "cover": "http://books.google.com/books/content?id=ZEBPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1287,7 +1404,8 @@ export const booklist = [
         "original_path": "1887/Vue.js 2 Web Development Projects - Learn Vue.js by building 6 web apps.pdf"
     },
     {
-        "id": "18820118",
+        "id": "1887",
+        "name": "Vue.js v3.0 教程（Vue3 教程）.pdf",
         "title": "JavaScript入门经典",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1298,7 +1416,8 @@ export const booklist = [
         "original_path": "1887/Vue.js v3.0 教程（Vue3 教程）.pdf"
     },
     {
-        "id": "18820119",
+        "id": "1887",
+        "name": "Vue.js 教程 - v1.0.pdf",
         "title": "Go语言编程",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1309,7 +1428,8 @@ export const booklist = [
         "original_path": "1887/Vue.js 教程 - v1.0.pdf"
     },
     {
-        "id": "18820120",
+        "id": "1887",
+        "name": "Vue.js前端开发 快速入门与专业应用.pdf",
         "title": "重新認識Vue.js",
         "cover": "http://books.google.com/books/content?id=C7MsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩文化",
@@ -1320,7 +1440,8 @@ export const booklist = [
         "original_path": "1887/Vue.js前端开发 快速入门与专业应用.pdf"
     },
     {
-        "id": "18820121",
+        "id": "1887",
+        "name": "Vue.js前端开发.pdf",
         "title": "重新認識Vue.js",
         "cover": "http://books.google.com/books/content?id=C7MsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩文化",
@@ -1331,7 +1452,8 @@ export const booklist = [
         "original_path": "1887/Vue.js前端开发.pdf"
     },
     {
-        "id": "18820122",
+        "id": "1887",
+        "name": "Vue.js在前端...1506524160.pdf",
         "title": "Vue.js在前端...1506524160.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1342,7 +1464,8 @@ export const booklist = [
         "original_path": "1887/Vue.js在前端...1506524160.pdf"
     },
     {
-        "id": "18820123",
+        "id": "1887",
+        "name": "Vue.js小书 by 刘传君 [刘传君] (z-lib.org).pdf",
         "title": "Vue.js小书 by 刘传君 [刘传君] (z-lib.org).pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1353,7 +1476,8 @@ export const booklist = [
         "original_path": "1887/Vue.js小书 by 刘传君 [刘传君] (z-lib.org).pdf"
     },
     {
-        "id": "18820124",
+        "id": "1887",
+        "name": "Vue.js项目实战.pdf",
         "title": "重新認識Vue.js",
         "cover": "http://books.google.com/books/content?id=C7MsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "博碩文化",
@@ -1364,7 +1488,8 @@ export const booklist = [
         "original_path": "1887/Vue.js项目实战.pdf"
     },
     {
-        "id": "18820125",
+        "id": "1887",
+        "name": "Vue_3Hassan_Djirdeh,_Nate_Murray,_and_Ari_Lerner_Fullstack__The.pdf",
         "title": "Fullstack Vue",
         "cover": "http://books.google.com/books/content?id=G9s2tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Createspace Independent Publishing Platform",
@@ -1375,7 +1500,8 @@ export const booklist = [
         "original_path": "1887/Vue_3Hassan_Djirdeh,_Nate_Murray,_and_Ari_Lerner_Fullstack__The.pdf"
     },
     {
-        "id": "18820126",
+        "id": "1887",
+        "name": "深入浅出Vue.js by 刘博文 (z-lib.org).pdf",
         "title": "深入浅出Vue.js by 刘博文 (z-lib.org).pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1386,7 +1512,8 @@ export const booklist = [
         "original_path": "1887/深入浅出Vue.js by 刘博文 (z-lib.org).pdf"
     },
     {
-        "id": "18820127",
+        "id": "1888",
+        "name": "Build a Caching Layer in Node.js With Redis _ by Semaphore _ Medium.pdf",
         "title": "Redis in Action",
         "cover": "http://books.google.com/books/content?id=xjszEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Simon and Schuster",
@@ -1397,7 +1524,8 @@ export const booklist = [
         "original_path": "1888/Build a Caching Layer in Node.js With Redis _ by Semaphore _ Medium.pdf"
     },
     {
-        "id": "18820128",
+        "id": "1888",
+        "name": "Designing and Modeling the Database with Mongoose _ Ayoub Khial.pdf",
         "title": "Mongoose for Application Development",
         "cover": "http://books.google.com/books/content?id=DxTFXO771tIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1408,7 +1536,8 @@ export const booklist = [
         "original_path": "1888/Designing and Modeling the Database with Mongoose _ Ayoub Khial.pdf"
     },
     {
-        "id": "18820129",
+        "id": "1888",
+        "name": "Express in Action - Writing, Building, and Testing Node.js Applications.pdf",
         "title": "Express in Action",
         "cover": "http://books.google.com/books/content?id=czkzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Simon and Schuster",
@@ -1419,7 +1548,8 @@ export const booklist = [
         "original_path": "1888/Express in Action - Writing, Building, and Testing Node.js Applications.pdf"
     },
     {
-        "id": "18820130",
+        "id": "1888",
+        "name": "Express meets TypeScript _ Ayoub Khial.pdf",
         "title": "Express meets TypeScript _ Ayoub Khial.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1430,7 +1560,8 @@ export const booklist = [
         "original_path": "1888/Express meets TypeScript _ Ayoub Khial.pdf"
     },
     {
-        "id": "18820131",
+        "id": "1888",
+        "name": "Express 指南 - v1.0 2015.pdf",
         "title": "The Zynq Book (Chinese Version)",
         "cover": "http://books.google.com/books/content?id=e_6XDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "None",
@@ -1441,7 +1572,8 @@ export const booklist = [
         "original_path": "1888/Express 指南 - v1.0 2015.pdf"
     },
     {
-        "id": "18820132",
+        "id": "1888",
+        "name": "Express+FetchAPI 简单实践Cookie-腾讯云开发者社区-腾讯云.pdf",
         "title": "Express+FetchAPI 简单实践Cookie-腾讯云开发者社区-腾讯云.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1452,7 +1584,8 @@ export const booklist = [
         "original_path": "1888/Express+FetchAPI 简单实践Cookie-腾讯云开发者社区-腾讯云.pdf"
     },
     {
-        "id": "18820133",
+        "id": "1888",
+        "name": "Express中Session的优化 _ articles.pdf",
         "title": "无模型自适应控制",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1463,7 +1596,8 @@ export const booklist = [
         "original_path": "1888/Express中Session的优化 _ articles.pdf"
     },
     {
-        "id": "18820134",
+        "id": "1888",
+        "name": "Full Stack Javascript Development With MEAN 2014.pdf",
         "title": "Full Stack JavaScript Development With MEAN",
         "cover": "http://books.google.com/books/content?id=Q8zDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "SitePoint Pty Ltd",
@@ -1474,7 +1608,8 @@ export const booklist = [
         "original_path": "1888/Full Stack Javascript Development With MEAN 2014.pdf"
     },
     {
-        "id": "18820135",
+        "id": "1888",
+        "name": "Getting MEAN with Mongo, Express, Angular, and Node 2016.pdf",
         "title": "Getting MEAN with Mongo, Express, Angular, and Node",
         "cover": "http://books.google.com/books/content?id=sTgzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Simon and Schuster",
@@ -1485,7 +1620,8 @@ export const booklist = [
         "original_path": "1888/Getting MEAN with Mongo, Express, Angular, and Node 2016.pdf"
     },
     {
-        "id": "18820136",
+        "id": "1888",
+        "name": "How to do logging in an Express API_ Part 1 _ by Hargitai Soma _ Medium.pdf",
         "title": "Composite Materials",
         "cover": "http://books.google.com/books/content?id=GqZDDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Springer",
@@ -1496,7 +1632,8 @@ export const booklist = [
         "original_path": "1888/How to do logging in an Express API_ Part 1 _ by Hargitai Soma _ Medium.pdf"
     },
     {
-        "id": "18820137",
+        "id": "1888",
+        "name": "JS.React-16-node-express-and-mongodb-2018.pdf",
         "title": "Full-Stack React Projects",
         "cover": "http://books.google.com/books/content?id=anteDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1507,7 +1644,8 @@ export const booklist = [
         "original_path": "1888/JS.React-16-node-express-and-mongodb-2018.pdf"
     },
     {
-        "id": "18820138",
+        "id": "1888",
+        "name": "MEAN Web Development 2014.pdf",
         "title": "Web Development with Node and Express",
         "cover": "http://books.google.com/books/content?id=1cHvAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "\"O'Reilly Media, Inc.\"",
@@ -1518,7 +1656,8 @@ export const booklist = [
         "original_path": "1888/MEAN Web Development 2014.pdf"
     },
     {
-        "id": "18820139",
+        "id": "1888",
+        "name": "MEAN Web开发.pdf",
         "title": "UNIX环境高级编程",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1529,7 +1668,8 @@ export const booklist = [
         "original_path": "1888/MEAN Web开发.pdf"
     },
     {
-        "id": "18820140",
+        "id": "1888",
+        "name": "node.js + express 后端项目小坑-腾讯云开发者社区-腾讯云.pdf",
         "title": "最佳实践探索",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "None",
@@ -1540,7 +1680,8 @@ export const booklist = [
         "original_path": "1888/node.js + express 后端项目小坑-腾讯云开发者社区-腾讯云.pdf"
     },
     {
-        "id": "18820141",
+        "id": "1888",
+        "name": "nodejs 实践：express 最佳实践(四) express-session 解析 - htoooth - 博客园.pdf",
         "title": "nodejs 实践：express 最佳实践(四) express-session 解析 - htoooth - 博客园.pdf",
         "cover": "http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Unknown publisher",
@@ -1551,7 +1692,8 @@ export const booklist = [
         "original_path": "1888/nodejs 实践：express 最佳实践(四) express-session 解析 - htoooth - 博客园.pdf"
     },
     {
-        "id": "18820142",
+        "id": "1888",
+        "name": "REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js.pdf",
         "title": "RESTful Web API Design with Node.js",
         "cover": "http://books.google.com/books/content?id=cdJtDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "Packt Publishing Ltd",
@@ -1562,7 +1704,8 @@ export const booklist = [
         "original_path": "1888/REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js.pdf"
     },
     {
-        "id": "18820143",
+        "id": "1888",
+        "name": "Securing Your Backend API_ A Comprehensive Guide _ by Suneel Kumar _ CodeX _ Medium.pdf",
         "title": "Design, User Experience, and Usability: Theories, Methods, and Tools for Designing the User Experience",
         "cover": "http://books.google.com/books/content?id=WYl3oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
         "publisher": "Springer",
@@ -1573,7 +1716,8 @@ export const booklist = [
         "original_path": "1888/Securing Your Backend API_ A Comprehensive Guide _ by Suneel Kumar _ CodeX _ Medium.pdf"
     },
     {
-        "id": "18820144",
+        "id": "1888",
+        "name": "从零开始搭建一个Express应用 - 简书.pdf",
         "title": "鳥哥的Linux私房菜--基礎學習篇(第四版)(電子書)",
         "cover": "http://books.google.com/books/content?id=NWixCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
         "publisher": "碁峰資訊股份有限公司",

@@ -56,7 +56,8 @@ def process_book(book):
         
     try:
         return {
-            "id": str(book.get("bid", "Unknown ID")),
+            "id": str(book.get("catid", "Unknown ID")),
+            "name": str(book.get("name", "Unknown Name")),
             "title": str(book.get("title", book.get("name", "Unknown Title"))),
             "cover": str(safe_get(book, "imageLinks", "smallThumbnail", default="http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api")),
             "publisher": str(book.get("publisher", "Unknown publisher")),
@@ -67,7 +68,7 @@ def process_book(book):
             "original_path": str(book.get("original_path", ""))
         }
     except Exception as e:
-        print(f"Error details for book {book.get('bid', 'Unknown')}: {str(e)}")
+        print(f"Error details for book {book.get('catid', 'Unknown')}: {str(e)}")
         return None
 
 def save_books_to_txt(file_path="./ts/booklist_temp.ts"):
@@ -88,7 +89,7 @@ def save_books_to_txt(file_path="./ts/booklist_temp.ts"):
             booklist.append(processed_book)
         else:
             error_count += 1
-            print(f"Skipped book with ID: {book.get('bid', 'Unknown')}")
+            print(f"Skipped book with ID: {book.get('catid', 'Unknown')}")
 
     try:
         with open(file_path, "w", encoding="utf-8") as f:

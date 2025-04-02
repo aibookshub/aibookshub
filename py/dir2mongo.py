@@ -13,26 +13,6 @@ def txt2json():
         json.dump(books, json_file, ensure_ascii=False, indent=4)
     print("Books list saved to ./txt/source_json.json")
 
-def get_prefix_from_file(filename="./txt/source.txt"):
-    try:
-        with open(filename, "r", encoding="utf-8") as file:
-            first_line = file.readline().strip()
-            return first_line[:4]
-    except FileNotFoundError:
-        print("Error: source.txt not found.")
-        return "0000"
-
-def generate_bid():
-    prefix = get_prefix_from_file()
-    last_entry = collection.find_one(sort=[("bid", pymongo.DESCENDING)])
-    
-    if last_entry and "bid" in last_entry and last_entry["bid"].startswith(prefix):
-        last_number = int(last_entry["bid"][4:])
-    else:
-        last_number = 0
-
-    new_number = last_number + 1
-    return f"{prefix}{new_number:04d}"
 
 def fetch_book_metadata(name):
     api_url = "https://www.googleapis.com/books/v1/volumes"
@@ -51,10 +31,10 @@ def fetch_book_metadata(name):
 
 def create_book_record(path_title):
     name = path_title[5:]  # Your original name extraction
-    bid = generate_bid()
+    catid = path_title[:4]  # Your original name extraction
     
     base_record = {
-        "bid": bid,
+        "catid": catid,
         "name": name,          # From your path
         "original_path": path_title,
         "source": "manual"
@@ -83,7 +63,7 @@ def save_to_mongodb(book_data):
     if book_data:
         collection.insert_one(book_data)
         title = book_data.get("title", book_data["name"])
-        print(f"Book saved: {title} (BID: {book_data['bid']})")
+        print(f"Book saved: {title} (BID: {book_data['catid']})")
 
 if __name__ == "__main__":
     _ = txt2json()
