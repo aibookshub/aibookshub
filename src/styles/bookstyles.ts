@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
         width: '100%',
         aspectRatio: 10 / 16,
         borderRadius: 8,
+        resizeMode: 'cover',
     },
     galleryItemTitle: {
         marginTop: 5,

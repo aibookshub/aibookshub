@@ -1,23 +1,24 @@
 import React from 'react';
 import { Image, View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import styles from "@/src/styles/bookstyles";
-import { cat2 } from "@/src/config/catelist"
+import { CatList } from "@/src/config/catelist"
 
 import { SubCateProps, SubCateItem } from "@/src/types";
 
 const CatScreen: React.FC<SubCateProps> = ({ navigation, route }) => {
-    const { categoryId, categoryName } = route.params;
+    const { subjectId, subjectName } = route.params;
 
-    const filteredSubcategories = cat2.filter(
-        (sub) => sub.id.startsWith(categoryId)
+    const filteredCategories = CatList.filter(
+        (cat) => cat.id.startsWith(subjectId)
     );
 
     const renderItem = ({ item }: { item: SubCateItem }) => (
         <TouchableOpacity
             style={styles.galleryItemContainer}
             onPress={() => navigation.navigate("BookList", {
-                subCateId: item.id, 
-                categoryName: item.name
+                catId: item.id, 
+                catName: item.name,
+                subjectId: subjectId,
             })}
         >
             <Image source={{ uri: item.cover }} style={styles.galleryItemImage} />
@@ -28,7 +29,7 @@ const CatScreen: React.FC<SubCateProps> = ({ navigation, route }) => {
     return (
         <View style={styles.container}>
             <FlatList
-                data={filteredSubcategories}
+                data={filteredCategories}
                 keyExtractor={(item) => item.id}
                 renderItem={renderItem}
                 numColumns={2} // 2-column grid layout

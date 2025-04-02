@@ -17,7 +17,7 @@ const StackNavigator = () => (
         <Stack.Screen name="Home" component={HomeScreen}
             options={{
                 title: "Home List",
-                headerShown: false,
+                headerShown: true,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
                 gestureEnabled: true,
@@ -30,7 +30,7 @@ const StackNavigator = () => (
 
         <Stack.Screen name="Category" component={CatScreen}
             options={({ route }) => ({
-                title: route.params?.categoryName || "Category",
+                title: route.params?.subjectName || "Category",
                 headerShown: true,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",
@@ -44,7 +44,7 @@ const StackNavigator = () => (
 
         <Stack.Screen   name="BookList"    component={BookListScreen}
             options={({ route }) => ({
-                title: route.params?.categoryName || "Book 2 List",
+                title: route.params?.catName || "Book 2 List",
                 headerShown: true,
                 headerStyle: { backgroundColor: "#f8f8f8" },
                 headerTintColor: "#333",

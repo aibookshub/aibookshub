@@ -7,7 +7,7 @@ export const HomeList = [
     { id: "18", name: "Full Stack & React",          cover: `${UL}react.png`},
 ];
 
-export const cat2 = [
+export const CatList = [
     { id: "1224", name: "ChatGPT & LLM",      cover: `${UL}ai_llm.jpg`},
     { id: "1226", name: "Deep Learning",      cover: `${UL}ai_dl.jpg`},
     { id: "1228", name: "Machine Learning",   cover: `${UL}ai_ml.jpg`},
@@ -27,9 +27,7 @@ export const cat2 = [
     { id: "1884", name: "React Native", cover: `${UL}react_native.webp`},
     { id: "1886", name: "Angular",      cover: `${UL}react_angular.jpg`},
     { id: "1887", name: "Vue",          cover: `${UL}react_vue.jpg`},
-    { id: "1888", name: "MERN MEAN",    cover: `${UL}react_mern.jpg`},
-    { id: "1889", name: "NodeJS & Express",       cover: `${UL}react_nodejs.jpg`},
-
+    { id: "1888", name: "MERN MEAN",    cover: `${UL}react_nodejs.jpg`},
 ];
 
 
