@@ -2,8 +2,9 @@
 
 import PDF from "react-native-pdf";
 import 'expo-dev-client';
-import React, { useState } from "react";
-import { View } from 'react-native';
+import React, { useLayoutEffect } from "react";
+import { useNavigation } from "@react-navigation/native";
+import { View, StatusBar  } from 'react-native';
 import styles from "@/src/styles/bookstyles";
 import { ProgressBar } from "react-native-paper";
 
@@ -13,9 +14,29 @@ const source = {
 };
 
 function ShowPDF() {
+    const navigation = useNavigation();
     const [progress, setProgress] = React.useState(0);
     console.log("Rendering PDF component...");
     
+    useLayoutEffect(() => {
+        StatusBar.setHidden(true); // Hide status bar
+        return () => StatusBar.setHidden(false); // Restore on unmount
+      }, []);
+      
+    useLayoutEffect(() => {
+        // Get the parent (Drawer) navigation
+        const parent = navigation.getParent();
+        
+        // Hide the Drawer header when this screen is focused
+        parent?.setOptions({ headerShown: false });
+    
+        // Restore the Drawer header when leaving the screen
+        return () => {
+          parent?.setOptions({ headerShown: true });
+        };
+      }, [navigation]);
+
+      
     return (
         <View style={styles.pdf_container}>
             <ProgressBar progress={progress} color="#0000ff" />

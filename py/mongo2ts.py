@@ -59,7 +59,7 @@ def process_book(book):
             "id": str(book.get("catid", "Unknown ID")),
             "name": str(book.get("name", "Unknown Name")),
             "title": str(book.get("title", book.get("name", "Unknown Title"))),
-            "cover": str(safe_get(book, "imageLinks", "smallThumbnail", default="http://books.google.com/books/content?id=rUBTBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api")),
+            "cover": str(safe_get(book, "imageLinks", "smallThumbnail", default="https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png")),
             "publisher": str(book.get("publisher", "Unknown publisher")),
             "author": get_first_author(book.get("authors")),
             "summary": str(safe_get(book, "description", default="No summary available"))[:1000],

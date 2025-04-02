@@ -2,7 +2,7 @@ import React from "react";
 import { Text, TouchableOpacity } from "react-native";
 
 import { createStackNavigator } from "@react-navigation/stack";
-import { RootStackParamList } from "@/src/types"; 
+import { RootStackParamList } from "@/src/types";
 
 import HomeScreen from "@/src/screens/HomeScreen";
 import CatScreen from "@/src/screens/CatScreen";
@@ -42,7 +42,7 @@ const StackNavigator = () => (
             }}
         />
 
-        <Stack.Screen   name="BookList"    component={BookListScreen}
+        <Stack.Screen name="BookList" component={BookListScreen}
             options={({ route }) => ({
                 title: route.params?.catName || "Book 2 List",
                 headerShown: true,
@@ -60,10 +60,12 @@ const StackNavigator = () => (
             }}
         />
 
-        <Stack.Screen name="BookDetail" component={BookDetailScreen}
+        <Stack.Screen
+            name="BookDetail"
+            component={BookDetailScreen}
             options={({ route }) => ({
                 title: route.params?.book.title || "Book Details",
-                headerShown: true,
+                headerShown: false,
             })}
             listeners={{
                 focus: () => console.log("Book Detail f 1 ocused"),
