@@ -21,13 +21,14 @@ function ShowPDF() {
     const route = useRoute();
     const [progress, setProgress] = React.useState(0);
     const { book } = route.params as ShowPDFRouteParams;
+    console.log(book.original_path)
 
     const source = {
-        // uri: "https://aibookshub.github.io/aibookshub_data/bs/aichatgpt/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf",
-        uri: "https://aibookshub.github.io/b18/1888/MEAN Web Development 2014.pdf",
+        // uri: "https://aibookshub.github.io/b18/1886/Learning Web Development with Bootstrap and Angular - Second Edition.pdf",
+        uri: `https://aibookshub.github.io/${book.original_path}`,
         cache: true,
     };
-    // https://raw.githubusercontent.com/aibookshub/b18/1888/MEAN Web Development 2014.pdf
+    
     useLayoutEffect(() => {
         StatusBar.setHidden(true); // Hide status bar
         return () => StatusBar.setHidden(false); // Restore on unmount

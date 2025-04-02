@@ -30,8 +30,8 @@ def fetch_book_metadata(name):
     return None
 
 def create_book_record(path_title):
-    name = path_title[5:]  # Your original name extraction
-    catid = path_title[:4]  # Your original name extraction
+    name = path_title[9:-4]  # Your original name extraction
+    catid = path_title[4:8]  # Your original name extraction
     
     base_record = {
         "catid": catid,
