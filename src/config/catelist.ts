@@ -4,7 +4,7 @@ export const HomeList = [
     { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
     { id: "14", name: "Python & Data Science",       cover: `${UL}python.png`},
     { id: "16", name: "Java & Android",              cover: `${UL}java.png`},
-    { id: "18", name: "React & Full Stack",          cover: `${UL}react.png`},
+    { id: "18", name: "Full Stack & React",          cover: `${UL}react.png`},
 ];
 
 export const cat2 = [
@@ -26,7 +26,10 @@ export const cat2 = [
     { id: "1882", name: "React",        cover: `${UL}react_react.png`},
     { id: "1884", name: "React Native", cover: `${UL}react_native.webp`},
     { id: "1886", name: "Angular",      cover: `${UL}react_angular.jpg`},
-    { id: "1888", name: "Vue",          cover: `${UL}react_vue.jpg`},
+    { id: "1887", name: "Vue",          cover: `${UL}react_vue.jpg`},
+    { id: "1888", name: "MERN MEAN",    cover: `${UL}react_mern.jpg`},
+    { id: "1889", name: "NodeJS & Express",       cover: `${UL}react_nodejs.jpg`},
+
 ];
 
 
