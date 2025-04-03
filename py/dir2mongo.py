@@ -1,6 +1,7 @@
-import os, requests, pymongo, json, sys
+import os, requests, pymongo, json
 from dotenv import load_dotenv
 load_dotenv()
+
 client = pymongo.MongoClient(os.getenv("MONGO_BOOKS_URI"))
 db = client["aibooks_db"]
 collection = db["aibooks_collection"]
@@ -63,7 +64,8 @@ def save_to_mongodb(book_data):
     if book_data:
         collection.insert_one(book_data)
         title = book_data.get("title", book_data["name"])
-        print(f"Book saved: {title} (BID: {book_data['catid']})")
+        print(f"Book saved: {title} (BID: {book_data['catid']})") 
+        
 
 if __name__ == "__main__":
     _ = txt2json()
