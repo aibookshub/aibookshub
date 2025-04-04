@@ -2,9 +2,9 @@ const UL = "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/
 
 export const HomeList = [
     { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
-    { id: "14", name: "Python & Data Science",       cover: `${UL}python.png`},
+    { id: "14", name: "Python & Data Science",       cover: `${UL}py.jpg`},
     { id: "16", name: "Java & Android",              cover: `${UL}java.png`},
-    { id: "18", name: "Full Stack & React",          cover: `${UL}react.png`},
+    { id: "18", name: "Full Stack & React",          cover: `${UL}fs.jpg`},
 ];
 
 

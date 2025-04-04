@@ -25,7 +25,7 @@ function ShowPDF() {
 
     const source = {
         // uri: "https://aibookshub.github.io/b18/1886/Learning Web Development with Bootstrap and Angular - Second Edition.pdf",
-        uri: `https://aibookshub.github.io/${book.original_path}`,
+        uri: `${book.original_path}`,
         cache: true,
     };
     

@@ -3,10 +3,16 @@ import styles from "@/src/styles/bookstyles";
 import { Image, View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
 import { BooklistProps } from "@/src/types";
 
+import { booklist as b12 } from "@/py/ts/b12"
 import { booklist as b18 } from "@/py/ts/b18"
+// import { booklist as b14 } from "@/py/ts/b14"
+// import { booklist as b16 } from "@/py/ts/b16"
 
 const getBooksByCategory = (subjectId: string) => {
     switch (subjectId) {
+        case '12': return b12;
+        // case '14': return b14;
+        // case '16': return b16;
         case '18': return b18;
         default: return b18;
     }
@@ -14,7 +20,7 @@ const getBooksByCategory = (subjectId: string) => {
 
 const BooksScreen: React.FC<BooklistProps> = ({ route, navigation }) => {
     const { catId, catName, subjectId } = route.params;  // ✅ Extract params safely
-    console.log("------------>subCateId:", catId, "     subject Id: ", subjectId);
+    console.log("----BookListScreen.tsx-------->subCateId:", catId, "     subject Id: ", subjectId);
     const bookList = getBooksByCategory(subjectId || '12');
     const filteredSubcategories = bookList.filter(
         (booklist) => booklist.id.startsWith(catId)        
