@@ -24,7 +24,7 @@ const StackNavigator = () => (
                 headerRight: () => (<TouchableOpacity onPress={() => alert("Settings")}><Text></Text></TouchableOpacity>),
             }}
             listeners={{
-                focus: () => console.log("Home List"),
+                focus: () => console.log("StackNavigator - Home screen focused"),
             }}
         />
 
@@ -38,7 +38,7 @@ const StackNavigator = () => (
                 headerRight: () => (<TouchableOpacity onPress={() => alert("Settings")}><Text></Text></TouchableOpacity>),
             })}
             listeners={{
-                focus: () => console.log("Category- focused"),
+                focus: () => console.log("StackNavigator - Category screen focused"),
             }}
         />
 
@@ -56,7 +56,7 @@ const StackNavigator = () => (
                 ),
             })}
             listeners={{
-                focus: () => console.log("Book List screen"),
+                focus: () => console.log("StackNavigator - BookList screen focused"),
             }}
         />
 
@@ -68,7 +68,7 @@ const StackNavigator = () => (
                 headerShown: false,
             })}
             listeners={{
-                focus: () => console.log("Book Detail f 1 ocused"),
+                focus: () => console.log("StackNavigator - BookDetail screen focused"),
             }}
         />
     </Stack.Navigator>

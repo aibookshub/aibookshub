@@ -7,6 +7,7 @@ import { SubCateProps, SubCateItem } from "@/src/types";
 
 const CatScreen: React.FC<SubCateProps> = ({ navigation, route }) => {
     const { subjectId, subjectName } = route.params;
+    console.log("CatScreen.tsx received subjectId: ", subjectId);
 
     const filteredCategories = CatList.filter(
         (cat) => cat.id.startsWith(subjectId)
