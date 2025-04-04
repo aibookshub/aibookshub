@@ -1,9 +1,9 @@
 const UL = "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/cat_img/"
 
 export const HomeList = [
-    { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai.jpg`},
+    { id: "12", name: "AI Artificial Intelligence",  cover: `${UL}ai2.jpg`},
     { id: "14", name: "Python & Data Science",       cover: `${UL}py.jpg`},
-    { id: "16", name: "Java & Android",              cover: `${UL}java.png`},
+    { id: "16", name: "Java & Android",              cover: `${UL}java1.png`},
     { id: "18", name: "Full Stack & React",          cover: `${UL}fs.jpg`},
 ];
 
@@ -23,9 +23,13 @@ export const CatList = [
     { id: "1236", name: "Reinforcement Learning RL",cover: `${UL}ai_rl.jpg`},
 
     { id: "1442", name: "Interview",     cover: `${UL}python_interview.jpg`},
-    { id: "1444", name: "FastAPI & Web", cover: `${UL}python_fastapi.jpg`},
+    { id: "1444", name: "FastAPI Django Flask", cover: `${UL}python_fastapi.jpg`},
     { id: "1446", name: "Data Science",  cover: `${UL}python_datascience.jpg`},
-    { id: "1448", name: "Programming",   cover: `${UL}python_programming.jpg`},
+    { id: "1451", name: "Programming (EN)",   cover: `${UL}python_programming.jpg`},
+    { id: "1452", name: "Programming (CN)",   cover: `${UL}python_programming.jpg`},
+    { id: "1454", name: "Real Projects",   cover: `${UL}python_programming.jpg`},
+    { id: "1456", name: "Classical",   cover: `${UL}python_programming.jpg`},
+    { id: "1458", name: "GUI & Scrape",   cover: `${UL}python_programming.jpg`},
 
     { id: "1662", name: "Interview",    cover: `${UL}java_interview.jpg`},
     { id: "1664", name: "Core Java",    cover: `${UL}java_core.jpg`},
@@ -40,17 +44,8 @@ export const CatList = [
     { id: "1888", name: "MERN MEAN",    cover: `${UL}react_nodejs.jpg`},
     { id: "1890", name: "TypeScript",    cover: `${UL}react_ts.jpg`},
     { id: "1892", name: "JavaScript", cover: `${UL}react_js.jpg`},
-    { id: "1894", name: "HTML CSS Ajax jQuery Web", cover: `${UL}react_html.jpg`},
+    { id: "1894", name: "HTML CSS", cover: `${UL}react_html.jpg`},
+    { id: "1896", name: "Web", cover: `${UL}react_html.jpg`},
+    { id: "1898", name: "jQuery & Ajax",cover: `${UL}react_jquery.jpg`},
 ];
-
-//     { id: "41", name: "React",        cover: `${UL}react_react.png`},
-//     { id: "42", name: "React Native", cover: `${UL}react_native.webp`},
-//     { id: "43", name: "Angular",      cover: `${UL}react_angular.jpg`},
-//     { id: "44", name: "Vue",          cover: `${UL}react_vue.jpg`},
-//     { id: "45", name: "Mongo & DB",   cover: `${UL}react_mongo.jpg`},
-//     { id: "46", name: "HTML CSS JavaScript", cover: `${UL}react_html.jpg`},
-//     { id: "47", name: "TypeScript",   cover: `${UL}react_typescript.jpg`},
-//     { id: "48", name: "NodeJS & Express",       cover: `${UL}react_nodejs.jpg`},
-//     { id: "49", name: "jQuery & Ajax",cover: `${UL}react_jquery.jpg`},
-// ];
 

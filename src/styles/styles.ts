@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     },
     image: {
-        width: '100%',
+        width: '20%',
         height: '100%',
         resizeMode: 'cover',
     },
