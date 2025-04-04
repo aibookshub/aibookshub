@@ -7,6 +7,7 @@ export const HomeList = [
     { id: "18", name: "Full Stack & React",          cover: `${UL}react.png`},
 ];
 
+
 export const CatList = [
     { id: "1221", name: "Interview",          cover: `${UL}ai_interview.png`},
     { id: "1222", name: "General & Robotics", cover: `${UL}ai_general.jpg`},
