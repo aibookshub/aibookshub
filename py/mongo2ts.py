@@ -56,6 +56,7 @@ def process_book(book):
         
     try:
         return {
+            "_id": str(book.get("_id")),
             "id": str(book.get("catid", "Unknown ID")),
             "name": str(book.get("name", "Unknown Name")),
             "title": str(book.get("title", book.get("name", "Unknown Title"))),

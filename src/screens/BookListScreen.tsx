@@ -6,13 +6,13 @@ import { BooklistProps } from "@/src/types";
 import { booklist as b12 } from "@/py/ts/b12"
 import { booklist as b18 } from "@/py/ts/b18"
 import { booklist as b14 } from "@/py/ts/b14"
-// import { booklist as b16 } from "@/py/ts/b16"
+import { booklist as b16 } from "@/py/ts/b16"
 
 const getBooksByCategory = (subjectId: string) => {
     switch (subjectId) {
         case '12': return b12;
         case '14': return b14;
-        // case '16': return b16;
+        case '16': return b16;
         case '18': return b18;
         default: return b18;
     }
@@ -30,7 +30,7 @@ const BooksScreen: React.FC<BooklistProps> = ({ route, navigation }) => {
         <View style={styles.container}>
             <FlatList
                 data={filteredSubcategories}
-                keyExtractor={(item) => item.original_path}
+                keyExtractor={(item) => item._id}
                 renderItem={({ item }) => (
                     <TouchableOpacity
                         style={styles.item}

@@ -1,5 +1,6 @@
 export const booklist = [
     {
+        "_id": "67f03c0c330467e31f3b2529",
         "id": "1221",
         "name": "Ace the Programming Interview - 160 Questions and Answers for Success",
         "title": "Ace the Programming Interview",
@@ -12,6 +13,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Ace the Programming Interview - 160 Questions and Answers for Success.pdf"
     },
     {
+        "_id": "67f03c0c330467e31f3b252a",
         "id": "1221",
         "name": "Addison.Wesley.-.The.Pragmatic.Programmer.1ed.1999.程序员修炼之道",
         "title": "代码大全",
@@ -24,6 +26,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Addison.Wesley.-.The.Pragmatic.Programmer.1ed.1999.程序员修炼之道.pdf"
     },
     {
+        "_id": "67f03c0d330467e31f3b252b",
         "id": "1221",
         "name": "Clean Code Handbook - LeetCode 50 Common Interview Questions",
         "title": "Cracking the Code to a Successful Interview",
@@ -36,6 +39,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Clean Code Handbook - LeetCode 50 Common Interview Questions.pdf"
     },
     {
+        "_id": "67f03c0d330467e31f3b252c",
         "id": "1221",
         "name": "Coding Interviews - Questions, Analysis & Solutions",
         "title": "Coding Interviews",
@@ -48,6 +52,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Coding Interviews - Questions, Analysis & Solutions.pdf"
     },
     {
+        "_id": "67f03c0e330467e31f3b252d",
         "id": "1221",
         "name": "Cracking the Coding Interview - 150 Programming Interview Questions and Solutions 4e Small",
         "title": "Cracking the Coding Interview",
@@ -60,6 +65,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Cracking the Coding Interview - 150 Programming Interview Questions and Solutions 4e Small.pdf"
     },
     {
+        "_id": "67f03c0f330467e31f3b252e",
         "id": "1221",
         "name": "Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions",
         "title": "Cracking the Coding Interview",
@@ -72,6 +78,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions.pdf"
     },
     {
+        "_id": "67f03c0f330467e31f3b252f",
         "id": "1221",
         "name": "Cracking the Coding Interview, 6th Edition",
         "title": "Cracking the Coding Interview",
@@ -84,6 +91,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Cracking the Coding Interview, 6th Edition.pdf"
     },
     {
+        "_id": "67f03c10330467e31f3b2530",
         "id": "1221",
         "name": "Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions",
         "title": "Cracking the Coding Interview",
@@ -96,6 +104,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions.pdf"
     },
     {
+        "_id": "67f03c10330467e31f3b2531",
         "id": "1221",
         "name": "Data_Science_Interview_Prep_for_SQL,_Panda,_Python",
         "title": "Build a Career in Data Science",
@@ -108,6 +117,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Data_Science_Interview_Prep_for_SQL,_Panda,_Python.pdf"
     },
     {
+        "_id": "67f03c11330467e31f3b2532",
         "id": "1221",
         "name": "Elements of Programming Interviews",
         "title": "Elements of Programming Interviews",
@@ -120,6 +130,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Elements of Programming Interviews.pdf"
     },
     {
+        "_id": "67f03c12330467e31f3b2533",
         "id": "1221",
         "name": "Exercises for Programmers_ 57 Challenges to Develop Your Coding Skills 2015",
         "title": "Exercises for Programmers",
@@ -132,6 +143,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Exercises for Programmers_ 57 Challenges to Develop Your Coding Skills 2015.pdf"
     },
     {
+        "_id": "67f03c13330467e31f3b2534",
         "id": "1221",
         "name": "Interview Experience",
         "title": "301 Smart Answers to Tough Interview Questions",
@@ -144,6 +156,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Interview Experience.pdf"
     },
     {
+        "_id": "67f03c14330467e31f3b2535",
         "id": "1221",
         "name": "Land the Tech Job You Love",
         "title": "Land the Tech Job You Love",
@@ -156,6 +169,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Land the Tech Job You Love.pdf"
     },
     {
+        "_id": "67f03c14330467e31f3b2536",
         "id": "1221",
         "name": "Machine-Learning-Interview-Guide",
         "title": "Cracking The Machine Learning Interview",
@@ -168,6 +182,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Machine-Learning-Interview-Guide.pdf"
     },
     {
+        "_id": "67f03c15330467e31f3b2537",
         "id": "1221",
         "name": "Programming Interviews Exposed - Third Edition",
         "title": "Programming Interviews Exposed",
@@ -180,6 +195,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Programming Interviews Exposed - Third Edition.pdf"
     },
     {
+        "_id": "67f03c16330467e31f3b2538",
         "id": "1221",
         "name": "Programming_Interviews_Exposed_Coding_Your_Way_Through_the_Interview",
         "title": "Programming Interviews Exposed",
@@ -192,6 +208,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Programming_Interviews_Exposed_Coding_Your_Way_Through_the_Interview.pdf"
     },
     {
+        "_id": "67f03c16330467e31f3b2539",
         "id": "1221",
         "name": "The Google Resume",
         "title": "The Google Resume",
@@ -204,6 +221,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/The Google Resume.pdf"
     },
     {
+        "_id": "67f03c17330467e31f3b253a",
         "id": "1221",
         "name": "Top 50 Machine Learning Interview Questions",
         "title": "Top 50 Machine Learning Interview Questions and Answers",
@@ -216,6 +234,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1221/Top 50 Machine Learning Interview Questions.pdf"
     },
     {
+        "_id": "67f03c18330467e31f3b253b",
         "id": "1223",
         "name": "Agile Data Science",
         "title": "Agile Data Science 2.0",
@@ -228,6 +247,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Agile Data Science.pdf"
     },
     {
+        "_id": "67f03c19330467e31f3b253c",
         "id": "1223",
         "name": "Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python by Jason Brownlee (z-lib.org)",
         "title": "Probability for Machine Learning",
@@ -240,6 +260,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c19330467e31f3b253d",
         "id": "1223",
         "name": "Better Deep Learning Train Faster, Reduce Overfitting, and Make Better Predictions by Jason Brownlee (z-lib.org)",
         "title": "Better Deep Learning",
@@ -252,6 +273,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Better Deep Learning Train Faster, Reduce Overfitting, and Make Better Predictions by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c1a330467e31f3b253e",
         "id": "1223",
         "name": "Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee (z-lib.org)",
         "title": "Data Preparation for Machine Learning",
@@ -264,6 +286,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c1b330467e31f3b253f",
         "id": "1223",
         "name": "Data Science with Julia by Paul D. McNicholas, Peter A. Tait (z-lib.org)",
         "title": "Science Breakthroughs to Advance Food and Agricultural Research by 2030",
@@ -276,6 +299,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Data Science with Julia by Paul D. McNicholas, Peter A. Tait (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c1c330467e31f3b2540",
         "id": "1223",
         "name": "Doing Data Science Straight Talk from the Frontline",
         "title": "Data Science for Business",
@@ -288,6 +312,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Doing Data Science Straight Talk from the Frontline.pdf"
     },
     {
+        "_id": "67f03c1d330467e31f3b2541",
         "id": "1223",
         "name": "Foundations of Data Science",
         "title": "Foundations of Data Science",
@@ -300,6 +325,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Foundations of Data Science.pdf"
     },
     {
+        "_id": "67f03c1e330467e31f3b2542",
         "id": "1223",
         "name": "Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee (z-lib.org)",
         "title": "Imbalanced Classification with Python",
@@ -312,6 +338,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c1f330467e31f3b2543",
         "id": "1223",
         "name": "Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee (z-lib.org)",
         "title": "Introduction to Time Series Forecasting With Python",
@@ -324,6 +351,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c1f330467e31f3b2544",
         "id": "1223",
         "name": "Learning From Data 2nd Ed (Wiley,2007)",
         "title": "Learning from Data",
@@ -336,6 +364,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Learning From Data 2nd Ed (Wiley,2007).pdf"
     },
     {
+        "_id": "67f03c20330467e31f3b2545",
         "id": "1223",
         "name": "Long Short-Term Memory Networks With Python Develop Sequence Prediction Models With Deep Learning by Jason Brownlee (z-lib.org)",
         "title": "Long Short-term Memory Networks with Python",
@@ -348,6 +377,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Long Short-Term Memory Networks With Python Develop Sequence Prediction Models With Deep Learning by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c21330467e31f3b2546",
         "id": "1223",
         "name": "Practical_Statistics_for_Data_Scientists",
         "title": "Practical Statistics for Data Scientists",
@@ -360,6 +390,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Practical_Statistics_for_Data_Scientists.pdf"
     },
     {
+        "_id": "67f03c22330467e31f3b2547",
         "id": "1223",
         "name": "Principles of Data Science",
         "title": "Principles of Data Science",
@@ -372,6 +403,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Principles of Data Science.pdf"
     },
     {
+        "_id": "67f03c22330467e31f3b2548",
         "id": "1223",
         "name": "Probability and Statistics for Science and Engineering with Examples in R by Hongshik Ahn (z-lib.org)",
         "title": "Engineering Statistics",
@@ -384,6 +416,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Probability and Statistics for Science and Engineering with Examples in R by Hongshik Ahn (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c23330467e31f3b2549",
         "id": "1223",
         "name": "Probability for Machine Learning - Discover How To Harness Uncertainty With Python by Jason Brownlee (z-lib.org)",
         "title": "Probability for Machine Learning",
@@ -396,6 +429,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Probability for Machine Learning - Discover How To Harness Uncertainty With Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c23330467e31f3b254a",
         "id": "1223",
         "name": "Python Data Science Essentials - Second Edition",
         "title": "Python Data Science Essentials",
@@ -408,6 +442,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Python Data Science Essentials - Second Edition.pdf"
     },
     {
+        "_id": "67f03c24330467e31f3b254b",
         "id": "1223",
         "name": "Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org)",
         "title": "Python for Programmers",
@@ -420,6 +455,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c25330467e31f3b254c",
         "id": "1223",
         "name": "Python_Deeper_Insights_into_Machine_Learning",
         "title": "Python: Deeper Insights into Machine Learning",
@@ -432,6 +468,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Python_Deeper_Insights_into_Machine_Learning.pdf"
     },
     {
+        "_id": "67f03c25330467e31f3b254d",
         "id": "1223",
         "name": "Python_for_Data_Analysis",
         "title": "Python for Data Analysis",
@@ -444,6 +481,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Python_for_Data_Analysis.pdf"
     },
     {
+        "_id": "67f03c26330467e31f3b254e",
         "id": "1223",
         "name": "Python_for_Finance",
         "title": "Python for Finance",
@@ -456,6 +494,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Python_for_Finance.pdf"
     },
     {
+        "_id": "67f03c27330467e31f3b254f",
         "id": "1223",
         "name": "Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python by Jason Brownlee (z-lib.org)",
         "title": "Statistical Methods for Machine Learning",
@@ -468,6 +507,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03c28330467e31f3b2550",
         "id": "1223",
         "name": "算法导论(第二版)",
         "title": "算法设计与分析",
@@ -480,6 +520,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/算法导论(第二版).pdf"
     },
     {
+        "_id": "67f03c28330467e31f3b2551",
         "id": "1223",
         "name": "解析深度学习：语音识别实践",
         "title": "Keras深度学习入门与实践",
@@ -492,6 +533,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/解析深度学习：语音识别实践.pdf"
     },
     {
+        "_id": "67f03c29330467e31f3b2552",
         "id": "1223",
         "name": "计算智能中的仿生学：理论与算法",
         "title": "Mathematics in practice and theory",
@@ -504,6 +546,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/计算智能中的仿生学：理论与算法.pdf"
     },
     {
+        "_id": "67f03c2a330467e31f3b2553",
         "id": "1223",
         "name": "计算机程序的构造和解释[www.ed2kers.com]",
         "title": "游戏编程中的人工智能技术",
@@ -516,6 +559,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/计算机程序的构造和解释[www.ed2kers.com].pdf"
     },
     {
+        "_id": "67f03c2b330467e31f3b2554",
         "id": "1223",
         "name": "进化算法",
         "title": "社会情感优化算法",
@@ -528,6 +572,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/进化算法.pdf"
     },
     {
+        "_id": "67f03c2b330467e31f3b2555",
         "id": "1223",
         "name": "遗传算法——理论、应用与软件实现",
         "title": "遗传算法/",
@@ -540,6 +585,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/遗传算法——理论、应用与软件实现.pdf"
     },
     {
+        "_id": "67f03c2c330467e31f3b2556",
         "id": "1223",
         "name": "遗传算法与工程设计",
         "title": "遗传算法与工程优化",
@@ -552,6 +598,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/遗传算法与工程设计.pdf"
     },
     {
+        "_id": "67f03c2d330467e31f3b2557",
         "id": "1223",
         "name": "遗传算法原理及应用",
         "title": "人工智能原理及应用",
@@ -564,6 +611,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/遗传算法原理及应用.pdf"
     },
     {
+        "_id": "67f03c2d330467e31f3b2558",
         "id": "1223",
         "name": "遗传算法及其应用",
         "title": "遗传算法与工程优化",
@@ -576,6 +624,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/遗传算法及其应用.pdf"
     },
     {
+        "_id": "67f03c2e330467e31f3b2559",
         "id": "1223",
         "name": "遗传算法的数学基础",
         "title": "遗传算法的数学基础",
@@ -588,6 +637,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/遗传算法的数学基础.pdf"
     },
     {
+        "_id": "67f03c2f330467e31f3b255a",
         "id": "1223",
         "name": "非数值并行算法：遗传算法",
         "title": "并行计算导论",
@@ -600,6 +650,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/非数值并行算法：遗传算法.pdf"
     },
     {
+        "_id": "67f03c2f330467e31f3b255b",
         "id": "1223",
         "name": "麻省理工学院-算法导论 中文版第二版",
         "title": "现代计算机常用数据结构和算法",
@@ -612,6 +663,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1223/麻省理工学院-算法导论 中文版第二版.pdf"
     },
     {
+        "_id": "67f03c30330467e31f3b255c",
         "id": "1224",
         "name": "2023大模型落地应用案例集",
         "title": "人工智能与教育",
@@ -624,6 +676,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/2023大模型落地应用案例集.pdf"
     },
     {
+        "_id": "67f03c30330467e31f3b255d",
         "id": "1224",
         "name": "2310.19736-2",
         "title": "2310.19736-2",
@@ -636,6 +689,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/2310.19736-2.pdf"
     },
     {
+        "_id": "67f03c31330467e31f3b255e",
         "id": "1224",
         "name": "BabyAI - First Steps Towards Grounded Language Learning With a Human In the Loop",
         "title": "The Mechanisms Underlying the Human Minimal Self",
@@ -648,6 +702,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/BabyAI - First Steps Towards Grounded Language Learning With a Human In the Loop.pdf"
     },
     {
+        "_id": "67f03c32330467e31f3b255f",
         "id": "1224",
         "name": "Beginning_ChatGPT_for_Python_Build_Intelligent_Applications",
         "title": "Beginning ChatGPT for Python",
@@ -660,6 +715,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Beginning_ChatGPT_for_Python_Build_Intelligent_Applications.pdf"
     },
     {
+        "_id": "67f03c32330467e31f3b2560",
         "id": "1224",
         "name": "Generative AI for Beginners, Diffusion Models, ChatGPT, LLMs",
         "title": "Generative AI for Transformational Management",
@@ -672,6 +728,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Generative AI for Beginners, Diffusion Models, ChatGPT, LLMs.pdf"
     },
     {
+        "_id": "67f03c33330467e31f3b2561",
         "id": "1224",
         "name": "Language Models are Unsupervised Multitask Learners",
         "title": "The New Fire",
@@ -684,6 +741,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Language Models are Unsupervised Multitask Learners.pdf"
     },
     {
+        "_id": "67f03c34330467e31f3b2562",
         "id": "1224",
         "name": "OneFlow技术年货(2023)",
         "title": "OneFlow技术年货(2023)",
@@ -696,6 +754,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/OneFlow技术年货(2023).pdf"
     },
     {
+        "_id": "67f03c35330467e31f3b2563",
         "id": "1224",
         "name": "Speech and Language Processing",
         "title": "Speech and Language Processing",
@@ -708,6 +767,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Speech and Language Processing.pdf"
     },
     {
+        "_id": "67f03c35330467e31f3b2564",
         "id": "1224",
         "name": "Understanding Large Language Models Learning Their Underlying Concepts and Technologies (Thimira Amaratunga)",
         "title": "Understanding Large Language Models",
@@ -720,6 +780,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Understanding Large Language Models Learning Their Underlying Concepts and Technologies (Thimira Amaratunga).pdf"
     },
     {
+        "_id": "67f03c36330467e31f3b2565",
         "id": "1224",
         "name": "Unsupervised Translation of Programming Languages",
         "title": "Natural Language Processing with Transformers",
@@ -732,6 +793,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/Unsupervised Translation of Programming Languages.pdf"
     },
     {
+        "_id": "67f03c36330467e31f3b2566",
         "id": "1224",
         "name": "大规模语言模型",
         "title": "AIGC未来已来",
@@ -744,6 +806,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/大规模语言模型.pdf"
     },
     {
+        "_id": "67f03c37330467e31f3b2567",
         "id": "1224",
         "name": "大语言模型实战：语言理解和生成 (Hands-On Large Language Models)【O'Reilly】",
         "title": "C++入门经典",
@@ -756,6 +819,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1224/大语言模型实战：语言理解和生成 (Hands-On Large Language Models)【O'Reilly】.pdf"
     },
     {
+        "_id": "67f03c38330467e31f3b2568",
         "id": "1230",
         "name": "(Brain Study) Speech Recognition Using Neural Networks",
         "title": "Artificial Intelligence in the Age of Neural Networks and Brain Computing",
@@ -768,6 +832,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/(Brain Study) Speech Recognition Using Neural Networks.pdf"
     },
     {
+        "_id": "67f03c38330467e31f3b2569",
         "id": "1230",
         "name": "(Ebook - Mathematics) Development Of Neural Network Theory For Artificial Life-Thesis, Matlab And Java Code, Cavuto",
         "title": "I Will Survive",
@@ -780,6 +845,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/(Ebook - Mathematics) Development Of Neural Network Theory For Artificial Life-Thesis, Matlab And Java Code, Cavuto.pdf"
     },
     {
+        "_id": "67f03c39330467e31f3b256a",
         "id": "1230",
         "name": "An Analysis of Deep Neural Network Models for Practical Applications",
         "title": "Proceedings of ICETIT 2019",
@@ -792,6 +858,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/An Analysis of Deep Neural Network Models for Practical Applications.pdf"
     },
     {
+        "_id": "67f03c3a330467e31f3b256b",
         "id": "1230",
         "name": "analysis and applications of artificial neural networks",
         "title": "Analysis and Applications of Artificial Neural Networks",
@@ -804,6 +871,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/analysis and applications of artificial neural networks.pdf"
     },
     {
+        "_id": "67f03c3b330467e31f3b256c",
         "id": "1230",
         "name": "Artificial Neural Networks - A Tutorial",
         "title": "Artificial Neural Networks",
@@ -816,6 +884,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Artificial Neural Networks - A Tutorial.pdf"
     },
     {
+        "_id": "67f03c3c330467e31f3b256d",
         "id": "1230",
         "name": "Artificial Neural Networks Technology",
         "title": "Artificial Neural Network Applications in Business and Engineering",
@@ -828,6 +897,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Artificial Neural Networks Technology.pdf"
     },
     {
+        "_id": "67f03c3c330467e31f3b256e",
         "id": "1230",
         "name": "Cross-language Transfer Learning for Deep Neural Network Based Speech",
         "title": "Multimedia and Network Information Systems",
@@ -840,6 +910,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Cross-language Transfer Learning for Deep Neural Network Based Speech.pdf"
     },
     {
+        "_id": "67f03c3d330467e31f3b256f",
         "id": "1230",
         "name": "Deep Learning with Keras_ Implement neural networks with Keras on Theano and TensorFlow 2017",
         "title": "Deep Learning with Keras",
@@ -852,6 +923,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Deep Learning with Keras_ Implement neural networks with Keras on Theano and TensorFlow 2017.pdf"
     },
     {
+        "_id": "67f03c3e330467e31f3b2570",
         "id": "1230",
         "name": "Discovering physical concepts with neural networks",
         "title": "The AI-Powered Workplace",
@@ -864,6 +936,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Discovering physical concepts with neural networks.pdf"
     },
     {
+        "_id": "67f03c3f330467e31f3b2571",
         "id": "1230",
         "name": "eBook - Artificial Intelligence - Neural Networks - Algorithms, Applications and Programming Techniques - Addison Wesley ",
         "title": "Building Neural Networks",
@@ -876,6 +949,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/eBook - Artificial Intelligence - Neural Networks - Algorithms, Applications and Programming Techniques - Addison Wesley .pdf"
     },
     {
+        "_id": "67f03c3f330467e31f3b2572",
         "id": "1230",
         "name": "Eyeriss v2 - A Flexible and High-performance accelerator for Emerging Deep Neural Networks",
         "title": "Efficient Processing of Deep Neural Networks",
@@ -888,6 +962,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Eyeriss v2 - A Flexible and High-performance accelerator for Emerging Deep Neural Networks.pdf"
     },
     {
+        "_id": "67f03c40330467e31f3b2573",
         "id": "1230",
         "name": "Faster Neural Network Training with Data Echoing",
         "title": "Computational Data and Social Networks",
@@ -900,6 +975,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Faster Neural Network Training with Data Echoing.pdf"
     },
     {
+        "_id": "67f03c40330467e31f3b2574",
         "id": "1230",
         "name": "Neural Network Methods for Natural Language Processing 2009",
         "title": "Neural Network Methods for Natural Language Processing",
@@ -912,6 +988,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Neural Network Methods for Natural Language Processing 2009.pdf"
     },
     {
+        "_id": "67f03c41330467e31f3b2575",
         "id": "1230",
         "name": "Neural Network Methods for Natural Language Processing",
         "title": "Neural Network Methods for Natural Language Processing",
@@ -924,6 +1001,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Neural Network Methods for Natural Language Processing.pdf"
     },
     {
+        "_id": "67f03c42330467e31f3b2576",
         "id": "1230",
         "name": "QuCumber - wavefunction reconstruction with neural networks",
         "title": "Recent Advances in Density Functional Methods",
@@ -936,6 +1014,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/QuCumber - wavefunction reconstruction with neural networks.pdf"
     },
     {
+        "_id": "67f03c43330467e31f3b2577",
         "id": "1230",
         "name": "Sequence-discriminative training of deep neural networks",
         "title": "Automatic Speech Recognition",
@@ -948,6 +1027,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Sequence-discriminative training of deep neural networks.pdf"
     },
     {
+        "_id": "67f03c44330467e31f3b2578",
         "id": "1230",
         "name": "Towards Robust Interpretability with self-explaining neural networks",
         "title": "Interpretability in Deep Learning",
@@ -960,6 +1040,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/Towards Robust Interpretability with self-explaining neural networks.pdf"
     },
     {
+        "_id": "67f03c45330467e31f3b2579",
         "id": "1230",
         "name": "二进前项人工神经网络----理论及应用",
         "title": "人工神经网络原理及应用",
@@ -972,6 +1053,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/二进前项人工神经网络----理论及应用.pdf"
     },
     {
+        "_id": "67f03c45330467e31f3b257a",
         "id": "1230",
         "name": "人工神经网络——第六代计算机的实现",
         "title": "電子學報",
@@ -984,6 +1066,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络——第六代计算机的实现.pdf"
     },
     {
+        "_id": "67f03c46330467e31f3b257b",
         "id": "1230",
         "name": "人工神经网络与模拟进化计算",
         "title": "人工神经网络与模拟进化计算",
@@ -996,6 +1079,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络与模拟进化计算.pdf"
     },
     {
+        "_id": "67f03c47330467e31f3b257c",
         "id": "1230",
         "name": "人工神经网络与盲信号处理",
         "title": "人工神经网络与模拟进化计算",
@@ -1008,6 +1092,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络与盲信号处理.pdf"
     },
     {
+        "_id": "67f03c47330467e31f3b257d",
         "id": "1230",
         "name": "人工神经网络实用教程",
         "title": "人工智能",
@@ -1020,6 +1105,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络实用教程.pdf"
     },
     {
+        "_id": "67f03c48330467e31f3b257e",
         "id": "1230",
         "name": "人工神经网络导论",
         "title": "人工神经网络导论",
@@ -1032,6 +1118,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络导论.pdf"
     },
     {
+        "_id": "67f03c49330467e31f3b257f",
         "id": "1230",
         "name": "人工神经网络建造",
         "title": "人工智能原理及应用",
@@ -1044,6 +1131,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络建造.pdf"
     },
     {
+        "_id": "67f03c49330467e31f3b2580",
         "id": "1230",
         "name": "人工神经网络技术及应用",
         "title": "人工智能原理及应用",
@@ -1056,6 +1144,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络技术及应用.pdf"
     },
     {
+        "_id": "67f03c4a330467e31f3b2581",
         "id": "1230",
         "name": "人工神经网络理论及应用",
         "title": "人工智能原理及应用",
@@ -1068,6 +1157,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络理论及应用.pdf"
     },
     {
+        "_id": "67f03c4b330467e31f3b2582",
         "id": "1230",
         "name": "人工神经网络的模型及其应用",
         "title": "神经网络模型及其MATLAB仿真程序设计",
@@ -1080,6 +1170,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/人工神经网络的模型及其应用.pdf"
     },
     {
+        "_id": "67f03c4c330467e31f3b2583",
         "id": "1230",
         "name": "从神经元芯片到控制网络",
         "title": "精密测控与系统",
@@ -1092,6 +1183,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/从神经元芯片到控制网络.pdf"
     },
     {
+        "_id": "67f03c4d330467e31f3b2584",
         "id": "1230",
         "name": "基于神经网络的智能诊断",
         "title": "大型风力发电机电磁故障及智能诊断",
@@ -1104,6 +1196,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/基于神经网络的智能诊断.pdf"
     },
     {
+        "_id": "67f03c4d330467e31f3b2585",
         "id": "1230",
         "name": "基于网络环境的智能控制",
         "title": "智能制造技术基础",
@@ -1116,6 +1209,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/基于网络环境的智能控制.pdf"
     },
     {
+        "_id": "67f03c4e330467e31f3b2586",
         "id": "1230",
         "name": "多智能体原理与技术",
         "title": "智能制造技术基础",
@@ -1128,6 +1222,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/多智能体原理与技术.pdf"
     },
     {
+        "_id": "67f03c4f330467e31f3b2587",
         "id": "1230",
         "name": "大脑设计  适应性行为的起源",
         "title": "大脑设计",
@@ -1140,6 +1235,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/大脑设计  适应性行为的起源.pdf"
     },
     {
+        "_id": "67f03c4f330467e31f3b2588",
         "id": "1230",
         "name": "大规模人工神经网络理论基础",
         "title": "计算机类教材书目(2005.9)",
@@ -1152,6 +1248,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/大规模人工神经网络理论基础.pdf"
     },
     {
+        "_id": "67f03c50330467e31f3b2589",
         "id": "1230",
         "name": "智能信息处理和智能控制",
         "title": "自动化学科专业的定位与发展/",
@@ -1164,6 +1261,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能信息处理和智能控制.pdf"
     },
     {
+        "_id": "67f03c51330467e31f3b258a",
         "id": "1230",
         "name": "智能控制",
         "title": "智能控制——理论基础、算法设计与应用",
@@ -1176,6 +1274,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制.pdf"
     },
     {
+        "_id": "67f03c51330467e31f3b258b",
         "id": "1230",
         "name": "智能控制——基础与应用",
         "title": "管理控制：基础、理论与应用",
@@ -1188,6 +1287,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制——基础与应用.pdf"
     },
     {
+        "_id": "67f03c52330467e31f3b258c",
         "id": "1230",
         "name": "智能控制与Lon网络开发技术",
         "title": "引领人工智能 与先进信息传播技术 构建知识型社会",
@@ -1200,6 +1300,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制与Lon网络开发技术.pdf"
     },
     {
+        "_id": "67f03c53330467e31f3b258d",
         "id": "1230",
         "name": "智能控制原理及应用",
         "title": "现代传感器原理及应用",
@@ -1212,6 +1313,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制原理及应用.pdf"
     },
     {
+        "_id": "67f03c54330467e31f3b258e",
         "id": "1230",
         "name": "智能控制导论",
         "title": "智能控制导论",
@@ -1224,6 +1326,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制导论.pdf"
     },
     {
+        "_id": "67f03c54330467e31f3b258f",
         "id": "1230",
         "name": "智能控制技术",
         "title": "电梯智能控制技术与维修",
@@ -1236,6 +1339,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制技术.pdf"
     },
     {
+        "_id": "67f03c55330467e31f3b2590",
         "id": "1230",
         "name": "智能控制理论与技术",
         "title": "智能控制理论与技术",
@@ -1248,6 +1352,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制理论与技术.pdf"
     },
     {
+        "_id": "67f03c56330467e31f3b2591",
         "id": "1230",
         "name": "智能控制系统",
         "title": "自动控制原理",
@@ -1260,6 +1365,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制系统.pdf"
     },
     {
+        "_id": "67f03c57330467e31f3b2592",
         "id": "1230",
         "name": "智能控制系统及其应用",
         "title": "机器学习及其应用",
@@ -1272,6 +1378,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能控制系统及其应用.pdf"
     },
     {
+        "_id": "67f03c57330467e31f3b2593",
         "id": "1230",
         "name": "智能系统的综合集成",
         "title": "系统工程教程",
@@ -1284,6 +1391,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能系统的综合集成.pdf"
     },
     {
+        "_id": "67f03c58330467e31f3b2594",
         "id": "1230",
         "name": "智能系统：结构、设计与控制",
         "title": "清华大学志",
@@ -1296,6 +1404,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/智能系统：结构、设计与控制.pdf"
     },
     {
+        "_id": "67f03c59330467e31f3b2595",
         "id": "1230",
         "name": "电脑人脑化 神经网络",
         "title": "Wu li",
@@ -1308,6 +1417,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/电脑人脑化 神经网络.pdf"
     },
     {
+        "_id": "67f03c59330467e31f3b2596",
         "id": "1230",
         "name": "神经网络设计 (美)Hagan",
         "title": "Quan guo zong shu mu",
@@ -1320,6 +1430,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1230/神经网络设计 (美)Hagan.pdf"
     },
     {
+        "_id": "67f03c5a330467e31f3b2597",
         "id": "1232",
         "name": "3209080_TensorFlow与自然语言处理应用_1_414_1580715285",
         "title": "3209080_TensorFlow与自然语言处理应用_1_414_1580715285",
@@ -1332,6 +1443,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/3209080_TensorFlow与自然语言处理应用_1_414_1580715285.pdf"
     },
     {
+        "_id": "67f03c5a330467e31f3b2598",
         "id": "1232",
         "name": "@premium_ebooks_Transformers_for_Natural_Language_Processing_and",
         "title": "@premium_ebooks_Transformers_for_Natural_Language_Processing_and",
@@ -1344,6 +1456,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/@premium_ebooks_Transformers_for_Natural_Language_Processing_and.pdf"
     },
     {
+        "_id": "67f03c5a330467e31f3b2599",
         "id": "1232",
         "name": "An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition_Daniel.Jurafsky",
         "title": "Speech and Language Processing",
@@ -1356,6 +1469,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition_Daniel.Jurafsky.pdf"
     },
     {
+        "_id": "67f03c5b330467e31f3b259a",
         "id": "1232",
         "name": "ClarkEtAl2010_HandbookNLP",
         "title": "ClarkEtAl2010_HandbookNLP",
@@ -1368,6 +1482,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/ClarkEtAl2010_HandbookNLP.pdf"
     },
     {
+        "_id": "67f03c5c330467e31f3b259b",
         "id": "1232",
         "name": "Natural Language Processing 2018",
         "title": "Speech and Language Processing",
@@ -1380,6 +1495,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Natural Language Processing 2018.pdf"
     },
     {
+        "_id": "67f03c5c330467e31f3b259c",
         "id": "1232",
         "name": "Natural Language Processing with Python 2009",
         "title": "Natural Language Processing with Python",
@@ -1392,6 +1508,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Natural Language Processing with Python 2009.pdf"
     },
     {
+        "_id": "67f03c5d330467e31f3b259d",
         "id": "1232",
         "name": "Natural Language Processing with Python",
         "title": "Natural Language Processing with Python",
@@ -1404,6 +1521,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Natural Language Processing with Python.pdf"
     },
     {
+        "_id": "67f03c5e330467e31f3b259e",
         "id": "1232",
         "name": "Natural Language Processing",
         "title": "Speech and Language Processing",
@@ -1416,6 +1534,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Natural Language Processing.pdf"
     },
     {
+        "_id": "67f03c5f330467e31f3b259f",
         "id": "1232",
         "name": "NLP",
         "title": "Speech and Language Processing",
@@ -1428,6 +1547,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/NLP.pdf"
     },
     {
+        "_id": "67f03c5f330467e31f3b25a0",
         "id": "1232",
         "name": "NLTK基础教程－用NLTK和Python库构建机器学习应用",
         "title": "NLTK应用开发指南",
@@ -1440,6 +1560,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/NLTK基础教程－用NLTK和Python库构建机器学习应用.pdf"
     },
     {
+        "_id": "67f03c60330467e31f3b25a1",
         "id": "1232",
         "name": "NLTK基础教程：用NLTK和Python库构建机器学习应用",
         "title": "NLTK应用开发指南",
@@ -1452,6 +1573,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/NLTK基础教程：用NLTK和Python库构建机器学习应用.pdf"
     },
     {
+        "_id": "67f03c60330467e31f3b25a2",
         "id": "1232",
         "name": "Speech and Language Processing (3rd Edition)",
         "title": "Speech and Language Processing",
@@ -1464,6 +1586,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Speech and Language Processing (3rd Edition).pdf"
     },
     {
+        "_id": "67f03c61330467e31f3b25a3",
         "id": "1232",
         "name": "speech and language processing",
         "title": "Speech and Language Processing",
@@ -1476,6 +1599,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/speech and language processing.pdf"
     },
     {
+        "_id": "67f03c61330467e31f3b25a4",
         "id": "1232",
         "name": "TensorFlow与自然语言处理应用 李孟全 2019",
         "title": "TensorFlow与自然语言处理应用 李孟全 2019",
@@ -1488,6 +1612,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/TensorFlow与自然语言处理应用 李孟全 2019.pdf"
     },
     {
+        "_id": "67f03c62330467e31f3b25a5",
         "id": "1232",
         "name": "The power of deeper networks for expressing natural functions 2018",
         "title": "Mathematical Aspects of Deep Learning",
@@ -1500,6 +1625,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/The power of deeper networks for expressing natural functions 2018.pdf"
     },
     {
+        "_id": "67f03c63330467e31f3b25a6",
         "id": "1232",
         "name": "Transformers_for_Natural_Language_Processing_and",
         "title": "Transformers for Natural Language Processing and Computer Vision",
@@ -1512,6 +1638,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/Transformers_for_Natural_Language_Processing_and.pdf"
     },
     {
+        "_id": "67f03c63330467e31f3b25a7",
         "id": "1232",
         "name": "自然语言处理原理与技术实现",
         "title": "Python和NLTK实现自然语言处理",
@@ -1524,6 +1651,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/自然语言处理原理与技术实现.pdf"
     },
     {
+        "_id": "67f03c64330467e31f3b25a8",
         "id": "1232",
         "name": "自然语言处理原理与技术实现2019",
         "title": "人工智能与教育",
@@ -1536,6 +1664,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1232/自然语言处理原理与技术实现2019.pdf"
     },
     {
+        "_id": "67f03c65330467e31f3b25a9",
         "id": "1236",
         "name": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
         "title": "Game Changer",
@@ -1548,6 +1677,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play.pdf"
     },
     {
+        "_id": "67f03c65330467e31f3b25aa",
         "id": "1236",
         "name": "A View on Deep Reinforcement Learning in System Optimization",
         "title": "Data-Driven Science and Engineering",
@@ -1560,6 +1690,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/A View on Deep Reinforcement Learning in System Optimization.pdf"
     },
     {
+        "_id": "67f03c67330467e31f3b25ab",
         "id": "1236",
         "name": "Adaptive Critics and the Basal Ganglia",
         "title": "Models of Information Processing in the Basal Ganglia",
@@ -1572,6 +1703,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Adaptive Critics and the Basal Ganglia.pdf"
     },
     {
+        "_id": "67f03c67330467e31f3b25ac",
         "id": "1236",
         "name": "Algorithms for Reinforcement Learning - Lecture by Szepesvari (2009)",
         "title": "Algorithms for Reinforcement Learning",
@@ -1584,6 +1716,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Algorithms for Reinforcement Learning - Lecture by Szepesvari (2009).pdf"
     },
     {
+        "_id": "67f03c68330467e31f3b25ad",
         "id": "1236",
         "name": "An Analysis of Temporal-Difference Learning with  Function  Approximation",
         "title": "An Analysis of Temporal-difference Learning with Function Approximation",
@@ -1596,6 +1729,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/An Analysis of Temporal-Difference Learning with  Function  Approximation.pdf"
     },
     {
+        "_id": "67f03c68330467e31f3b25ae",
         "id": "1236",
         "name": "An Introduction to Deep Reinforcement Learning",
         "title": "An Introduction to Deep Reinforcement Learning",
@@ -1608,6 +1742,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/An Introduction to Deep Reinforcement Learning.pdf"
     },
     {
+        "_id": "67f03c69330467e31f3b25af",
         "id": "1236",
         "name": "applied-reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-1nbsped-1484251261-9781484251263",
         "title": "Applied Reinforcement Learning with Python",
@@ -1620,6 +1755,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/applied-reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-1nbsped-1484251261-9781484251263.pdf"
     },
     {
+        "_id": "67f03c6a330467e31f3b25b0",
         "id": "1236",
         "name": "Between MDPs and semi-MDPs - A framework for temporal abstraction in reinforcement learning",
         "title": "Algorithms for Reinforcement Learning",
@@ -1632,6 +1768,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Between MDPs and semi-MDPs - A framework for temporal abstraction in reinforcement learning.pdf"
     },
     {
+        "_id": "67f03c6a330467e31f3b25b1",
         "id": "1236",
         "name": "Curiosity-driven Exploration by Self-supervised Prediction",
         "title": "Intelligent Systems and Applications",
@@ -1644,6 +1781,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Curiosity-driven Exploration by Self-supervised Prediction.pdf"
     },
     {
+        "_id": "67f03c6b330467e31f3b25b2",
         "id": "1236",
         "name": "Curious model-building control systems - Schmidhuber 1991",
         "title": "Active Inference",
@@ -1656,6 +1794,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Curious model-building control systems - Schmidhuber 1991.pdf"
     },
     {
+        "_id": "67f03c6d330467e31f3b25b3",
         "id": "1236",
         "name": "David Silver-s RL lectures",
         "title": "Reinforcement Learning, second edition",
@@ -1668,6 +1807,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/David Silver-s RL lectures.pdf"
     },
     {
+        "_id": "67f03c6e330467e31f3b25b4",
         "id": "1236",
         "name": "Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games",
         "title": "Computer Games",
@@ -1680,6 +1820,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Deep Learning for Reward Design to Improve Monte Carlo Tree Search in ATARI Games.pdf"
     },
     {
+        "_id": "67f03c6e330467e31f3b25b5",
         "id": "1236",
         "name": "Deep Recurrent Q-Learning for Partially Observable MDPs",
         "title": "Deep Reinforcement Learning with Python",
@@ -1692,6 +1833,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Deep Recurrent Q-Learning for Partially Observable MDPs.pdf"
     },
     {
+        "_id": "67f03c6f330467e31f3b25b6",
         "id": "1236",
         "name": "Deep Reinforcement Learning 2018",
         "title": "Reinforcement Learning, second edition",
@@ -1704,6 +1846,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Deep Reinforcement Learning 2018.pdf"
     },
     {
+        "_id": "67f03c70330467e31f3b25b7",
         "id": "1236",
         "name": "Deep Reinforcement Learning With Python by Sudharsan Ravichandiran toc",
         "title": "Hands-On Reinforcement Learning with Python",
@@ -1716,6 +1859,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Deep Reinforcement Learning With Python by Sudharsan Ravichandiran toc.pdf"
     },
     {
+        "_id": "67f03c70330467e31f3b25b8",
         "id": "1236",
         "name": "Deep RL that matters",
         "title": "Foundations of Deep Reinforcement Learning",
@@ -1728,6 +1872,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Deep RL that matters.pdf"
     },
     {
+        "_id": "67f03c71330467e31f3b25b9",
         "id": "1236",
         "name": "DeepMDP - Learning Continuous Latent Space Models for Representation Learning",
         "title": "Computer Vision – ACCV 2024",
@@ -1740,6 +1885,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/DeepMDP - Learning Continuous Latent Space Models for Representation Learning.pdf"
     },
     {
+        "_id": "67f03c72330467e31f3b25ba",
         "id": "1236",
         "name": "DeepMimic - Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills",
         "title": "Intelligent Computing",
@@ -1752,6 +1898,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/DeepMimic - Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills.pdf"
     },
     {
+        "_id": "67f03c73330467e31f3b25bb",
         "id": "1236",
         "name": "dokumen.pub_applied-reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-978-1-4842-5127-0",
         "title": "Applied Reinforcement Learning with Python",
@@ -1764,6 +1911,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/dokumen.pub_applied-reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-978-1-4842-5127-0.pdf"
     },
     {
+        "_id": "67f03c73330467e31f3b25bc",
         "id": "1236",
         "name": "dokumen.pub_hands-on-q-learning-with-python-practical-q-learning-with-openai-gym-keras-and-tensorflow-978-1-78934-580-3",
         "title": "Hands-On Q-Learning with Python",
@@ -1776,6 +1924,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/dokumen.pub_hands-on-q-learning-with-python-practical-q-learning-with-openai-gym-keras-and-tensorflow-978-1-78934-580-3.pdf"
     },
     {
+        "_id": "67f03c74330467e31f3b25bd",
         "id": "1236",
         "name": "Episodic Curiosity through Reachability",
         "title": "Data-Driven Fluid Mechanics",
@@ -1788,6 +1937,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Episodic Curiosity through Reachability.pdf"
     },
     {
+        "_id": "67f03c74330467e31f3b25be",
         "id": "1236",
         "name": "Exploration and Exploitation CMU lecture",
         "title": "Reinforcement Learning, second edition",
@@ -1800,6 +1950,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Exploration and Exploitation CMU lecture.pdf"
     },
     {
+        "_id": "67f03c75330467e31f3b25bf",
         "id": "1236",
         "name": "hands-on-reinforcement-learning-with-python-master-reinforcement-and-deep-reinforcement-learning-from-scratch-using-openai-gym-and-tensorf-2nbsped-9781839210686-1839210680",
         "title": "Hands-On Reinforcement Learning with Python",
@@ -1812,6 +1963,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/hands-on-reinforcement-learning-with-python-master-reinforcement-and-deep-reinforcement-learning-from-scratch-using-openai-gym-and-tensorf-2nbsped-9781839210686-1839210680.pdf"
     },
     {
+        "_id": "67f03c76330467e31f3b25c0",
         "id": "1236",
         "name": "hands-on-reinforcement-learning-with-python-master-reinforcement-and-deep-reinforcement-learning-using-openai-gym-and-tensorflow-9781788836524",
         "title": "Hands-On Reinforcement Learning with Python",
@@ -1824,6 +1976,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/hands-on-reinforcement-learning-with-python-master-reinforcement-and-deep-reinforcement-learning-using-openai-gym-and-tensorflow-9781788836524.pdf"
     },
     {
+        "_id": "67f03c76330467e31f3b25c1",
         "id": "1236",
         "name": "Making Reinforcement Learning practical",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -1836,6 +1989,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Making Reinforcement Learning practical.pdf"
     },
     {
+        "_id": "67f03c77330467e31f3b25c2",
         "id": "1236",
         "name": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
         "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
@@ -1848,6 +2002,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model.pdf"
     },
     {
+        "_id": "67f03c78330467e31f3b25c3",
         "id": "1236",
         "name": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
         "title": "Game Changer",
@@ -1860,6 +2015,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.pdf"
     },
     {
+        "_id": "67f03c78330467e31f3b25c4",
         "id": "1236",
         "name": "Mastering the game of go without human knowledge - DeepMind (Nature 2017)",
         "title": "Principles of Machine Learning",
@@ -1872,6 +2028,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Mastering the game of go without human knowledge - DeepMind (Nature 2017).pdf"
     },
     {
+        "_id": "67f03c79330467e31f3b25c5",
         "id": "1236",
         "name": "Modern Deep Reinforcement Learning Algorithms",
         "title": "Deep Reinforcement Learning Hands-On",
@@ -1884,6 +2041,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Modern Deep Reinforcement Learning Algorithms.pdf"
     },
     {
+        "_id": "67f03c79330467e31f3b25c6",
         "id": "1236",
         "name": "Near-Optimal Reinforcement Learning in Polynomial Time",
         "title": "Algorithms for Reinforcement Learning",
@@ -1896,6 +2054,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Near-Optimal Reinforcement Learning in Polynomial Time.pdf"
     },
     {
+        "_id": "67f03c7a330467e31f3b25c7",
         "id": "1236",
         "name": "PEGASUS - A policy search method for large MDPs",
         "title": "Shaping and Policy Search in Reinforcement Learning",
@@ -1908,6 +2067,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/PEGASUS - A policy search method for large MDPs.pdf"
     },
     {
+        "_id": "67f03c7b330467e31f3b25c8",
         "id": "1236",
         "name": "Playing Atari with Deep Reinforcement Learning (2013)",
         "title": "Deep Reinforcement Learning with Python",
@@ -1920,6 +2080,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Playing Atari with Deep Reinforcement Learning (2013).pdf"
     },
     {
+        "_id": "67f03c7b330467e31f3b25c9",
         "id": "1236",
         "name": "Policy Gradient Methods for Reinforcement Learning with Function Approximation - Sutton (2000)",
         "title": "Reinforcement Learning, second edition",
@@ -1932,6 +2093,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Policy Gradient Methods for Reinforcement Learning with Function Approximation - Sutton (2000).pdf"
     },
     {
+        "_id": "67f03c7c330467e31f3b25ca",
         "id": "1236",
         "name": "Prefrontal cortex as a meta-reinforcement learning system",
         "title": "Mastering Reinforcement Learning with Python",
@@ -1944,6 +2106,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Prefrontal cortex as a meta-reinforcement learning system.pdf"
     },
     {
+        "_id": "67f03c7d330467e31f3b25cb",
         "id": "1236",
         "name": "Proximal Policy Optimization Algorithms",
         "title": "Optimization Algorithms",
@@ -1956,6 +2119,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Proximal Policy Optimization Algorithms.pdf"
     },
     {
+        "_id": "67f03c7e330467e31f3b25cc",
         "id": "1236",
         "name": "Reinforcement Learning - A Tutorial Survey and Recent Advances",
         "title": "Reinforcement Learning, second edition",
@@ -1968,6 +2132,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Reinforcement Learning - A Tutorial Survey and Recent Advances.pdf"
     },
     {
+        "_id": "67f03c7e330467e31f3b25cd",
         "id": "1236",
         "name": "Reinforcement Learning - An Introduction - Sutton, Barto",
         "title": "Reinforcement Learning, second edition",
@@ -1980,6 +2145,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Reinforcement Learning - An Introduction - Sutton, Barto.pdf"
     },
     {
+        "_id": "67f03c7f330467e31f3b25ce",
         "id": "1236",
         "name": "Reinforcement Learning A survey - Kaelbling, Littman",
         "title": "Reinforcement Learning, second edition",
@@ -1992,6 +2158,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Reinforcement Learning A survey - Kaelbling, Littman.pdf"
     },
     {
+        "_id": "67f03c80330467e31f3b25cf",
         "id": "1236",
         "name": "Reinforcement Learning Brown Univ notes",
         "title": "Reinforcement Learning, second edition",
@@ -2004,6 +2171,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Reinforcement Learning Brown Univ notes.pdf"
     },
     {
+        "_id": "67f03c81330467e31f3b25d0",
         "id": "1236",
         "name": "Reinforcement Learning for Long-Run Average Cost",
         "title": "Algorithms for Reinforcement Learning",
@@ -2016,6 +2184,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Reinforcement Learning for Long-Run Average Cost.pdf"
     },
     {
+        "_id": "67f03c82330467e31f3b25d1",
         "id": "1236",
         "name": "reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-1st-ed-978-1-4842-5126-3-978-1-4842-5127-0",
         "title": "James's Journal",
@@ -2028,6 +2197,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/reinforcement-learning-with-python-with-openai-gym-tensorflow-and-keras-1st-ed-978-1-4842-5126-3-978-1-4842-5127-0.pdf"
     },
     {
+        "_id": "67f03c83330467e31f3b25d2",
         "id": "1236",
         "name": "Sutton Reinforcement Learning",
         "title": "Reinforcement Learning, second edition",
@@ -2040,6 +2210,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1200/1236/Sutton Reinforcement Learning.pdf"
     },
     {
+        "_id": "67f03c83330467e31f3b25d3",
         "id": "1222",
         "name": "(ebook-Artificial Intelligence) Gavanelli - Interactive Constraint Satisfaction Problems for Artificial Vision",
         "title": "Intelligent Computing",
@@ -2052,6 +2223,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/(ebook-Artificial Intelligence) Gavanelli - Interactive Constraint Satisfaction Problems for Artificial Vision.pdf"
     },
     {
+        "_id": "67f03c84330467e31f3b25d4",
         "id": "1222",
         "name": "(人工智能)Nils J. Nilsson_Artificial Intelligence A New Synthesis",
         "title": "人工智能",
@@ -2064,6 +2236,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/(人工智能)Nils J. Nilsson_Artificial Intelligence A New Synthesis.pdf"
     },
     {
+        "_id": "67f03c84330467e31f3b25d5",
         "id": "1222",
         "name": "03_hoary_计算机程序的构造和解释.pdf.中文版[www.ed2kers.com]",
         "title": "03_hoary_计算机程序的构造和解释.pdf.中文版[www.ed2kers.com]",
@@ -2076,6 +2249,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/03_hoary_计算机程序的构造和解释.pdf.中文版[www.ed2kers.com].pdf"
     },
     {
+        "_id": "67f03c85330467e31f3b25d6",
         "id": "1222",
         "name": "A Day in the Life of a Developer — Building a Dashboard App with SQL, Node.js, Django, and Next.js_Andrew Baisden",
         "title": "A Day in the Life of a Developer — Building a Dashboard App with SQL, Node.js, Django, and Next.js_Andrew Baisden",
@@ -2088,6 +2262,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/A Day in the Life of a Developer — Building a Dashboard App with SQL, Node.js, Django, and Next.js_Andrew Baisden.pdf"
     },
     {
+        "_id": "67f03c85330467e31f3b25d7",
         "id": "1222",
         "name": "AI_Integration_in_Software_Development_and_Operations",
         "title": "AI Integration in Software Development and Operations",
@@ -2100,6 +2275,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/AI_Integration_in_Software_Development_and_Operations.pdf"
     },
     {
+        "_id": "67f03c86330467e31f3b25d8",
         "id": "1222",
         "name": "An AI application that can chat with any SQL database. _ by Apurv Agarwal _ Medium",
         "title": "Problems with AI (Artificial Intelligence)",
@@ -2112,6 +2288,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/An AI application that can chat with any SQL database. _ by Apurv Agarwal _ Medium.pdf"
     },
     {
+        "_id": "67f03c87330467e31f3b25d9",
         "id": "1222",
         "name": "An AI application that can chat with any SQL database.RAG _ by Apurv Agarwal _ Medium",
         "title": "Multiword expressions",
@@ -2124,6 +2301,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/An AI application that can chat with any SQL database.RAG _ by Apurv Agarwal _ Medium.pdf"
     },
     {
+        "_id": "67f03c87330467e31f3b25da",
         "id": "1222",
         "name": "Artificial Intelligence - A Modern Approach (3rd Edition)",
         "title": "Artificial Intelligence",
@@ -2136,6 +2314,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Artificial Intelligence - A Modern Approach (3rd Edition).pdf"
     },
     {
+        "_id": "67f03c88330467e31f3b25db",
         "id": "1222",
         "name": "Artificial Intelligence and Software Engineering",
         "title": "Artificial Intelligence Methods For Software Engineering",
@@ -2148,6 +2327,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Artificial Intelligence and Software Engineering.pdf"
     },
     {
+        "_id": "67f03c89330467e31f3b25dc",
         "id": "1222",
         "name": "Artificial Intelligence through Prolog",
         "title": "Artificial Intelligence Through Prolog",
@@ -2160,6 +2340,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Artificial Intelligence through Prolog.pdf"
     },
     {
+        "_id": "67f03c89330467e31f3b25dd",
         "id": "1222",
         "name": "Artificial.Intelligence.and.Soft.Computing.Behavioral.and.Cognitive.Modeling.of.the.Human.Brain.eBook-EEn",
         "title": "The Quest for Artificial Intelligence",
@@ -2172,6 +2353,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Artificial.Intelligence.and.Soft.Computing.Behavioral.and.Cognitive.Modeling.of.the.Human.Brain.eBook-EEn.pdf"
     },
     {
+        "_id": "67f03c8a330467e31f3b25de",
         "id": "1222",
         "name": "Artificial_Intelligence_for_Robotics_Build_intelligent",
         "title": "Artificial Intelligence for Robotics",
@@ -2184,6 +2366,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Artificial_Intelligence_for_Robotics_Build_intelligent.pdf"
     },
     {
+        "_id": "67f03c8a330467e31f3b25df",
         "id": "1222",
         "name": "Attentive Explanations - Justifying Decisions and Pointing to the Evidence",
         "title": "Explainable and Interpretable Models in Computer Vision and Machine Learning",
@@ -2196,6 +2379,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Attentive Explanations - Justifying Decisions and Pointing to the Evidence.pdf"
     },
     {
+        "_id": "67f03c8b330467e31f3b25e0",
         "id": "1222",
         "name": "Basic Lisp Techniques",
         "title": "On Lisp",
@@ -2208,6 +2392,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Basic Lisp Techniques.pdf"
     },
     {
+        "_id": "67f03c8c330467e31f3b25e1",
         "id": "1222",
         "name": "Bayesian Methods for Hackers-Probabilistic Programming and Bayesian Inference",
         "title": "Bayesian Methods for Hackers",
@@ -2220,6 +2405,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Bayesian Methods for Hackers-Probabilistic Programming and Bayesian Inference.pdf"
     },
     {
+        "_id": "67f03c8c330467e31f3b25e2",
         "id": "1222",
         "name": "COLTSurveyArticle",
         "title": "COLTSurveyArticle",
@@ -2232,6 +2418,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/COLTSurveyArticle.pdf"
     },
     {
+        "_id": "67f03c8d330467e31f3b25e3",
         "id": "1222",
         "name": "Common Lisp - A Gentle Introduction To Symbolic Computation",
         "title": "Common LISP",
@@ -2244,6 +2431,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Common Lisp - A Gentle Introduction To Symbolic Computation.pdf"
     },
     {
+        "_id": "67f03c8e330467e31f3b25e4",
         "id": "1222",
         "name": "Computer Science - Ai - Artificial Intelligence Programming",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -2256,6 +2444,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Computer Science - Ai - Artificial Intelligence Programming.pdf"
     },
     {
+        "_id": "67f03c8e330467e31f3b25e5",
         "id": "1222",
         "name": "DARPA XAI Program Update",
         "title": "Impacts of Generative AI on Creativity in Higher Education",
@@ -2268,6 +2457,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/DARPA XAI Program Update.pdf"
     },
     {
+        "_id": "67f03c8f330467e31f3b25e6",
         "id": "1222",
         "name": "Deep k-Nearest Neighbors",
         "title": "Modern Approaches in Machine Learning and Cognitive Science: A Walkthrough",
@@ -2280,6 +2470,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Deep k-Nearest Neighbors.pdf"
     },
     {
+        "_id": "67f03c8f330467e31f3b25e7",
         "id": "1222",
         "name": "Developing Apps With Gpt-4 and - Olivier Caelen & Marie-Alice B_49179",
         "title": "Developing Apps with GPT-4 and ChatGPT",
@@ -2292,6 +2483,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Developing Apps With Gpt-4 and - Olivier Caelen & Marie-Alice B_49179.pdf"
     },
     {
+        "_id": "67f03c90330467e31f3b25e8",
         "id": "1222",
         "name": "Efficiency and Computational Limitations of Learning Algorithms",
         "title": "Understanding Machine Learning",
@@ -2304,6 +2496,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Efficiency and Computational Limitations of Learning Algorithms.pdf"
     },
     {
+        "_id": "67f03c91330467e31f3b25e9",
         "id": "1222",
         "name": "End-to-End Machine Learning Project_ Churn Prediction _ by Ramazan Olmez _ Medium",
         "title": "Motherland Hotel",
@@ -2316,6 +2509,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/End-to-End Machine Learning Project_ Churn Prediction _ by Ramazan Olmez _ Medium.pdf"
     },
     {
+        "_id": "67f03c91330467e31f3b25ea",
         "id": "1222",
         "name": "Explanation in Artificial Intelligence - Insights from the Social Sciences",
         "title": "Explainable Artificial Intelligence",
@@ -2328,6 +2522,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Explanation in Artificial Intelligence - Insights from the Social Sciences.pdf"
     },
     {
+        "_id": "67f03c92330467e31f3b25eb",
         "id": "1222",
         "name": "Exploring galaxy evolution with generative models",
         "title": "AI for Physics",
@@ -2340,6 +2535,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Exploring galaxy evolution with generative models.pdf"
     },
     {
+        "_id": "67f03c94330467e31f3b25ec",
         "id": "1222",
         "name": "Fair is Better than Sensational - Man is to Doctor as Woman is to Doctor",
         "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
@@ -2352,6 +2548,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Fair is Better than Sensational - Man is to Doctor as Woman is to Doctor.pdf"
     },
     {
+        "_id": "67f03c95330467e31f3b25ed",
         "id": "1222",
         "name": "Fine-Tuning Llama 3 and Using It Locally_ A Step-by-Step Guide _ DataCamp",
         "title": "Natural Language Processing with TensorFlow",
@@ -2364,6 +2561,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Fine-Tuning Llama 3 and Using It Locally_ A Step-by-Step Guide _ DataCamp.pdf"
     },
     {
+        "_id": "67f03c96330467e31f3b25ee",
         "id": "1222",
         "name": "Gaussian Processes for Machine Learning",
         "title": "Gaussian Processes for Machine Learning",
@@ -2376,6 +2574,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Gaussian Processes for Machine Learning.pdf"
     },
     {
+        "_id": "67f03c96330467e31f3b25ef",
         "id": "1222",
         "name": "gluon_tutorials_zh",
         "title": "Dive Into Deep Learning",
@@ -2388,6 +2587,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/gluon_tutorials_zh.pdf"
     },
     {
+        "_id": "67f03c97330467e31f3b25f0",
         "id": "1222",
         "name": "Introduction to Prolog",
         "title": "Programming in Prolog",
@@ -2400,6 +2600,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Introduction to Prolog.PDF"
     },
     {
+        "_id": "67f03c98330467e31f3b25f1",
         "id": "1222",
         "name": "John Haugeland - Mind Design II -- Philosophy, Psychology, Artificial Intelligence",
         "title": "Mind Design II",
@@ -2412,6 +2613,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/John Haugeland - Mind Design II -- Philosophy, Psychology, Artificial Intelligence.pdf"
     },
     {
+        "_id": "67f03c99330467e31f3b25f2",
         "id": "1222",
         "name": "Learn Prolog Now",
         "title": "Learn Prolog Now!",
@@ -2424,6 +2626,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Learn Prolog Now.pdf"
     },
     {
+        "_id": "67f03c99330467e31f3b25f3",
         "id": "1222",
         "name": "Learning to Predict the Cosmological Structure Formation",
         "title": "Towards the Automatization of Cranial Implant Design in Cranioplasty",
@@ -2436,6 +2639,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Learning to Predict the Cosmological Structure Formation.pdf"
     },
     {
+        "_id": "67f03c9a330467e31f3b25f4",
         "id": "1222",
         "name": "Logic.Programming.And.Prolog.Second.Edition",
         "title": "Logic Programming with Prolog",
@@ -2448,6 +2652,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Logic.Programming.And.Prolog.Second.Edition.pdf"
     },
     {
+        "_id": "67f03c9a330467e31f3b25f5",
         "id": "1222",
         "name": "Machine-Learning Non-Conservative Dynamics for New-Physics Detection",
         "title": "The Principles of Deep Learning Theory",
@@ -2460,6 +2665,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Machine-Learning Non-Conservative Dynamics for New-Physics Detection.pdf"
     },
     {
+        "_id": "67f03c9a330467e31f3b25f6",
         "id": "1222",
         "name": "Mit机电工程与计算机科学系【本科生课程】6.034 人工智能 Artificial Intelligence",
         "title": "Mit机电工程与计算机科学系【本科生课程】6.034 人工智能 Artificial Intelligence",
@@ -2472,6 +2678,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Mit机电工程与计算机科学系【本科生课程】6.034 人工智能 Artificial Intelligence.pdf"
     },
     {
+        "_id": "67f03c9b330467e31f3b25f7",
         "id": "1222",
         "name": "Newton vs the machine - solving the chaotic three-body",
         "title": "Large-Scale Structure of the Universe",
@@ -2484,6 +2691,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Newton vs the machine - solving the chaotic three-body.pdf"
     },
     {
+        "_id": "67f03c9c330467e31f3b25f8",
         "id": "1222",
         "name": "On the effect of data set size on bias and variance in classification learning",
         "title": "Learning in Non-Stationary Environments",
@@ -2496,6 +2704,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/On the effect of data set size on bias and variance in classification learning.pdf"
     },
     {
+        "_id": "67f03c9c330467e31f3b25f9",
         "id": "1222",
         "name": "OpenAI_GPT_4_Python_Developers",
         "title": "OpenAI GPT For Python Developers",
@@ -2508,6 +2717,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/OpenAI_GPT_4_Python_Developers.pdf"
     },
     {
+        "_id": "67f03c9d330467e31f3b25fa",
         "id": "1222",
         "name": "OpenAI_GPT_For_Python_Developers_Aymen_El_Amri_eon01",
         "title": "OpenAI_GPT_For_Python_Developers_Aymen_El_Amri_eon01",
@@ -2520,6 +2730,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/OpenAI_GPT_For_Python_Developers_Aymen_El_Amri_eon01.pdf"
     },
     {
+        "_id": "67f03c9d330467e31f3b25fb",
         "id": "1222",
         "name": "Prentice Hall - On Lisp - Advanced Techniques for Common Lisp - 1993 - (By Laxxuss)",
         "title": "On Lisp",
@@ -2532,6 +2743,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Prentice Hall - On Lisp - Advanced Techniques for Common Lisp - 1993 - (By Laxxuss).pdf"
     },
     {
+        "_id": "67f03c9e330467e31f3b25fc",
         "id": "1222",
         "name": "Prentice Hall Artificial Intelligence, A Modern Approach",
         "title": "Artificial Intelligence",
@@ -2544,6 +2756,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Prentice Hall Artificial Intelligence, A Modern Approach.pdf"
     },
     {
+        "_id": "67f03c9f330467e31f3b25fd",
         "id": "1222",
         "name": "Programming in Emacs Lisp",
         "title": "Programming in Emacs Lisp",
@@ -2556,6 +2769,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Programming in Emacs Lisp.pdf"
     },
     {
+        "_id": "67f03ca0330467e31f3b25fe",
         "id": "1222",
         "name": "prolog manual",
         "title": "Prolog: The Standard",
@@ -2568,6 +2782,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/prolog manual.pdf"
     },
     {
+        "_id": "67f03ca0330467e31f3b25ff",
         "id": "1222",
         "name": "Prolog Programing",
         "title": "Programming in Prolog",
@@ -2580,6 +2795,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Prolog Programing.pdf"
     },
     {
+        "_id": "67f03ca1330467e31f3b2600",
         "id": "1222",
         "name": "Prolog Programming - A First Course (1988)",
         "title": "Language Processing with Perl and Prolog",
@@ -2592,6 +2808,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Prolog Programming - A First Course (1988).pdf"
     },
     {
+        "_id": "67f03ca1330467e31f3b2601",
         "id": "1222",
         "name": "Tackling Climate Change with Machine Learning",
         "title": "Climate Change",
@@ -2604,6 +2821,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Tackling Climate Change with Machine Learning.pdf"
     },
     {
+        "_id": "67f03ca2330467e31f3b2602",
         "id": "1222",
         "name": "The AI Economist - Improving Equality and Productivity with AI-Driven Tax Policies",
         "title": "Agents and Artificial Intelligence",
@@ -2616,6 +2834,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/The AI Economist - Improving Equality and Productivity with AI-Driven Tax Policies.pdf"
     },
     {
+        "_id": "67f03ca2330467e31f3b2603",
         "id": "1222",
         "name": "The Elements of Artificial Intelligence (An Introduction using LISP)",
         "title": "The Elements of Artificial Intelligence",
@@ -2628,6 +2847,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/The Elements of Artificial Intelligence (An Introduction using LISP).pdf"
     },
     {
+        "_id": "67f03ca3330467e31f3b2604",
         "id": "1222",
         "name": "The Measure and Mismeasure of Fairness - A Critical Review of Fair Machine Learning",
         "title": "Proceedings of the XVII International symposium Symorg 2020",
@@ -2640,6 +2860,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/The Measure and Mismeasure of Fairness - A Critical Review of Fair Machine Learning.pdf"
     },
     {
+        "_id": "67f03ca3330467e31f3b2605",
         "id": "1222",
         "name": "The Mythos of Model Interpretability",
         "title": "Interpretable Machine Learning",
@@ -2652,6 +2873,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/The Mythos of Model Interpretability.pdf"
     },
     {
+        "_id": "67f03ca4330467e31f3b2606",
         "id": "1222",
         "name": "Top 50 Machine Learning Questions",
         "title": "Top 50 Machine Learning Interview Questions and Answers",
@@ -2664,6 +2886,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Top 50 Machine Learning Questions.pdf"
     },
     {
+        "_id": "67f03ca4330467e31f3b2607",
         "id": "1222",
         "name": "TossingBot -Learning to Throw Arbitrary Objects with Residual Physics",
         "title": "TossingBot -Learning to Throw Arbitrary Objects with Residual Physics",
@@ -2676,6 +2899,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/TossingBot -Learning to Throw Arbitrary Objects with Residual Physics.pdf"
     },
     {
+        "_id": "67f03ca5330467e31f3b2608",
         "id": "1222",
         "name": "Unsupervised word embeddings capture latent knowledge from materials science literature",
         "title": "Accelerated Materials Discovery",
@@ -2688,6 +2912,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/Unsupervised word embeddings capture latent knowledge from materials science literature.pdf"
     },
     {
+        "_id": "67f03ca5330467e31f3b2609",
         "id": "1222",
         "name": "[人工智能].(Artificial.Intelligence.Structures.and.Strategies.for.Complex.Problem.Solving,.6ed),.Luger,.文字版",
         "title": "Artificial Intelligence",
@@ -2700,6 +2925,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能].(Artificial.Intelligence.Structures.and.Strategies.for.Complex.Problem.Solving,.6ed),.Luger,.文字版.pdf"
     },
     {
+        "_id": "67f03ca6330467e31f3b260a",
         "id": "1222",
         "name": "[人工智能].Artificial.Intelligence.May.2006.PDF.eBook-DavBookS",
         "title": "Advances in Artificial Intelligence",
@@ -2712,6 +2938,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能].Artificial.Intelligence.May.2006.PDF.eBook-DavBookS.pdf"
     },
     {
+        "_id": "67f03ca7330467e31f3b260b",
         "id": "1222",
         "name": "[人工智能].人工智能基础",
         "title": "人工智能基础教程",
@@ -2724,6 +2951,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能].人工智能基础.pdf"
     },
     {
+        "_id": "67f03ca7330467e31f3b260c",
         "id": "1222",
         "name": "[人工智能]On the incompatibility of faithfulness and,Artificial.Intelligence.June.2006.PDF.eBook-DaVBookS",
         "title": "[人工智能]On the incompatibility of faithfulness and,Artificial.Intelligence.June.2006.PDF.eBook-DaVBookS",
@@ -2736,6 +2964,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能]On the incompatibility of faithfulness and,Artificial.Intelligence.June.2006.PDF.eBook-DaVBookS.pdf"
     },
     {
+        "_id": "67f03ca8330467e31f3b260d",
         "id": "1222",
         "name": "[人工智能]~人工智能及其应用（蔡自兴）",
         "title": "人工智能及其应用",
@@ -2748,6 +2977,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能]~人工智能及其应用（蔡自兴）.pdf"
     },
     {
+        "_id": "67f03ca8330467e31f3b260e",
         "id": "1222",
         "name": "[人工智能]~人工智能基礎（高教）",
         "title": "人工智能与教育",
@@ -2760,6 +2990,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能]~人工智能基礎（高教）.pdf"
     },
     {
+        "_id": "67f03ca9330467e31f3b260f",
         "id": "1222",
         "name": "[人工智能]~人工智能的原理与方法",
         "title": "人工智能的 原理與方法",
@@ -2772,6 +3003,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能]~人工智能的原理与方法.pdf"
     },
     {
+        "_id": "67f03caa330467e31f3b2610",
         "id": "1222",
         "name": "[人工智能_智能系统指南].澳_尼格尼维斯基_扫描版",
         "title": "联合国教科文组织科学报告",
@@ -2784,6 +3016,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[人工智能_智能系统指南].澳_尼格尼维斯基_扫描版.pdf"
     },
     {
+        "_id": "67f03caa330467e31f3b2611",
         "id": "1222",
         "name": "[计算机程序的构造和解释].(美国).Harold.Abelson.清晰版",
         "title": "電腦網際網路",
@@ -2796,6 +3029,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/[计算机程序的构造和解释].(美国).Harold.Abelson.清晰版.pdf"
     },
     {
+        "_id": "67f03cab330467e31f3b2612",
         "id": "1222",
         "name": "人工智能 计算Agent基础@www.java1234.com",
         "title": "软件架构设计",
@@ -2808,6 +3042,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工智能 计算Agent基础@www.java1234.com.pdf"
     },
     {
+        "_id": "67f03cac330467e31f3b2613",
         "id": "1222",
         "name": "人工智能(1)",
         "title": "人工智能",
@@ -2820,6 +3055,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工智能(1).pdf"
     },
     {
+        "_id": "67f03cac330467e31f3b2614",
         "id": "1222",
         "name": "人工智能(AI)程序设计(面向对象语言)",
         "title": "计算机类教材书目(2005.9)",
@@ -2832,6 +3068,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工智能(AI)程序设计(面向对象语言).pdf"
     },
     {
+        "_id": "67f03cad330467e31f3b2615",
         "id": "1222",
         "name": "人工智能--理论与实践",
         "title": "人工智能与教育",
@@ -2844,6 +3081,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工智能--理论与实践.pdf"
     },
     {
+        "_id": "67f03cad330467e31f3b2616",
         "id": "1222",
         "name": "人工智能-複雜問題求解的結構和策略",
         "title": "运筹学",
@@ -2856,6 +3094,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工智能-複雜問題求解的結構和策略.pdf"
     },
     {
+        "_id": "67f03cae330467e31f3b2617",
         "id": "1222",
         "name": "人工神经元网络及其应用",
         "title": "人工神经网络与模拟进化计算",
@@ -2868,6 +3107,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工神经元网络及其应用.pdf"
     },
     {
+        "_id": "67f03caf330467e31f3b2618",
         "id": "1222",
         "name": "人工神经网络原理及仿真实例",
         "title": "人工神经网络原理及仿真实例",
@@ -2880,6 +3120,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/人工神经网络原理及仿真实例.pdf"
     },
     {
+        "_id": "67f03cb0330467e31f3b2619",
         "id": "1222",
         "name": "信息处理中的模糊技术",
         "title": "模糊系统与数学",
@@ -2892,6 +3133,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/信息处理中的模糊技术.pdf"
     },
     {
+        "_id": "67f03cb0330467e31f3b261a",
         "id": "1222",
         "name": "具L2有界不确定性系统线性二次鲁棒最优控制",
         "title": "上海交通大学学报",
@@ -2904,6 +3146,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/具L2有界不确定性系统线性二次鲁棒最优控制.pdf"
     },
     {
+        "_id": "67f03cb1330467e31f3b261b",
         "id": "1222",
         "name": "复杂相似组合系统的鲁棒全息控制理论与设计",
         "title": "Dongbei daxue xuebao",
@@ -2916,6 +3159,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/复杂相似组合系统的鲁棒全息控制理论与设计.pdf"
     },
     {
+        "_id": "67f03cb2330467e31f3b261c",
         "id": "1222",
         "name": "复杂系统的模糊预测控制及其应用",
         "title": "自动化学科专业的定位与发展/",
@@ -2928,6 +3172,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/复杂系统的模糊预测控制及其应用.pdf"
     },
     {
+        "_id": "67f03cb2330467e31f3b261d",
         "id": "1222",
         "name": "机器智能：人工心理",
         "title": "《从哲学到心理，再到人工智能》",
@@ -2940,6 +3185,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/机器智能：人工心理.pdf"
     },
     {
+        "_id": "67f03cb3330467e31f3b261e",
         "id": "1222",
         "name": "机器智能：人工情感",
         "title": "我與ChatGPT有約.",
@@ -2952,6 +3198,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/机器智能：人工情感.pdf"
     },
     {
+        "_id": "67f03cb4330467e31f3b261f",
         "id": "1222",
         "name": "机器智能：人脸工程",
         "title": "人工智能：人类危局",
@@ -2964,6 +3211,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/机器智能：人脸工程.pdf"
     },
     {
+        "_id": "67f03cb5330467e31f3b2620",
         "id": "1222",
         "name": "模糊控制",
         "title": "精密测控与系统",
@@ -2976,6 +3224,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制.pdf"
     },
     {
+        "_id": "67f03cb5330467e31f3b2621",
         "id": "1222",
         "name": "模糊控制·神经控制和智能控制论",
         "title": "智能控制——理论基础、算法设计与应用",
@@ -2988,6 +3237,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制·神经控制和智能控制论.pdf"
     },
     {
+        "_id": "67f03cb6330467e31f3b2622",
         "id": "1222",
         "name": "模糊控制与神经网络",
         "title": "模糊性",
@@ -3000,6 +3250,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制与神经网络.pdf"
     },
     {
+        "_id": "67f03cb6330467e31f3b2623",
         "id": "1222",
         "name": "模糊控制与系统",
         "title": "计算机控制技术",
@@ -3012,6 +3263,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制与系统.pdf"
     },
     {
+        "_id": "67f03cb7330467e31f3b2624",
         "id": "1222",
         "name": "模糊控制原理与应用",
         "title": "模糊系统与数学",
@@ -3024,6 +3276,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制原理与应用.pdf"
     },
     {
+        "_id": "67f03cb8330467e31f3b2625",
         "id": "1222",
         "name": "模糊控制技术",
         "title": "计算机控制技术",
@@ -3036,6 +3289,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制技术.pdf"
     },
     {
+        "_id": "67f03cb8330467e31f3b2626",
         "id": "1222",
         "name": "模糊控制技术（中纺）",
         "title": "中国纺织信息化40年发展历程",
@@ -3048,6 +3302,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制技术（中纺）.pdf"
     },
     {
+        "_id": "67f03cb9330467e31f3b2627",
         "id": "1222",
         "name": "模糊控制技术（重大）",
         "title": "计算机控制技术",
@@ -3060,6 +3315,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制技术（重大）.pdf"
     },
     {
+        "_id": "67f03cba330467e31f3b2628",
         "id": "1222",
         "name": "模糊控制理论与实践",
         "title": "自动化学科专业的定位与发展/",
@@ -3072,6 +3328,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊控制理论与实践.pdf"
     },
     {
+        "_id": "67f03cbb330467e31f3b2629",
         "id": "1222",
         "name": "模糊数学及其应用",
         "title": "模糊系统与数学",
@@ -3084,6 +3341,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊数学及其应用.pdf"
     },
     {
+        "_id": "67f03cbc330467e31f3b262a",
         "id": "1222",
         "name": "模糊数学在自动化技术中的应用",
         "title": "模糊系统与数学",
@@ -3096,6 +3354,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊数学在自动化技术中的应用.pdf"
     },
     {
+        "_id": "67f03cbc330467e31f3b262b",
         "id": "1222",
         "name": "模糊知识处理的理论与技术",
         "title": "模糊系统与数学",
@@ -3108,6 +3367,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊知识处理的理论与技术.pdf"
     },
     {
+        "_id": "67f03cbd330467e31f3b262c",
         "id": "1222",
         "name": "模糊系统、模糊神经网络及应用程序设计",
         "title": "Control and Synchronization of Chaos via Fuzzy Neural Network 基于模糊神经网络的混沌控制与同步",
@@ -3120,6 +3380,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊系统、模糊神经网络及应用程序设计.pdf"
     },
     {
+        "_id": "67f03cc0330467e31f3b262d",
         "id": "1222",
         "name": "模糊自适应控制理论及其应用",
         "title": "智能控制——理论基础、算法设计与应用",
@@ -3132,6 +3393,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/模糊自适应控制理论及其应用.pdf"
     },
     {
+        "_id": "67f03cc1330467e31f3b262e",
         "id": "1222",
         "name": "演化程序——遗传算法和数据编码的结合",
         "title": "Di xue qian yuan",
@@ -3144,6 +3406,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/演化程序——遗传算法和数据编码的结合.pdf"
     },
     {
+        "_id": "67f03cc2330467e31f3b262f",
         "id": "1222",
         "name": "现代鲁棒控制理论与应用",
         "title": "现代鲁棒控制理论与应用",
@@ -3156,6 +3419,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/现代鲁棒控制理论与应用.pdf"
     },
     {
+        "_id": "67f03cc2330467e31f3b2630",
         "id": "1222",
         "name": "用于最优化的计算智能",
         "title": "军事最优化新方法",
@@ -3168,6 +3432,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/用于最优化的计算智能.pdf"
     },
     {
+        "_id": "67f03cc3330467e31f3b2631",
         "id": "1222",
         "name": "神经模糊系统及其应用",
         "title": "运筹学",
@@ -3180,6 +3445,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经模糊系统及其应用.pdf"
     },
     {
+        "_id": "67f03cc4330467e31f3b2632",
         "id": "1222",
         "name": "神经网络、模糊系统及其在运动控制中的应用",
         "title": "DSP控制器原理及其在运动控制系统中的应用",
@@ -3192,6 +3458,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经网络、模糊系统及其在运动控制中的应用.pdf"
     },
     {
+        "_id": "67f03cc4330467e31f3b2633",
         "id": "1222",
         "name": "神经网络及其在汽车工程中的应用",
         "title": "上海交通大学学报",
@@ -3204,6 +3471,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经网络及其在汽车工程中的应用.pdf"
     },
     {
+        "_id": "67f03cc5330467e31f3b2634",
         "id": "1222",
         "name": "神经网络工程应用",
         "title": "服装工程学：湿热舒适性预测模型",
@@ -3216,6 +3484,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经网络工程应用.pdf"
     },
     {
+        "_id": "67f03cc5330467e31f3b2635",
         "id": "1222",
         "name": "神经网络的综合基础",
         "title": "ORACLE数据库系统高级应用技术",
@@ -3228,6 +3497,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经网络的综合基础.pdf"
     },
     {
+        "_id": "67f03cc6330467e31f3b2636",
         "id": "1222",
         "name": "神经网络跟踪理论及应用",
         "title": "数控机床热稳健性精度理论及应用",
@@ -3240,6 +3510,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经网络跟踪理论及应用.pdf"
     },
     {
+        "_id": "67f03cc7330467e31f3b2637",
         "id": "1222",
         "name": "神经计算",
         "title": "人工智能",
@@ -3252,6 +3523,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经计算.pdf"
     },
     {
+        "_id": "67f03cc7330467e31f3b2638",
         "id": "1222",
         "name": "神经计算智能基础原理方法",
         "title": "全国新书目",
@@ -3264,6 +3536,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/神经计算智能基础原理方法.pdf"
     },
     {
+        "_id": "67f03cc8330467e31f3b2639",
         "id": "1222",
         "name": "稳定性与鲁棒性的理论基础",
         "title": "稳定性与鲁棒性的理论基础",
@@ -3276,6 +3549,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/稳定性与鲁棒性的理论基础.pdf"
     },
     {
+        "_id": "67f03cc9330467e31f3b263a",
         "id": "1222",
         "name": "线性鲁棒控制的理论与计算",
         "title": "FORTRAN77科学计算子程序汇编",
@@ -3288,6 +3562,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/线性鲁棒控制的理论与计算.pdf"
     },
     {
+        "_id": "67f03cca330467e31f3b263b",
         "id": "1222",
         "name": "鲁棒控制理论",
         "title": "控制系统计算机辅助设计",
@@ -3300,6 +3575,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/鲁棒控制理论.pdf"
     },
     {
+        "_id": "67f03cca330467e31f3b263c",
         "id": "1222",
         "name": "鲁棒控制理论与应用",
         "title": "自动化学科专业的定位与发展/",
@@ -3312,6 +3588,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1222/1222/鲁棒控制理论与应用.pdf"
     },
     {
+        "_id": "67f03ccb330467e31f3b263d",
         "id": "1226",
         "name": "ball-tracking-cricket-computer-vision",
         "title": "Computer Vision in Sports",
@@ -3324,6 +3601,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/ball-tracking-cricket-computer-vision.pdf"
     },
     {
+        "_id": "67f03ccc330467e31f3b263e",
         "id": "1226",
         "name": "Benchmarking TPU, GPU, and CPU Platforms for Deep Learning",
         "title": "Deep Learning Systems",
@@ -3336,6 +3614,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Benchmarking TPU, GPU, and CPU Platforms for Deep Learning.pdf"
     },
     {
+        "_id": "67f03ccc330467e31f3b263f",
         "id": "1226",
         "name": "Better Deep Learning Train Faster, Reduce Overfitting, and Make Better Predictions by Jason Brownlee (z-lib.org)",
         "title": "Better Deep Learning",
@@ -3348,6 +3627,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Better Deep Learning Train Faster, Reduce Overfitting, and Make Better Predictions by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03ccd330467e31f3b2640",
         "id": "1226",
         "name": "computer-vision-using-deep-learning-neural-network-architectures-with-python-and-keras2021",
         "title": "Machine Learning, Big Data, and IoT for Medical Informatics",
@@ -3360,6 +3640,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/computer-vision-using-deep-learning-neural-network-architectures-with-python-and-keras2021.pdf"
     },
     {
+        "_id": "67f03cce330467e31f3b2641",
         "id": "1226",
         "name": "d2l-en",
         "title": "Dive into Deep Learning",
@@ -3372,6 +3653,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/d2l-en.pdf"
     },
     {
+        "_id": "67f03cce330467e31f3b2642",
         "id": "1226",
         "name": "d2l-zh",
         "title": "Anatomy of Deep Learning Principles-Writing a Deep Learning Library from Scratch",
@@ -3384,6 +3666,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/d2l-zh.pdf"
     },
     {
+        "_id": "67f03ccf330467e31f3b2643",
         "id": "1226",
         "name": "deep learning cookbook 2018",
         "title": "Deep Learning Cookbook",
@@ -3396,6 +3679,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep learning cookbook 2018.pdf"
     },
     {
+        "_id": "67f03cd0330467e31f3b2644",
         "id": "1226",
         "name": "Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee (z-lib.org)",
         "title": "Deep Learning for Computer Vision",
@@ -3408,6 +3692,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03cd0330467e31f3b2645",
         "id": "1226",
         "name": "Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition2019",
         "title": "Deep Learning for Computer Vision",
@@ -3420,6 +3705,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition2019.pdf"
     },
     {
+        "_id": "67f03cd1330467e31f3b2646",
         "id": "1226",
         "name": "Deep learning for Computer Vision 2018",
         "title": "Deep Learning for Computer Vision",
@@ -3432,6 +3718,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep learning for Computer Vision 2018.pdf"
     },
     {
+        "_id": "67f03cd2330467e31f3b2647",
         "id": "1226",
         "name": "Deep Learning for NLP in Python by Jason Brownlee 2017",
         "title": "Deep Learning for Natural Language Processing",
@@ -3444,6 +3731,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning for NLP in Python by Jason Brownlee 2017.pdf"
     },
     {
+        "_id": "67f03cd2330467e31f3b2648",
         "id": "1226",
         "name": "Deep Learning for Time Series - Predict the Future with MLPs, CNNs and LSTMs in Python2018",
         "title": "Advanced Intelligent Systems for Sustainable Development (AI2SD’2019)",
@@ -3456,6 +3744,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning for Time Series - Predict the Future with MLPs, CNNs and LSTMs in Python2018.pdf"
     },
     {
+        "_id": "67f03cd3330467e31f3b2649",
         "id": "1226",
         "name": "Deep Learning Hardware - Past, Present, and Future",
         "title": "Collected Papers. Volume XI",
@@ -3468,6 +3757,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning Hardware - Past, Present, and Future.pdf"
     },
     {
+        "_id": "67f03cd5330467e31f3b264a",
         "id": "1226",
         "name": "Deep Learning Tutorial 2015",
         "title": "Deep Learning",
@@ -3480,6 +3770,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning Tutorial 2015.pdf"
     },
     {
+        "_id": "67f03cd6330467e31f3b264b",
         "id": "1226",
         "name": "Deep Learning Tutorial",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -3492,6 +3783,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning Tutorial.pdf"
     },
     {
+        "_id": "67f03cd7330467e31f3b264c",
         "id": "1226",
         "name": "Deep Learning with Python 2018",
         "title": "Deep Learning with Python",
@@ -3504,6 +3796,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning with Python 2018.pdf"
     },
     {
+        "_id": "67f03cd7330467e31f3b264d",
         "id": "1226",
         "name": "Deep Learning with Python2021",
         "title": "Deep Learning with Python",
@@ -3516,6 +3809,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning with Python2021.pdf"
     },
     {
+        "_id": "67f03cd8330467e31f3b264e",
         "id": "1226",
         "name": "Deep Learning with Python2021_CN",
         "title": "Applied Deep Learning with Python",
@@ -3528,6 +3822,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning with Python2021_CN.pdf"
     },
     {
+        "_id": "67f03cd8330467e31f3b264f",
         "id": "1226",
         "name": "Deep Learning with TensorFlow 2017",
         "title": "Deep Learning with TensorFlow",
@@ -3540,6 +3835,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning with TensorFlow 2017.pdf"
     },
     {
+        "_id": "67f03cd9330467e31f3b2650",
         "id": "1226",
         "name": "Deep Learning",
         "title": "Deep Learning",
@@ -3552,6 +3848,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep Learning.pdf"
     },
     {
+        "_id": "67f03cda330467e31f3b2651",
         "id": "1226",
         "name": "deep-learning-based-face-analytics-1nbsped-3030746968-9783030746964_compress",
         "title": "Deep Learning-Based Face Analytics",
@@ -3564,6 +3861,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep-learning-based-face-analytics-1nbsped-3030746968-9783030746964_compress.pdf"
     },
     {
+        "_id": "67f03cda330467e31f3b2652",
         "id": "1226",
         "name": "deep-learning-cookbook-practical-recipes-to-get-started-quickly-first-edition-9781491995846",
         "title": "Deep Learning Cookbook",
@@ -3576,6 +3874,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep-learning-cookbook-practical-recipes-to-get-started-quickly-first-edition-9781491995846.pdf"
     },
     {
+        "_id": "67f03cdb330467e31f3b2653",
         "id": "1226",
         "name": "Deep-learning-from-scratch-building-with-python-from-first-principles2019",
         "title": "Deep Learning from Scratch",
@@ -3588,6 +3887,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep-learning-from-scratch-building-with-python-from-first-principles2019.pdf"
     },
     {
+        "_id": "67f03cdc330467e31f3b2654",
         "id": "1226",
         "name": "deep-learning-with-keras-implement-various-deep-learning-algorithms-in-keras2017",
         "title": "Deep Learning Quick Reference",
@@ -3600,6 +3900,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep-learning-with-keras-implement-various-deep-learning-algorithms-in-keras2017.pdf"
     },
     {
+        "_id": "67f03cdc330467e31f3b2655",
         "id": "1226",
         "name": "deep-learning-with-python-a-crash-course-to-deep-learning-with-illustrations",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -3612,6 +3913,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep-learning-with-python-a-crash-course-to-deep-learning-with-illustrations.pdf"
     },
     {
+        "_id": "67f03cdd330467e31f3b2656",
         "id": "1226",
         "name": "Deep-Learning-with-PyTorch",
         "title": "Deep Learning with PyTorch",
@@ -3624,6 +3926,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep-Learning-with-PyTorch.pdf"
     },
     {
+        "_id": "67f03cde330467e31f3b2657",
         "id": "1226",
         "name": "deep-learning-with-structured-data-2020",
         "title": "Deep Learning with Structured Data",
@@ -3636,6 +3939,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep-learning-with-structured-data-2020.pdf"
     },
     {
+        "_id": "67f03cdf330467e31f3b2658",
         "id": "1226",
         "name": "deeplearningbook",
         "title": "Deep Learning",
@@ -3648,6 +3952,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deeplearningbook.pdf"
     },
     {
+        "_id": "67f03ce0330467e31f3b2659",
         "id": "1226",
         "name": "DeepLearning_PracticalNeuralNetworkswith Java.2017",
         "title": "Deep Learning: Practical Neural Networks with Java",
@@ -3660,6 +3965,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/DeepLearning_PracticalNeuralNetworkswith Java.2017.pdf"
     },
     {
+        "_id": "67f03ce0330467e31f3b265a",
         "id": "1226",
         "name": "deep_learning_for_computer_vision_mini_course 2020",
         "title": "Proceedings of the 2020 4th International Conference on Deep Learning Technologies (ICDLT).",
@@ -3672,6 +3978,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/deep_learning_for_computer_vision_mini_course 2020.pdf"
     },
     {
+        "_id": "67f03ce1330467e31f3b265b",
         "id": "1226",
         "name": "Deep_Learning_for_Computer_Vision_with_Python,_Volume 2017",
         "title": "Deep Learning with Python",
@@ -3684,6 +3991,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Deep_Learning_for_Computer_Vision_with_Python,_Volume 2017.pdf"
     },
     {
+        "_id": "67f03ce1330467e31f3b265c",
         "id": "1226",
         "name": "dokumen.pub_deep-learning-in-computer-vision-principles-and-applications-papers",
         "title": "Deep Learning on Windows",
@@ -3696,6 +4004,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/dokumen.pub_deep-learning-in-computer-vision-principles-and-applications-papers.pdf"
     },
     {
+        "_id": "67f03ce4330467e31f3b265d",
         "id": "1226",
         "name": "DOL Grammer",
         "title": "Daily Oral Language, Grade 1",
@@ -3708,6 +4017,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/DOL Grammer.pdf"
     },
     {
+        "_id": "67f03ce5330467e31f3b265e",
         "id": "1226",
         "name": "Domain-adaptation-in-computer-vision-with-deep-learning-9783030455293-0600000033",
         "title": "Domain Adaptation in Computer Vision with Deep Learning",
@@ -3720,6 +4030,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Domain-adaptation-in-computer-vision-with-deep-learning-9783030455293-0600000033.pdf"
     },
     {
+        "_id": "67f03ce6330467e31f3b265f",
         "id": "1226",
         "name": "GAN with Python Deep Learning Generative Models for Image Synthesis and Image Translation2019",
         "title": "Generative Adversarial Networks with Python",
@@ -3732,6 +4043,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/GAN with Python Deep Learning Generative Models for Image Synthesis and Image Translation2019.pdf"
     },
     {
+        "_id": "67f03ce6330467e31f3b2660",
         "id": "1226",
         "name": "grokking-deep-learning",
         "title": "Grokking Deep Learning",
@@ -3744,6 +4056,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/grokking-deep-learning.pdf"
     },
     {
+        "_id": "67f03ce7330467e31f3b2661",
         "id": "1226",
         "name": "hands-on-deep-learning-with-tensorflow-CNN-2017",
         "title": "Deep Learning with TensorFlow",
@@ -3756,6 +4069,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/hands-on-deep-learning-with-tensorflow-CNN-2017.pdf"
     },
     {
+        "_id": "67f03ce7330467e31f3b2662",
         "id": "1226",
         "name": "Machine Learning for OpenCV",
         "title": "Machine Learning for OpenCV",
@@ -3768,6 +4082,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Machine Learning for OpenCV.pdf"
     },
     {
+        "_id": "67f03ce7330467e31f3b2663",
         "id": "1226",
         "name": "Math_and_Architectures_of_Deep_Learning_Final_Release",
         "title": "Math and Architectures of Deep Learning",
@@ -3780,6 +4095,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Math_and_Architectures_of_Deep_Learning_Final_Release.pdf"
     },
     {
+        "_id": "67f03ce9330467e31f3b2664",
         "id": "1226",
         "name": "modern-deep-learning-design-and-application-development",
         "title": "Modern Deep Learning Design and Application Development",
@@ -3792,6 +4108,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/modern-deep-learning-design-and-application-development.pdf"
     },
     {
+        "_id": "67f03ce9330467e31f3b2665",
         "id": "1226",
         "name": "Pro Deep Learning with TensorFlow_ A Mathematical Approach in Python;2018",
         "title": "Deep Learning and its Applications using Python",
@@ -3804,6 +4121,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Pro Deep Learning with TensorFlow_ A Mathematical Approach in Python;2018.pdf"
     },
     {
+        "_id": "67f03cea330467e31f3b2666",
         "id": "1226",
         "name": "Probabilistic-deep-learning-with-python-2020",
         "title": "Probabilistic Deep Learning",
@@ -3816,6 +4134,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Probabilistic-deep-learning-with-python-2020.pdf"
     },
     {
+        "_id": "67f03ceb330467e31f3b2667",
         "id": "1226",
         "name": "Python Deep Learning Cookbook. (Z-lib.io)",
         "title": "Deep Learning with Python",
@@ -3828,6 +4147,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Python Deep Learning Cookbook. (Z-lib.io).pdf"
     },
     {
+        "_id": "67f03cec330467e31f3b2668",
         "id": "1226",
         "name": "Python Deep Learning",
         "title": "Deep Learning with Python",
@@ -3840,6 +4160,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Python Deep Learning.pdf"
     },
     {
+        "_id": "67f03cec330467e31f3b2669",
         "id": "1226",
         "name": "Python-Deep-Learning-Cookbook-Indra-Den-Bakker 2017",
         "title": "Python Deep Learning Cookbook",
@@ -3852,6 +4173,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Python-Deep-Learning-Cookbook-Indra-Den-Bakker 2017.pdf"
     },
     {
+        "_id": "67f03ced330467e31f3b266a",
         "id": "1226",
         "name": "python-deep-learning-cookbook-over-75-practical-recipes-on-neural-network-modeling9781787122253-1787122255",
         "title": "Python Deep Learning Cookbook",
@@ -3864,6 +4186,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/python-deep-learning-cookbook-over-75-practical-recipes-on-neural-network-modeling9781787122253-1787122255.pdf"
     },
     {
+        "_id": "67f03ced330467e31f3b266b",
         "id": "1226",
         "name": "Recent progress in analog memory-based accelerators for deep learning",
         "title": "Analog Circuits for Machine Learning, Current/Voltage/Temperature Sensors, and High-speed Communication",
@@ -3876,6 +4199,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Recent progress in analog memory-based accelerators for deep learning.pdf"
     },
     {
+        "_id": "67f03cee330467e31f3b266c",
         "id": "1226",
         "name": "Rethinking floating point for deep learning",
         "title": "Computational Science – ICCS 2024",
@@ -3888,6 +4212,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/Rethinking floating point for deep learning.pdf"
     },
     {
+        "_id": "67f03cee330467e31f3b266d",
         "id": "1226",
         "name": "The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design",
         "title": "The Deep Learning Revolution",
@@ -3900,6 +4225,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1226/1226/The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design.pdf"
     },
     {
+        "_id": "67f03cef330467e31f3b266e",
         "id": "1227",
         "name": "Python_深度学习实战：75个有关神经网络建模、强化学习与迁移学习",
         "title": "深度学习500问",
@@ -3912,6 +4238,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/Python_深度学习实战：75个有关神经网络建模、强化学习与迁移学习.pdf"
     },
     {
+        "_id": "67f03cf0330467e31f3b266f",
         "id": "1227",
         "name": "Python深度学习",
         "title": "Python深度学习从原理到应用",
@@ -3924,6 +4251,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/Python深度学习.pdf"
     },
     {
+        "_id": "67f03cf0330467e31f3b2670",
         "id": "1227",
         "name": "Python深度学习》2018中文版",
         "title": "TensorFlow自然語言處理｜善用 Python 深度學習函式庫，教機器學會自然語言(電子書)",
@@ -3936,6 +4264,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/Python深度学习》2018中文版.pdf"
     },
     {
+        "_id": "67f03cf1330467e31f3b2671",
         "id": "1227",
         "name": "Python深度学习及智能车竞赛实践_徐国艳；刘聪琳_编著",
         "title": "Python深度学习及智能车竞赛实践_徐国艳；刘聪琳_编著",
@@ -3948,6 +4277,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/Python深度学习及智能车竞赛实践_徐国艳；刘聪琳_编著.pdf"
     },
     {
+        "_id": "67f03cf1330467e31f3b2672",
         "id": "1227",
         "name": "Python计算机视觉编程2014",
         "title": "人工智能开源硬件与Python编程实践",
@@ -3960,6 +4290,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/Python计算机视觉编程2014.pdf"
     },
     {
+        "_id": "67f03cf2330467e31f3b2673",
         "id": "1227",
         "name": "[深度学习].（美）.Ian，Goodfellow.扫描版",
         "title": "统计自然语言处理",
@@ -3972,6 +4303,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/[深度学习].（美）.Ian，Goodfellow.扫描版.pdf"
     },
     {
+        "_id": "67f03cf2330467e31f3b2674",
         "id": "1227",
         "name": "《2. 实战深度学习算法：零起点通关神经网络模型（基于Python和NumPy实现）》",
         "title": "《2. 实战深度学习算法：零起点通关神经网络模型（基于Python和NumPy实现）》",
@@ -3984,6 +4316,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《2. 实战深度学习算法：零起点通关神经网络模型（基于Python和NumPy实现）》.pdf"
     },
     {
+        "_id": "67f03cf3330467e31f3b2675",
         "id": "1227",
         "name": "《深入浅出深度学习：原理剖析与Python实践》",
         "title": "概率统计基础",
@@ -3996,6 +4329,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《深入浅出深度学习：原理剖析与Python实践》.pdf"
     },
     {
+        "_id": "67f03cf3330467e31f3b2676",
         "id": "1227",
         "name": "《深度学习之美：AI时代的数据处理与最佳实践》",
         "title": "機器學習",
@@ -4008,6 +4342,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《深度学习之美：AI时代的数据处理与最佳实践》.pdf"
     },
     {
+        "_id": "67f03cf4330467e31f3b2677",
         "id": "1227",
         "name": "《深度学习入门：基于Python的理论与实现》高清中文版",
         "title": "Python机器__及__——_零_始通往Kaggle__之路",
@@ -4020,6 +4355,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《深度学习入门：基于Python的理论与实现》高清中文版.pdf"
     },
     {
+        "_id": "67f03cf4330467e31f3b2678",
         "id": "1227",
         "name": "《深度学习算法实践（基于Theano和TensorFlow）》",
         "title": "《深度学习算法实践（基于Theano和TensorFlow）》",
@@ -4032,6 +4368,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《深度学习算法实践（基于Theano和TensorFlow）》.pdf"
     },
     {
+        "_id": "67f03cf5330467e31f3b2679",
         "id": "1227",
         "name": "《深度学习：基于Keras的Python实践》2018",
         "title": "Python数据分析",
@@ -4044,6 +4381,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/《深度学习：基于Keras的Python实践》2018.pdf"
     },
     {
+        "_id": "67f03cf6330467e31f3b267a",
         "id": "1227",
         "name": "人工智能中的图表推理",
         "title": "人工智能原理及应用",
@@ -4056,6 +4394,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/人工智能中的图表推理.pdf"
     },
     {
+        "_id": "67f03cf7330467e31f3b267b",
         "id": "1227",
         "name": "人工智能中的深度结构学习",
         "title": "深度学习入门：基于PyTorch和TensorFlow的理论与实现",
@@ -4068,6 +4407,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/人工智能中的深度结构学习.pdf"
     },
     {
+        "_id": "67f03cf8330467e31f3b267c",
         "id": "1227",
         "name": "人工智能技术",
         "title": "人工智能技术基础",
@@ -4080,6 +4420,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/人工智能技术.pdf"
     },
     {
+        "_id": "67f03cf8330467e31f3b267d",
         "id": "1227",
         "name": "从机器学习到深度学习：基于scikit_learn与TensorFlow的高效开发实战2019",
         "title": "从机器学习到深度学习",
@@ -4092,6 +4433,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/从机器学习到深度学习：基于scikit_learn与TensorFlow的高效开发实战2019.pdf"
     },
     {
+        "_id": "67f03cf9330467e31f3b267e",
         "id": "1227",
         "name": "深度学习-无水印-中文版",
         "title": "數位資訊@多媒體安全與應用",
@@ -4104,6 +4446,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习-无水印-中文版.pdf"
     },
     {
+        "_id": "67f03cfa330467e31f3b267f",
         "id": "1227",
         "name": "深度学习",
         "title": "Keras深度学习入门与实践",
@@ -4116,6 +4459,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习.pdf"
     },
     {
+        "_id": "67f03cfa330467e31f3b2680",
         "id": "1227",
         "name": "深度学习与R语言",
         "title": "深度学习实战手册(R语言版)",
@@ -4128,6 +4472,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习与R语言.pdf"
     },
     {
+        "_id": "67f03cfb330467e31f3b2681",
         "id": "1227",
         "name": "深度学习之PyTorch实战计算机视觉》",
         "title": "TensorFlow自然語言處理｜善用 Python 深度學習函式庫，教機器學會自然語言(電子書)",
@@ -4140,6 +4485,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习之PyTorch实战计算机视觉》.pdf"
     },
     {
+        "_id": "67f03cfb330467e31f3b2682",
         "id": "1227",
         "name": "深度学习入门：基于Python的理论与实现",
         "title": "深入浅出Python机器学习",
@@ -4152,6 +4498,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习入门：基于Python的理论与实现.pdf"
     },
     {
+        "_id": "67f03cfc330467e31f3b2683",
         "id": "1227",
         "name": "深度学习轻松学：核心算法与视觉实践2017",
         "title": "引领人工智能 与先进信息传播技术 构建知识型社会",
@@ -4164,6 +4511,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习轻松学：核心算法与视觉实践2017.pdf"
     },
     {
+        "_id": "67f03cfc330467e31f3b2684",
         "id": "1227",
         "name": "深度学习：主流框架和编程实战.html",
         "title": "人工智能与教育",
@@ -4176,6 +4524,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习：主流框架和编程实战.html.pdf"
     },
     {
+        "_id": "67f03cfd330467e31f3b2685",
         "id": "1227",
         "name": "深度学习：方法及应用",
         "title": "智能运维技术及应用",
@@ -4188,6 +4537,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习：方法及应用.pdf"
     },
     {
+        "_id": "67f03cff330467e31f3b2686",
         "id": "1227",
         "name": "深度学习：核心技术、工具与案例解析.html",
         "title": "TensorFlow自然語言處理｜善用 Python 深度學習函式庫，教機器學會自然語言(電子書)",
@@ -4200,6 +4550,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度学习：核心技术、工具与案例解析.html.pdf"
     },
     {
+        "_id": "67f03d00330467e31f3b2687",
         "id": "1227",
         "name": "深度实践KVM：核心技术、管理运维、性能优化与项目实施_html",
         "title": "计算机组成原理学习指导与习题解答",
@@ -4212,6 +4563,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度实践KVM：核心技术、管理运维、性能优化与项目实施_html.pdf"
     },
     {
+        "_id": "67f03d01330467e31f3b2688",
         "id": "1227",
         "name": "深度实践Spark机器学习.html",
         "title": "TensorFlow自然語言處理｜善用 Python 深度學習函式庫，教機器學會自然語言(電子書)",
@@ -4224,6 +4576,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/深度实践Spark机器学习.html.pdf"
     },
     {
+        "_id": "67f03d01330467e31f3b2689",
         "id": "1227",
         "name": "神经网络与深度学习",
         "title": "深度学习与深度合成",
@@ -4236,6 +4589,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/神经网络与深度学习.pdf"
     },
     {
+        "_id": "67f03d02330467e31f3b268a",
         "id": "1227",
         "name": "神经网络与深度学习——基于TensorFlow框架和Python技术实现",
         "title": "深度学习入门：基于PyTorch和TensorFlow的理论与实现",
@@ -4248,6 +4602,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/神经网络与深度学习——基于TensorFlow框架和Python技术实现.pdf"
     },
     {
+        "_id": "67f03d02330467e31f3b268b",
         "id": "1227",
         "name": "解析深度学习 语音识别实践@www.java1234.com",
         "title": "图像处理、分析与机器视觉",
@@ -4260,6 +4615,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/解析深度学习 语音识别实践@www.java1234.com.pdf"
     },
     {
+        "_id": "67f03d03330467e31f3b268c",
         "id": "1227",
         "name": "计算机视觉与深度学习实战：以MATLAB、Python为工具",
         "title": "深入浅出Python机器学习",
@@ -4272,6 +4628,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/计算机视觉与深度学习实战：以MATLAB、Python为工具.pdf"
     },
     {
+        "_id": "67f03d04330467e31f3b268d",
         "id": "1227",
         "name": "计算机视觉技术精选》",
         "title": "机器视觉算法与应用",
@@ -4284,6 +4641,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1227/1227/计算机视觉技术精选》.pdf"
     },
     {
+        "_id": "67f03d04330467e31f3b268e",
         "id": "1228",
         "name": "A decision-theoretic generalization of on-line learning and an application to boosting",
         "title": "Computational Learning Theory",
@@ -4296,6 +4654,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/A decision-theoretic generalization of on-line learning and an application to boosting.pdf"
     },
     {
+        "_id": "67f03d05330467e31f3b268f",
         "id": "1228",
         "name": "A Few Useful Things to Know about Machine Learning - Pedro Domingos",
         "title": "The Master Algorithm",
@@ -4308,6 +4667,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/A Few Useful Things to Know about Machine Learning - Pedro Domingos.pdf"
     },
     {
+        "_id": "67f03d06330467e31f3b2690",
         "id": "1228",
         "name": "A Review of Related Work on Machine Learning in Semiconductor Manufacturing and Assembly Lines",
         "title": "Enterprise Information Systems",
@@ -4320,6 +4680,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/A Review of Related Work on Machine Learning in Semiconductor Manufacturing and Assembly Lines.pdf"
     },
     {
+        "_id": "67f03d07330467e31f3b2691",
         "id": "1228",
         "name": "A Survey of Collaborative Filtering Techniques",
         "title": "The Adaptive Web",
@@ -4332,6 +4693,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/A Survey of Collaborative Filtering Techniques.pdf"
     },
     {
+        "_id": "67f03d08330467e31f3b2692",
         "id": "1228",
         "name": "A survey of cross-validation procedures for model selection",
         "title": "Model Selection and Error Estimation in a Nutshell",
@@ -4344,6 +4706,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/A survey of cross-validation procedures for model selection.pdf"
     },
     {
+        "_id": "67f03d09330467e31f3b2693",
         "id": "1228",
         "name": "Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent",
         "title": "Accelerated Optimization for Machine Learning",
@@ -4356,6 +4719,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Accelerated Gradient Descent Escapes Saddle Points Faster than Gradient Descent.pdf"
     },
     {
+        "_id": "67f03d09330467e31f3b2694",
         "id": "1228",
         "name": "Adaboost - why and how - Jim Matas",
         "title": "Advances in Computer Graphics and Computer Vision",
@@ -4368,6 +4732,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Adaboost - why and how - Jim Matas.pdf"
     },
     {
+        "_id": "67f03d0a330467e31f3b2695",
         "id": "1228",
         "name": "Advanced-Machine-Learning-with-Python.azw3",
         "title": "The Hundred-page Machine Learning Book",
@@ -4380,6 +4745,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Advanced-Machine-Learning-with-Python.azw3.pdf"
     },
     {
+        "_id": "67f03d0b330467e31f3b2696",
         "id": "1228",
         "name": "AI boosts predictive maintenance of industrial robots",
         "title": "AI and Blockchain Applications in Industrial Robotics",
@@ -4392,6 +4758,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/AI boosts predictive maintenance of industrial robots.pdf"
     },
     {
+        "_id": "67f03d0c330467e31f3b2697",
         "id": "1228",
         "name": "An Efficient Approach for Assessing Hyperparameter Importance",
         "title": "Computer Vision – ECCV 2022 Workshops",
@@ -4404,6 +4771,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/An Efficient Approach for Assessing Hyperparameter Importance.pdf"
     },
     {
+        "_id": "67f03d0c330467e31f3b2698",
         "id": "1228",
         "name": "An Impossibility Theorem for Clustering - kleinberg-NIPS'15",
         "title": "Handbook of Cluster Analysis",
@@ -4416,6 +4784,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/An Impossibility Theorem for Clustering - kleinberg-NIPS'15.pdf"
     },
     {
+        "_id": "67f03d0d330467e31f3b2699",
         "id": "1228",
         "name": "An Interactive Machine Learning Framework",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -4428,6 +4797,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/An Interactive Machine Learning Framework.pdf"
     },
     {
+        "_id": "67f03d0e330467e31f3b269a",
         "id": "1228",
         "name": "API design for machine learning software",
         "title": "Machine Learning Design Patterns",
@@ -4440,6 +4810,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/API design for machine learning software.pdf"
     },
     {
+        "_id": "67f03d0f330467e31f3b269b",
         "id": "1228",
         "name": "Applications of artificial intelligence in intelligent manufacturing - a review",
         "title": "Applications of Artificial Intelligence in Process Systems Engineering",
@@ -4452,6 +4823,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Applications of artificial intelligence in intelligent manufacturing - a review.pdf"
     },
     {
+        "_id": "67f03d0f330467e31f3b269c",
         "id": "1228",
         "name": "APPLICATIONS OF MACHINE LEARNING IN TEST COST REDUCTION, YIELD ESTIMATION AND FAB-OF-ORIGIN ATTESTATION OF INTEGRATED CIRCUITS",
         "title": "Applications of Machine Learning in Test Cost Reduction, Yield Estimation and Fab-of-origin Attestation of Integrated Circuits",
@@ -4464,6 +4836,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/APPLICATIONS OF MACHINE LEARNING IN TEST COST REDUCTION, YIELD ESTIMATION AND FAB-OF-ORIGIN ATTESTATION OF INTEGRATED CIRCUITS.pdf"
     },
     {
+        "_id": "67f03d10330467e31f3b269d",
         "id": "1228",
         "name": "Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019",
         "title": "Introduction to Machine Learning with Python",
@@ -4476,6 +4849,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf"
     },
     {
+        "_id": "67f03d11330467e31f3b269e",
         "id": "1228",
         "name": "Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python by Jason Brownlee (z-lib.org)",
         "title": "Probability for Machine Learning",
@@ -4488,6 +4862,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Basics of Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d11330467e31f3b269f",
         "id": "1228",
         "name": "Big Data Analytics for Smart Manufacturing - Case Studies in Semiconductor Manufacturing",
         "title": "Smart Manufacturing",
@@ -4500,6 +4875,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Big Data Analytics for Smart Manufacturing - Case Studies in Semiconductor Manufacturing.pdf"
     },
     {
+        "_id": "67f03d12330467e31f3b26a0",
         "id": "1228",
         "name": "Bishop-Pattern-Recognition-and-Machine-Learning-2006",
         "title": "Pattern Recognition and Machine Learning",
@@ -4512,6 +4888,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"
     },
     {
+        "_id": "67f03d13330467e31f3b26a1",
         "id": "1228",
         "name": "Boosting the margin- A new explanation for the effectiveness of voting methods",
         "title": "Boosting",
@@ -4524,6 +4901,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Boosting the margin- A new explanation for the effectiveness of voting methods.pdf"
     },
     {
+        "_id": "67f03d13330467e31f3b26a2",
         "id": "1228",
         "name": "Building.Machine.Learning.Systems.with.Python 2013",
         "title": "Building Machine Learning Systems with Python",
@@ -4536,6 +4914,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Building.Machine.Learning.Systems.with.Python 2013.pdf"
     },
     {
+        "_id": "67f03d14330467e31f3b26a3",
         "id": "1228",
         "name": "Building.Machine.Learning.Systems.with.Python2013",
         "title": "Embedded Systems and Artificial Intelligence",
@@ -4548,6 +4927,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Building.Machine.Learning.Systems.with.Python2013.pdf"
     },
     {
+        "_id": "67f03d15330467e31f3b26a4",
         "id": "1228",
         "name": "BurkovTheHundred-pageMachineLearning",
         "title": "The Hundred-page Machine Learning Book",
@@ -4560,6 +4940,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/BurkovTheHundred-pageMachineLearning.pdf"
     },
     {
+        "_id": "67f03d15330467e31f3b26a5",
         "id": "1228",
         "name": "Christopher_M_Bishop_Pattern_Recognition_and_Machine_Learning_Springer",
         "title": "Pattern Recognition and Machine Learning",
@@ -4572,6 +4953,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Christopher_M_Bishop_Pattern_Recognition_and_Machine_Learning_Springer.pdf"
     },
     {
+        "_id": "67f03d17330467e31f3b26a6",
         "id": "1228",
         "name": "Convolutional Neural Network for Wafer Surface Defect Classification and the Detection of Unknown Defect Class",
         "title": "Neuroscience-driven Visual Representation",
@@ -4584,6 +4966,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Convolutional Neural Network for Wafer Surface Defect Classification and the Detection of Unknown Defect Class.pdf"
     },
     {
+        "_id": "67f03d18330467e31f3b26a7",
         "id": "1228",
         "name": "Data analytics for predictive maintenance of industrial robots",
         "title": "Proceedings of the 12th International Conference on Soft Computing for Problem Solving",
@@ -4596,6 +4979,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Data analytics for predictive maintenance of industrial robots.pdf"
     },
     {
+        "_id": "67f03d19330467e31f3b26a8",
         "id": "1228",
         "name": "Data Mining - Practical Machine Learning Tools and Techniques (2nd Edition)",
         "title": "Data Mining",
@@ -4608,6 +4992,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Data Mining - Practical Machine Learning Tools and Techniques (2nd Edition).pdf"
     },
     {
+        "_id": "67f03d19330467e31f3b26a9",
         "id": "1228",
         "name": "Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee (z-lib.org)",
         "title": "Data Preparation for Machine Learning",
@@ -4620,6 +5005,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Data Preparation for Machine Learning Data Cleaning, Feature Selection, and Data Transforms in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d1a330467e31f3b26aa",
         "id": "1228",
         "name": "Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee (z-lib.org)",
         "title": "Deep Learning for Computer Vision",
@@ -4632,6 +5018,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Deep Learning for Computer Vision - Image Classification, Object Detection and Face Recognition in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d1b330467e31f3b26ab",
         "id": "1228",
         "name": "Deep Learning for Natural Language Processing Develop Deep Learning Models for Natural Language in Python by Jason Brownlee (z-lib.org)",
         "title": "Deep Learning with Python",
@@ -4644,6 +5031,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Deep Learning for Natural Language Processing Develop Deep Learning Models for Natural Language in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d1c330467e31f3b26ac",
         "id": "1228",
         "name": "Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee (z-lib.org)",
         "title": "Deep Learning for Time Series Forecasting",
@@ -4656,6 +5044,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d1d330467e31f3b26ad",
         "id": "1228",
         "name": "Deep Learning in Industrial Internet of Things",
         "title": "Hands-On Deep Learning for IoT",
@@ -4668,6 +5057,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Deep Learning in Industrial Internet of Things.pdf"
     },
     {
+        "_id": "67f03d1e330467e31f3b26ae",
         "id": "1228",
         "name": "Edge Computing in IoT-Based Manufacturing",
         "title": "AI, Edge and IoT-based Smart Agriculture",
@@ -4680,6 +5070,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Edge Computing in IoT-Based Manufacturing.pdf"
     },
     {
+        "_id": "67f03d1f330467e31f3b26af",
         "id": "1228",
         "name": "Encyclopedia of Machine Learning and Data Mining, Second Edition",
         "title": "Encyclopedia of Machine Learning",
@@ -4692,6 +5083,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Encyclopedia of Machine Learning and Data Mining, Second Edition.pdf"
     },
     {
+        "_id": "67f03d20330467e31f3b26b0",
         "id": "1228",
         "name": "Ensemble Machine Learning.Methods and Applications.2013",
         "title": "Ensemble Machine Learning",
@@ -4704,6 +5096,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Ensemble Machine Learning.Methods and Applications.2013.pdf"
     },
     {
+        "_id": "67f03d20330467e31f3b26b1",
         "id": "1228",
         "name": "evaluating-machine-learning-models",
         "title": "Evaluating Learning Algorithms",
@@ -4716,6 +5109,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/evaluating-machine-learning-models.pdf"
     },
     {
+        "_id": "67f03d21330467e31f3b26b2",
         "id": "1228",
         "name": "faster-more-accurate-defect-classification-using-machine-vision- INTEL",
         "title": "Industrial Digital Transformation",
@@ -4728,6 +5122,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/faster-more-accurate-defect-classification-using-machine-vision- INTEL.pdf"
     },
     {
+        "_id": "67f03d22330467e31f3b26b3",
         "id": "1228",
         "name": "Feature Engineering for Machine Learning",
         "title": "Feature Engineering for Machine Learning",
@@ -4740,6 +5135,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Feature Engineering for Machine Learning.pdf"
     },
     {
+        "_id": "67f03d23330467e31f3b26b4",
         "id": "1228",
         "name": "Financial Signal Processing and Machine Learning",
         "title": "Financial Signal Processing and Machine Learning",
@@ -4752,6 +5148,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Financial Signal Processing and Machine Learning.pdf"
     },
     {
+        "_id": "67f03d23330467e31f3b26b5",
         "id": "1228",
         "name": "For valid generalization, the size of the weights is more important than the size of the network",
         "title": "Artificial Intelligence and Soft Computing",
@@ -4764,6 +5161,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/For valid generalization, the size of the weights is more important than the size of the network.pdf"
     },
     {
+        "_id": "67f03d24330467e31f3b26b6",
         "id": "1228",
         "name": "Foundations of Machine Learning (2nd Edition)",
         "title": "Foundations of Machine Learning",
@@ -4776,6 +5174,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Foundations of Machine Learning (2nd Edition).pdf"
     },
     {
+        "_id": "67f03d25330467e31f3b26b7",
         "id": "1228",
         "name": "Generative Adversarial Networks with Python Deep Learning Generative Models for Image Synthesis and Image Translation by Jason Brownlee",
         "title": "Generative Adversarial Networks with Python",
@@ -4788,6 +5187,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Generative Adversarial Networks with Python Deep Learning Generative Models for Image Synthesis and Image Translation by Jason Brownlee.pdf"
     },
     {
+        "_id": "67f03d25330467e31f3b26b8",
         "id": "1228",
         "name": "Google Practitioners' guide to MLOps",
         "title": "The Definitive Guide to Google Vertex AI",
@@ -4800,6 +5200,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Google Practitioners' guide to MLOps.pdf"
     },
     {
+        "_id": "67f03d25330467e31f3b26b9",
         "id": "1228",
         "name": "grokking Machine Learning-2021-英文版",
         "title": "Grokking Machine Learning",
@@ -4812,6 +5213,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/grokking Machine Learning-2021-英文版.pdf"
     },
     {
+        "_id": "67f03d26330467e31f3b26ba",
         "id": "1228",
         "name": "Hands-on data science and Python machine learning",
         "title": "Hands-On Data Science and Python Machine Learning",
@@ -4824,6 +5226,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Hands-on data science and Python machine learning.pdf"
     },
     {
+        "_id": "67f03d27330467e31f3b26bb",
         "id": "1228",
         "name": "Hands-On_Machine_Learning_with_Scikit-Learn-Keras-TensorFlow-2nd-Aurelien-Geron",
         "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
@@ -4836,6 +5239,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-TensorFlow-2nd-Aurelien-Geron.pdf"
     },
     {
+        "_id": "67f03d28330467e31f3b26bc",
         "id": "1228",
         "name": "Hands_On_Machine_Learning_with_Scikit_Learn,_Keras 3rd",
         "title": "Mathematics for Machine Learning",
@@ -4848,6 +5252,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Hands_On_Machine_Learning_with_Scikit_Learn,_Keras 3rd.pdf"
     },
     {
+        "_id": "67f03d29330467e31f3b26bd",
         "id": "1228",
         "name": "hidden-technical-debt-in-machine-learning-systems",
         "title": "Machine Learning in Production",
@@ -4860,6 +5265,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/hidden-technical-debt-in-machine-learning-systems.pdf"
     },
     {
+        "_id": "67f03d29330467e31f3b26be",
         "id": "1228",
         "name": "How to avoid machine learning pitfalls - a guide for academic researchers",
         "title": "Research Handbook on Human Resource Management and Disruptive Technologies",
@@ -4872,6 +5278,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/How to avoid machine learning pitfalls - a guide for academic researchers.pdf"
     },
     {
+        "_id": "67f03d2a330467e31f3b26bf",
         "id": "1228",
         "name": "Hyundai Robotics - advancing predictive maintenance with AI",
         "title": "Intelligent Computing and Optimization for Sustainable Development",
@@ -4884,6 +5291,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Hyundai Robotics - advancing predictive maintenance with AI.pdf"
     },
     {
+        "_id": "67f03d2b330467e31f3b26c0",
         "id": "1228",
         "name": "Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee (z-lib.org)",
         "title": "Imbalanced Classification with Python",
@@ -4896,6 +5304,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d2b330467e31f3b26c1",
         "id": "1228",
         "name": "increasing-yield-smartfactory-rx-pi-system",
         "title": "Internet of Things",
@@ -4908,6 +5317,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/increasing-yield-smartfactory-rx-pi-system.pdf"
     },
     {
+        "_id": "67f03d2c330467e31f3b26c2",
         "id": "1228",
         "name": "Instrumental Inc article",
         "title": "Undergraduate Instrumental Analysis",
@@ -4920,6 +5330,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Instrumental Inc article.pdf"
     },
     {
+        "_id": "67f03d2c330467e31f3b26c3",
         "id": "1228",
         "name": "Interactive Analysis Needs Theories of Inference",
         "title": "The Handbook of Task Analysis for Human-Computer Interaction",
@@ -4932,6 +5343,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Interactive Analysis Needs Theories of Inference.pdf"
     },
     {
+        "_id": "67f03d2d330467e31f3b26c4",
         "id": "1228",
         "name": "interpretable-machine-learning",
         "title": "Interpretable Machine Learning",
@@ -4944,6 +5356,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/interpretable-machine-learning.pdf"
     },
     {
+        "_id": "67f03d2e330467e31f3b26c5",
         "id": "1228",
         "name": "Introduction to Machine Learning with Python",
         "title": "Introduction to Machine Learning with Python",
@@ -4956,6 +5369,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Introduction to Machine Learning with Python.pdf"
     },
     {
+        "_id": "67f03d2e330467e31f3b26c6",
         "id": "1228",
         "name": "Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee (z-lib.org)",
         "title": "Introduction to Time Series Forecasting With Python",
@@ -4968,6 +5382,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the Future by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d2f330467e31f3b26c7",
         "id": "1228",
         "name": "Invariant Risk Minimization ICML'19",
         "title": "Probabilistic Machine Learning",
@@ -4980,6 +5395,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Invariant Risk Minimization ICML'19.pdf"
     },
     {
+        "_id": "67f03d2f330467e31f3b26c8",
         "id": "1228",
         "name": "LeonBottouICML2015",
         "title": "Machine Learning and Knowledge Discovery in Databases. Research Track",
@@ -4992,6 +5408,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/LeonBottouICML2015.pdf"
     },
     {
+        "_id": "67f03d30330467e31f3b26c9",
         "id": "1228",
         "name": "Leveraging Big Data from Robots - IIoT, Predictive Analysis, and Small Data, Too!",
         "title": "IoT Security",
@@ -5004,6 +5421,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Leveraging Big Data from Robots - IIoT, Predictive Analysis, and Small Data, Too!.pdf"
     },
     {
+        "_id": "67f03d30330467e31f3b26ca",
         "id": "1228",
         "name": "Long Short-Term Memory Networks With Python Develop Sequence Prediction Models With Deep Learning by Jason Brownlee (z-lib.org)",
         "title": "Long Short-term Memory Networks with Python",
@@ -5016,6 +5434,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Long Short-Term Memory Networks With Python Develop Sequence Prediction Models With Deep Learning by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d31330467e31f3b26cb",
         "id": "1228",
         "name": "MA Learning_A CriticalSurvey_2003_0516",
         "title": "MA Learning_A CriticalSurvey_2003_0516",
@@ -5028,6 +5447,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/MA Learning_A CriticalSurvey_2003_0516.pdf"
     },
     {
+        "_id": "67f03d32330467e31f3b26cc",
         "id": "1228",
         "name": "Machine Learning A Probabilistic Perspective by Kevin P. Murphy (z-lib.org)",
         "title": "Probabilistic Machine Learning",
@@ -5040,6 +5460,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning A Probabilistic Perspective by Kevin P. Murphy (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d32330467e31f3b26cd",
         "id": "1228",
         "name": "Machine Learning Algorithms From Scratch With Python by Jason Brownlee",
         "title": "Machine Learning Algorithms from Scratch",
@@ -5052,6 +5473,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning Algorithms From Scratch With Python by Jason Brownlee.pdf"
     },
     {
+        "_id": "67f03d33330467e31f3b26ce",
         "id": "1228",
         "name": "Machine Learning Algorithms",
         "title": "Understanding Machine Learning",
@@ -5064,6 +5486,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning Algorithms.pdf"
     },
     {
+        "_id": "67f03d34330467e31f3b26cf",
         "id": "1228",
         "name": "Machine learning applications in production lines - A systematic literature review",
         "title": "Machine Learning for Sustainable Manufacturing in Industry 4.0",
@@ -5076,6 +5499,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine learning applications in production lines - A systematic literature review.pdf"
     },
     {
+        "_id": "67f03d35330467e31f3b26d0",
         "id": "1228",
         "name": "Machine learning at the energy and intensity frontiers of particle physics",
         "title": "Artificial Intelligence For High Energy Physics",
@@ -5088,6 +5512,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine learning at the energy and intensity frontiers of particle physics.pdf"
     },
     {
+        "_id": "67f03d38330467e31f3b26d1",
         "id": "1228",
         "name": "Machine Learning for Everyone - Awesome Notes (35 Pages)",
         "title": "Mathematics for Machine Learning",
@@ -5100,6 +5525,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning for Everyone - Awesome Notes (35 Pages).pdf"
     },
     {
+        "_id": "67f03d39330467e31f3b26d2",
         "id": "1228",
         "name": "Machine Learning for the Web",
         "title": "Deep Learning",
@@ -5112,6 +5538,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning for the Web.pdf"
     },
     {
+        "_id": "67f03d3a330467e31f3b26d3",
         "id": "1228",
         "name": "Machine learning improves production test",
         "title": "Thoughtful Machine Learning",
@@ -5124,6 +5551,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine learning improves production test.pdf"
     },
     {
+        "_id": "67f03d3b330467e31f3b26d4",
         "id": "1228",
         "name": "Machine Learning in Action",
         "title": "Machine Learning in Action",
@@ -5136,6 +5564,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning in Action.pdf"
     },
     {
+        "_id": "67f03d3c330467e31f3b26d5",
         "id": "1228",
         "name": "Machine Learning Mastery with Python Understand Your Data, Create Accurate Models",
         "title": "MACHINE LEARNING MASTERY WITH PYTHON",
@@ -5148,6 +5577,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning Mastery with Python Understand Your Data, Create Accurate Models.pdf"
     },
     {
+        "_id": "67f03d3c330467e31f3b26d6",
         "id": "1228",
         "name": "Machine Learning Mastery with R by Jason Brownlee (z-lib.org)",
         "title": "Data Preparation for Machine Learning",
@@ -5160,6 +5590,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning Mastery with R by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d3d330467e31f3b26d7",
         "id": "1228",
         "name": "Machine Learning Projects with Python",
         "title": "Python Machine Learning Projects",
@@ -5172,6 +5603,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning Projects with Python.pdf"
     },
     {
+        "_id": "67f03d3d330467e31f3b26d8",
         "id": "1228",
         "name": "Machine learning testing",
         "title": "Thoughtful Machine Learning",
@@ -5184,6 +5616,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine learning testing.pdf"
     },
     {
+        "_id": "67f03d3e330467e31f3b26d9",
         "id": "1228",
         "name": "Machine Learning with Python Cookbook 2018",
         "title": "Machine Learning with Python Cookbook",
@@ -5196,6 +5629,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning with Python Cookbook 2018.pdf"
     },
     {
+        "_id": "67f03d3f330467e31f3b26da",
         "id": "1228",
         "name": "Machine Learning With Python For Everyone by Mark E. Fenner (z-lib.org)",
         "title": "Machine Learning with Python for Everyone",
@@ -5208,6 +5642,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning With Python For Everyone by Mark E. Fenner (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d3f330467e31f3b26db",
         "id": "1228",
         "name": "Machine Learning",
         "title": "Deep Learning",
@@ -5220,6 +5655,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning.pdf"
     },
     {
+        "_id": "67f03d40330467e31f3b26dc",
         "id": "1228",
         "name": "Machine Learning_ An Algorithmic Perspective (2nd ed.) [Marsland 2014-10-08]",
         "title": "Machine Learning",
@@ -5232,6 +5668,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine Learning_ An Algorithmic Perspective (2nd ed.) [Marsland 2014-10-08].pdf"
     },
     {
+        "_id": "67f03d41330467e31f3b26dd",
         "id": "1228",
         "name": "MachineLearning_mini_book-200117-131948",
         "title": "Green Revolution",
@@ -5244,6 +5681,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/MachineLearning_mini_book-200117-131948.pdf"
     },
     {
+        "_id": "67f03d42330467e31f3b26de",
         "id": "1228",
         "name": "Machine_Learning_in_Action 2012",
         "title": "Machine Learning in Action",
@@ -5256,6 +5694,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine_Learning_in_Action 2012.pdf"
     },
     {
+        "_id": "67f03d43330467e31f3b26df",
         "id": "1228",
         "name": "Machine_Learning_in_Action",
         "title": "Machine Learning in Action",
@@ -5268,6 +5707,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine_Learning_in_Action.pdf"
     },
     {
+        "_id": "67f03d43330467e31f3b26e0",
         "id": "1228",
         "name": "Machine_Learning_Simplified-200407-185721",
         "title": "History of the Foundation of the Actuarial Society of America",
@@ -5280,6 +5720,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Machine_Learning_Simplified-200407-185721.pdf"
     },
     {
+        "_id": "67f03d44330467e31f3b26e1",
         "id": "1228",
         "name": "Master Machine Learning Algorithms - Discover Implement Them From Scratch",
         "title": "Master Machine Learning Algorithms",
@@ -5292,6 +5733,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Master Machine Learning Algorithms - Discover Implement Them From Scratch.pdf"
     },
     {
+        "_id": "67f03d45330467e31f3b26e2",
         "id": "1228",
         "name": "Mastering Machine Learning with Python in Six Steps_ A Practical Implementation Guide to Predictive Data Analytics Using Python",
         "title": "Mastering Machine Learning with Python in Six Steps",
@@ -5304,6 +5746,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Mastering Machine Learning with Python in Six Steps_ A Practical Implementation Guide to Predictive Data Analytics Using Python.pdf"
     },
     {
+        "_id": "67f03d46330467e31f3b26e3",
         "id": "1228",
         "name": "Mastering Machine Learning With scikit-learn 2014",
         "title": "Mastering Machine Learning with scikit-learn",
@@ -5316,6 +5759,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Mastering Machine Learning With scikit-learn 2014.pdf"
     },
     {
+        "_id": "67f03d46330467e31f3b26e4",
         "id": "1228",
         "name": "Mastering Machine Learning with scikit-learn, 2nd Edition",
         "title": "Mastering Machine Learning with scikit-learn",
@@ -5328,6 +5772,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Mastering Machine Learning with scikit-learn, 2nd Edition.pdf"
     },
     {
+        "_id": "67f03d47330467e31f3b26e5",
         "id": "1228",
         "name": "math for machine learning",
         "title": "Mathematics for Machine Learning",
@@ -5340,6 +5785,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/math for machine learning.pdf"
     },
     {
+        "_id": "67f03d48330467e31f3b26e6",
         "id": "1228",
         "name": "MBMLbook",
         "title": "Model-Based Machine Learning",
@@ -5352,6 +5798,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/MBMLbook.pdf"
     },
     {
+        "_id": "67f03d49330467e31f3b26e7",
         "id": "1228",
         "name": "Monitoring of Assembly Process Using Deep Learning Technology",
         "title": "Advanced Intelligent Computing Technology and Applications",
@@ -5364,6 +5811,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Monitoring of Assembly Process Using Deep Learning Technology.pdf"
     },
     {
+        "_id": "67f03d4a330467e31f3b26e8",
         "id": "1228",
         "name": "Neural_Networks,_Machine_Learning,_and_Image_Processing：Mathematical",
         "title": "Neural Networks, Machine Learning, and Image Processing",
@@ -5376,6 +5824,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Neural_Networks,_Machine_Learning,_and_Image_Processing：Mathematical.pdf"
     },
     {
+        "_id": "67f03d4b330467e31f3b26e9",
         "id": "1228",
         "name": "Novel Machine Learning Approaches for Modeling Variations in Semiconductor Manufacturing",
         "title": "Machine Learning in VLSI Computer-Aided Design",
@@ -5388,6 +5837,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Novel Machine Learning Approaches for Modeling Variations in Semiconductor Manufacturing.pdf"
     },
     {
+        "_id": "67f03d4c330467e31f3b26ea",
         "id": "1228",
         "name": "On the effect of data set size on bias and variance in classification learning",
         "title": "Learning in Non-Stationary Environments",
@@ -5400,6 +5850,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/On the effect of data set size on bias and variance in classification learning.pdf"
     },
     {
+        "_id": "67f03d4c330467e31f3b26eb",
         "id": "1228",
         "name": "Pattern Recognition and Machine Learning",
         "title": "Pattern Recognition and Machine Learning",
@@ -5412,6 +5863,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Pattern Recognition and Machine Learning.pdf"
     },
     {
+        "_id": "67f03d4d330467e31f3b26ec",
         "id": "1228",
         "name": "Please Stop Explaining Black Box Models for High-Stakes Decisions",
         "title": "Pattern Recognition. ICPR International Workshops and Challenges",
@@ -5424,6 +5876,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Please Stop Explaining Black Box Models for High-Stakes Decisions.pdf"
     },
     {
+        "_id": "67f03d4e330467e31f3b26ed",
         "id": "1228",
         "name": "Predictive Maintenance Of Industrial Robots",
         "title": "AI and Blockchain Applications in Industrial Robotics",
@@ -5436,6 +5889,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Predictive Maintenance Of Industrial Robots.pdf"
     },
     {
+        "_id": "67f03d4e330467e31f3b26ee",
         "id": "1228",
         "name": "premium_ebooks_Machine_Learning_in_Chemistry_The_Impact_of_Artificial",
         "title": "premium_ebooks_Machine_Learning_in_Chemistry_The_Impact_of_Artificial",
@@ -5448,6 +5902,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/premium_ebooks_Machine_Learning_in_Chemistry_The_Impact_of_Artificial.pdf"
     },
     {
+        "_id": "67f03d4f330467e31f3b26ef",
         "id": "1228",
         "name": "premium_ebooks_Simplifying_Machine_Learning_with_PyCaret_A_Low 2022",
         "title": "Machine Learning with Python",
@@ -5460,6 +5915,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/premium_ebooks_Simplifying_Machine_Learning_with_PyCaret_A_Low 2022.pdf"
     },
     {
+        "_id": "67f03d50330467e31f3b26f0",
         "id": "1228",
         "name": "Probability for Machine Learning - Discover How To Harness Uncertainty With Python by Jason Brownlee (z-lib.org)",
         "title": "Probability for Machine Learning",
@@ -5472,6 +5928,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Probability for Machine Learning - Discover How To Harness Uncertainty With Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d51330467e31f3b26f1",
         "id": "1228",
         "name": "Python Machine Learning Blueprints",
         "title": "Machine Learning and Data Science Blueprints for Finance",
@@ -5484,6 +5941,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Python Machine Learning Blueprints.pdf"
     },
     {
+        "_id": "67f03d51330467e31f3b26f2",
         "id": "1228",
         "name": "Python Machine Learning_ A Deep Dive Int.epub",
         "title": "Dive Into Deep Learning",
@@ -5496,6 +5954,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Python Machine Learning_ A Deep Dive Int.epub.pdf"
     },
     {
+        "_id": "67f03d52330467e31f3b26f3",
         "id": "1228",
         "name": "Python ML Projects --- A start towards ML journey",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -5508,6 +5967,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Python ML Projects --- A start towards ML journey.pdf"
     },
     {
+        "_id": "67f03d53330467e31f3b26f4",
         "id": "1228",
         "name": "python-machine-learning-3rd-edition",
         "title": "Python Machine Learning",
@@ -5520,6 +5980,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/python-machine-learning-3rd-edition.pdf"
     },
     {
+        "_id": "67f03d53330467e31f3b26f5",
         "id": "1228",
         "name": "python-machine-learning-blueprints-2nd-edition-9781788994170",
         "title": "Python Machine Learning Blueprints",
@@ -5532,6 +5993,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/python-machine-learning-blueprints-2nd-edition-9781788994170.pdf"
     },
     {
+        "_id": "67f03d54330467e31f3b26f6",
         "id": "1228",
         "name": "python-machine-learning-projects-learn-how-to-build-machine-learning-projects-from-scratch",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -5544,6 +6006,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/python-machine-learning-projects-learn-how-to-build-machine-learning-projects-from-scratch.pdf"
     },
     {
+        "_id": "67f03d55330467e31f3b26f7",
         "id": "1228",
         "name": "Python_Deeper_Insights_into_Machine_Learning",
         "title": "Python: Deeper Insights into Machine Learning",
@@ -5556,6 +6019,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Python_Deeper_Insights_into_Machine_Learning.pdf"
     },
     {
+        "_id": "67f03d56330467e31f3b26f8",
         "id": "1228",
         "name": "Python_Machine_Learning 2015",
         "title": "Python Machine Learning",
@@ -5568,6 +6032,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Python_Machine_Learning 2015.pdf"
     },
     {
+        "_id": "67f03d56330467e31f3b26f9",
         "id": "1228",
         "name": "Regression Error Characteristic curve (REC)",
         "title": "Tutorials in Chemoinformatics",
@@ -5580,6 +6045,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Regression Error Characteristic curve (REC).pdf"
     },
     {
+        "_id": "67f03d57330467e31f3b26fa",
         "id": "1228",
         "name": "Restructuring Sparse High Dimensional Data for Effective Retrieval - Isbell  NIPS 1999",
         "title": "Knowledge-based Intelligent Information Engineering Systems & Allied Technologies",
@@ -5592,6 +6058,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Restructuring Sparse High Dimensional Data for Effective Retrieval - Isbell  NIPS 1999.pdf"
     },
     {
+        "_id": "67f03d58330467e31f3b26fb",
         "id": "1228",
         "name": "Robot fault detection and remaining life estimation for predictive maintenance",
         "title": "Predictive Maintenance in Smart Factories",
@@ -5604,6 +6071,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Robot fault detection and remaining life estimation for predictive maintenance.pdf"
     },
     {
+        "_id": "67f03d59330467e31f3b26fc",
         "id": "1228",
         "name": "Secrets_of_Machine_Learning_How_Machines_Learn 2024",
         "title": "Grokking Machine Learning",
@@ -5616,6 +6084,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Secrets_of_Machine_Learning_How_Machines_Learn 2024.pdf"
     },
     {
+        "_id": "67f03d5a330467e31f3b26fd",
         "id": "1228",
         "name": "Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python by Jason Brownlee (z-lib.org)",
         "title": "Statistical Methods for Machine Learning",
@@ -5628,6 +6097,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Statistical Methods for Machine Learning Discover How to Transform Data into Knowledge with Python by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d5b330467e31f3b26fe",
         "id": "1228",
         "name": "Support vectorn networks Vapnik and Cortes paper",
         "title": "Artificial Neural Networks - ICANN 96",
@@ -5640,6 +6110,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Support vectorn networks Vapnik and Cortes paper.pdf"
     },
     {
+        "_id": "67f03d5c330467e31f3b26ff",
         "id": "1228",
         "name": "tensorflow-machine-learning-cookbook-over-60-recipes",
         "title": "TensorFlow Machine Learning Cookbook",
@@ -5652,6 +6123,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/tensorflow-machine-learning-cookbook-over-60-recipes.pdf"
     },
     {
+        "_id": "67f03d5d330467e31f3b2700",
         "id": "1228",
         "name": "The Consciousness Prior",
         "title": "Pre-reflective Consciousness",
@@ -5664,6 +6136,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/The Consciousness Prior.pdf"
     },
     {
+        "_id": "67f03d5d330467e31f3b2701",
         "id": "1228",
         "name": "The Optimality of Naive Bayes",
         "title": "17th International Conference on Biomagnetism Advances in Biomagnetism - Biomag 2010 - March 28 - April 1, 2010",
@@ -5676,6 +6149,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/The Optimality of Naive Bayes.pdf"
     },
     {
+        "_id": "67f03d5e330467e31f3b2702",
         "id": "1228",
         "name": "The Riemannian Geometry of Deep Generative Models",
         "title": "Deep Generative Models, and Data Augmentation, Labelling, and Imperfections",
@@ -5688,6 +6162,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/The Riemannian Geometry of Deep Generative Models.pdf"
     },
     {
+        "_id": "67f03d5f330467e31f3b2703",
         "id": "1228",
         "name": "Theoretical Impediments to Machine Learning - Judea Pearl",
         "title": "Causal Inference in Statistics",
@@ -5700,6 +6175,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Theoretical Impediments to Machine Learning - Judea Pearl.pdf"
     },
     {
+        "_id": "67f03d60330467e31f3b2704",
         "id": "1228",
         "name": "TherML- Thermodynamics of Machine Learning",
         "title": "Thermodynamics and Energy Conversion Principles",
@@ -5712,6 +6188,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/TherML- Thermodynamics of Machine Learning.pdf"
     },
     {
+        "_id": "67f03d60330467e31f3b2705",
         "id": "1228",
         "name": "The_Machine_Learning_Solutions_Architect_Handbook",
         "title": "The Machine Learning Solutions Architect Handbook",
@@ -5724,6 +6201,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/The_Machine_Learning_Solutions_Architect_Handbook.pdf"
     },
     {
+        "_id": "67f03d61330467e31f3b2706",
         "id": "1228",
         "name": "The_Master_Algorithm_How_the_Quest_for_the_Ultimate_Learning_Machine",
         "title": "Artificial Intelligence: Robot Law, Policy and Ethics",
@@ -5736,6 +6214,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/The_Master_Algorithm_How_the_Quest_for_the_Ultimate_Learning_Machine.pdf"
     },
     {
+        "_id": "67f03d62330467e31f3b2707",
         "id": "1228",
         "name": "Top 10 algorithms in data mining",
         "title": "The Top Ten Algorithms in Data Mining",
@@ -5748,6 +6227,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Top 10 algorithms in data mining.pdf"
     },
     {
+        "_id": "67f03d63330467e31f3b2708",
         "id": "1228",
         "name": "Underspecification Presents Challenges for Credibility in Modern Machine Learning",
         "title": "Biocomputing 2024 - Proceedings Of The Pacific Symposium",
@@ -5760,6 +6240,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Underspecification Presents Challenges for Credibility in Modern Machine Learning.pdf"
     },
     {
+        "_id": "67f03d63330467e31f3b2709",
         "id": "1228",
         "name": "UNDERSTANDING-MACHINE-LEARNING-FROM-THEORY-TO-ALGORITHMS CN.2014",
         "title": "Understanding Machine Learning",
@@ -5772,6 +6253,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/UNDERSTANDING-MACHINE-LEARNING-FROM-THEORY-TO-ALGORITHMS CN.2014.pdf"
     },
     {
+        "_id": "67f03d64330467e31f3b270a",
         "id": "1228",
         "name": "understanding-machine-learning-theory-algorithms EN 2014",
         "title": "Understanding Machine Learning",
@@ -5784,6 +6266,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/understanding-machine-learning-theory-algorithms EN 2014.pdf"
     },
     {
+        "_id": "67f03d65330467e31f3b270b",
         "id": "1228",
         "name": "understanding-machine-learning-theory-algorithms",
         "title": "Understanding Machine Learning",
@@ -5796,6 +6279,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/understanding-machine-learning-theory-algorithms.pdf"
     },
     {
+        "_id": "67f03d66330467e31f3b270c",
         "id": "1228",
         "name": "Weak vs. Strong Learning and the Adaboost Algorithm",
         "title": "Boosting",
@@ -5808,6 +6292,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Weak vs. Strong Learning and the Adaboost Algorithm.pdf"
     },
     {
+        "_id": "67f03d67330467e31f3b270d",
         "id": "1228",
         "name": "Will AI come to the test industry",
         "title": "INTEGRATED SOFTWARE TESTING: BRIDGING BUSINESS ANALYTICS, AI, AND SYSTEMS MANAGEMENT ACROSS INDUSTRIES",
@@ -5820,6 +6305,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1228/1228/Will AI come to the test industry.pdf"
     },
     {
+        "_id": "67f03d68330467e31f3b270e",
         "id": "1229",
         "name": "MATLAB金融算法分析实战——基于机器学习的股票量化分析_html",
         "title": "Python数据分析",
@@ -5832,6 +6318,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/MATLAB金融算法分析实战——基于机器学习的股票量化分析_html.pdf"
     },
     {
+        "_id": "67f03d68330467e31f3b270f",
         "id": "1229",
         "name": "ML程序设计教程》第2版柯韦译制机械工业出版社978_7_111_16121_12005_5P386",
         "title": "ML程序设计教程",
@@ -5844,6 +6331,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/ML程序设计教程》第2版柯韦译制机械工业出版社978_7_111_16121_12005_5P386.pdf"
     },
     {
+        "_id": "67f03d69330467e31f3b2710",
         "id": "1229",
         "name": "Python+TensorFlow机器学习实战_1_248_1580728174",
         "title": "Python+TensorFlow机器学习实战_1_248_1580728174",
@@ -5856,6 +6344,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python+TensorFlow机器学习实战_1_248_1580728174.pdf"
     },
     {
+        "_id": "67f03d69330467e31f3b2711",
         "id": "1229",
         "name": "Python大战机器学习：数据科学家的第一个小目标》2017",
         "title": "遊戲式學習",
@@ -5868,6 +6357,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python大战机器学习：数据科学家的第一个小目标》2017.pdf"
     },
     {
+        "_id": "67f03d6a330467e31f3b2712",
         "id": "1229",
         "name": "Python机器学习与量化投资》",
         "title": "量化投资与Python语言",
@@ -5880,6 +6370,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习与量化投资》.pdf"
     },
     {
+        "_id": "67f03d6b330467e31f3b2713",
         "id": "1229",
         "name": "Python机器学习及实践_从零开始通往Kaggle竞赛之路_范淼",
         "title": "Python机器__及__——_零_始通往Kaggle__之路",
@@ -5892,6 +6383,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习及实践_从零开始通往Kaggle竞赛之路_范淼.pdf"
     },
     {
+        "_id": "67f03d6c330467e31f3b2714",
         "id": "1229",
         "name": "Python机器学习基础教程",
         "title": "深入浅出Python机器学习",
@@ -5904,6 +6396,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习基础教程.pdf"
     },
     {
+        "_id": "67f03d6c330467e31f3b2715",
         "id": "1229",
         "name": "Python机器学习基础教程2018",
         "title": "深入浅出Python机器学习",
@@ -5916,6 +6409,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习基础教程2018.pdf"
     },
     {
+        "_id": "67f03d6d330467e31f3b2716",
         "id": "1229",
         "name": "Python机器学习实践指南",
         "title": "Python机器学习实战",
@@ -5928,6 +6422,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习实践指南.pdf"
     },
     {
+        "_id": "67f03d6e330467e31f3b2717",
         "id": "1229",
         "name": "Python机器学习手册：从数据预处理到深度学习》",
         "title": "Python机器__及__——_零_始通往Kaggle__之路",
@@ -5940,6 +6435,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习手册：从数据预处理到深度学习》.pdf"
     },
     {
+        "_id": "67f03d6e330467e31f3b2718",
         "id": "1229",
         "name": "Python机器学习算法2017",
         "title": "Python机器学习案例精解",
@@ -5952,6 +6448,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习算法2017.pdf"
     },
     {
+        "_id": "67f03d6f330467e31f3b2719",
         "id": "1229",
         "name": "Python机器学习经典实例cook book",
         "title": "Python从入门到精通",
@@ -5964,6 +6461,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习经典实例cook book.pdf"
     },
     {
+        "_id": "67f03d70330467e31f3b271a",
         "id": "1229",
         "name": "Python机器学习：预测分析核心算法",
         "title": "机器学习实战",
@@ -5976,6 +6474,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Python机器学习：预测分析核心算法.pdf"
     },
     {
+        "_id": "67f03d70330467e31f3b271b",
         "id": "1229",
         "name": "spark hardoop大数据与机器学习：实践方法与行业案例.html",
         "title": "大數據X資料探勘X智慧營運",
@@ -5988,6 +6487,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/spark hardoop大数据与机器学习：实践方法与行业案例.html.pdf"
     },
     {
+        "_id": "67f03d71330467e31f3b271c",
         "id": "1229",
         "name": "Spark机器学习",
         "title": "Spark机器学习实战",
@@ -6000,6 +6500,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Spark机器学习.pdf"
     },
     {
+        "_id": "67f03d72330467e31f3b271d",
         "id": "1229",
         "name": "Web安全之机器学习入门.html",
         "title": "云计算安全：机器学习与大数据挖掘应用实践",
@@ -6012,6 +6513,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/Web安全之机器学习入门.html.pdf"
     },
     {
+        "_id": "67f03d73330467e31f3b271e",
         "id": "1229",
         "name": "决策用强化与系统性机器学习",
         "title": "人工智能与教育",
@@ -6024,6 +6526,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/决策用强化与系统性机器学习.pdf"
     },
     {
+        "_id": "67f03d73330467e31f3b271f",
         "id": "1229",
         "name": "图解机器学习",
         "title": "圖解機器學習、人工智慧與人類未來",
@@ -6036,6 +6539,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/图解机器学习.pdf"
     },
     {
+        "_id": "67f03d74330467e31f3b2720",
         "id": "1229",
         "name": "大数据时代的算法：机器学习、人工智能及其典型实例 2016",
         "title": "人工智能与教育",
@@ -6048,6 +6552,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/大数据时代的算法：机器学习、人工智能及其典型实例 2016.pdf"
     },
     {
+        "_id": "67f03d75330467e31f3b2721",
         "id": "1229",
         "name": "实用机器学习2017",
         "title": "機器學習：最強入門邁向AI高手．王者歸來",
@@ -6060,6 +6565,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/实用机器学习2017.pdf"
     },
     {
+        "_id": "67f03d75330467e31f3b2722",
         "id": "1229",
         "name": "机器学习numpy和pandas基础",
         "title": "深入浅出Python机器学习",
@@ -6072,6 +6578,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习numpy和pandas基础.pdf"
     },
     {
+        "_id": "67f03d76330467e31f3b2723",
         "id": "1229",
         "name": "机器学习_周志华",
         "title": "机器学习",
@@ -6084,6 +6591,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习_周志华.pdf"
     },
     {
+        "_id": "67f03d77330467e31f3b2724",
         "id": "1229",
         "name": "机器学习〔中文版〕",
         "title": "Spark Cookbook (中文版)",
@@ -6096,6 +6604,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习〔中文版〕.pdf"
     },
     {
+        "_id": "67f03d77330467e31f3b2725",
         "id": "1229",
         "name": "机器学习与优化",
         "title": "终极SEO指南：带来庞大的流量和销售",
@@ -6108,6 +6617,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习与优化.pdf"
     },
     {
+        "_id": "67f03d78330467e31f3b2726",
         "id": "1229",
         "name": "机器学习个人笔记完整版v4.21",
         "title": "线性代数与概率论",
@@ -6120,6 +6630,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习个人笔记完整版v4.21.pdf"
     },
     {
+        "_id": "67f03d79330467e31f3b2727",
         "id": "1229",
         "name": "机器学习互联网业务安全实践》",
         "title": "云计算安全：机器学习与大数据挖掘应用实践",
@@ -6132,6 +6643,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习互联网业务安全实践》.pdf"
     },
     {
+        "_id": "67f03d79330467e31f3b2728",
         "id": "1229",
         "name": "机器学习在量化投资中的应用研究_汤凌冰著_北京：电子工业出版社_2014_11_13662591_P157",
         "title": "机器学习在量化投资中的应用研究",
@@ -6144,6 +6656,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习在量化投资中的应用研究_汤凌冰著_北京：电子工业出版社_2014_11_13662591_P157.pdf"
     },
     {
+        "_id": "67f03d7a330467e31f3b2729",
         "id": "1229",
         "name": "机器学习实战",
         "title": "机器学习实战",
@@ -6156,6 +6669,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习实战.pdf"
     },
     {
+        "_id": "67f03d7b330467e31f3b272a",
         "id": "1229",
         "name": "机器学习实践指南++案例应用解析+麦好2014",
         "title": "新媒體跨界交互設計",
@@ -6168,6 +6682,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习实践指南++案例应用解析+麦好2014.pdf"
     },
     {
+        "_id": "67f03d7c330467e31f3b272b",
         "id": "1229",
         "name": "机器学习实践指南：案例应用解析（第2版）2016",
         "title": "人工智能与教育",
@@ -6180,6 +6695,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习实践指南：案例应用解析（第2版）2016.pdf"
     },
     {
+        "_id": "67f03d7c330467e31f3b272c",
         "id": "1229",
         "name": "机器学习导论 原书 第2版",
         "title": "机器学习导论",
@@ -6192,6 +6708,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习导论 原书 第2版.pdf"
     },
     {
+        "_id": "67f03d7d330467e31f3b272d",
         "id": "1229",
         "name": "机器学习导论",
         "title": "机器学习导论",
@@ -6204,6 +6721,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习导论.pdf"
     },
     {
+        "_id": "67f03d7e330467e31f3b272e",
         "id": "1229",
         "name": "机器学习训练秘籍",
         "title": "金融中的人工智能",
@@ -6216,6 +6734,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器学习训练秘籍.pdf"
     },
     {
+        "_id": "67f03d7f330467e31f3b272f",
         "id": "1229",
         "name": "机器智能：人工情感",
         "title": "我與ChatGPT有約.",
@@ -6228,6 +6747,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/机器智能：人工情感.pdf"
     },
     {
+        "_id": "67f03d7f330467e31f3b2730",
         "id": "1229",
         "name": "模式识别与机器学习",
         "title": "模式识别",
@@ -6240,6 +6760,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/模式识别与机器学习.pdf"
     },
     {
+        "_id": "67f03d80330467e31f3b2731",
         "id": "1229",
         "name": "深入浅出 Python机器学习 段小手2018",
         "title": "深入浅出Python机器学习",
@@ -6252,6 +6773,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/深入浅出 Python机器学习 段小手2018.pdf"
     },
     {
+        "_id": "67f03d81330467e31f3b2732",
         "id": "1229",
         "name": "百面机器学习：算法工程师带你去面试",
         "title": "百面机器学习",
@@ -6264,6 +6786,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/百面机器学习：算法工程师带你去面试.pdf"
     },
     {
+        "_id": "67f03d81330467e31f3b2733",
         "id": "1229",
         "name": "阿里云机器学习PAI-DSW入门指南》",
         "title": "阿里云机器学习PAI-DSW入门指南》",
@@ -6276,6 +6799,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/阿里云机器学习PAI-DSW入门指南》.pdf"
     },
     {
+        "_id": "67f03d82330467e31f3b2734",
         "id": "1229",
         "name": "零起点PYTHON机器学习快速入门2017",
         "title": "零起点Python大数据与量化交易",
@@ -6288,6 +6812,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/零起点PYTHON机器学习快速入门2017.pdf"
     },
     {
+        "_id": "67f03d83330467e31f3b2735",
         "id": "1229",
         "name": "零起点Python机器学习快速入门》",
         "title": "零起点Python大数据与量化交易",
@@ -6300,6 +6825,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/零起点Python机器学习快速入门》.pdf"
     },
     {
+        "_id": "67f03d83330467e31f3b2736",
         "id": "1229",
         "name": "零起点Python足彩大数据与机器学习实盘分析》",
         "title": "零起点Python足彩大数据与机器学习实盘分析",
@@ -6312,6 +6838,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1229/1229/零起点Python足彩大数据与机器学习实盘分析》.pdf"
     },
     {
+        "_id": "67f03d84330467e31f3b2737",
         "id": "1234",
         "name": "2_Deep Learning with Python Develop Deep Learning Models on Theano and TensorFLow Using Keras2016",
         "title": "Deep Learning Techniques for Biomedical and Health Informatics",
@@ -6324,6 +6851,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/2_Deep Learning with Python Develop Deep Learning Models on Theano and TensorFLow Using Keras2016.pdf"
     },
     {
+        "_id": "67f03d84330467e31f3b2738",
         "id": "1234",
         "name": "2_Learn Keras for DL2019",
         "title": "2_Learn Keras for DL2019",
@@ -6336,6 +6864,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/2_Learn Keras for DL2019.pdf"
     },
     {
+        "_id": "67f03d85330467e31f3b2739",
         "id": "1234",
         "name": "3209080_TensorFlow与自然语言处理应用_1_414_1580715285",
         "title": "3209080_TensorFlow与自然语言处理应用_1_414_1580715285",
@@ -6348,6 +6877,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/3209080_TensorFlow与自然语言处理应用_1_414_1580715285.pdf"
     },
     {
+        "_id": "67f03d85330467e31f3b273a",
         "id": "1234",
         "name": "3_Learning TensorFlow - Tom Hope, Yehezkel S. Resheff 2017",
         "title": "Learning TensorFlow",
@@ -6360,6 +6890,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/3_Learning TensorFlow - Tom Hope, Yehezkel S. Resheff 2017.pdf"
     },
     {
+        "_id": "67f03d86330467e31f3b273b",
         "id": "1234",
         "name": "4.Mastering TensorFlow 1.x_ Advanced Machine Learning and Deep Learning Keras2018",
         "title": "Data Science Jobs",
@@ -6372,6 +6903,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/4.Mastering TensorFlow 1.x_ Advanced Machine Learning and Deep Learning Keras2018.pdf"
     },
     {
+        "_id": "67f03d87330467e31f3b273c",
         "id": "1234",
         "name": "Advanced Deep Learning with TensorFlow 2 and Keras",
         "title": "Advanced Deep Learning with TensorFlow 2 and Keras",
@@ -6384,6 +6916,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Advanced Deep Learning with TensorFlow 2 and Keras.pdf"
     },
     {
+        "_id": "67f03d87330467e31f3b273d",
         "id": "1234",
         "name": "Deep Learning with Keras by Antonio Gulli 2017",
         "title": "Deep Learning with Keras",
@@ -6396,6 +6929,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Deep Learning with Keras by Antonio Gulli 2017.pdf"
     },
     {
+        "_id": "67f03d88330467e31f3b273e",
         "id": "1234",
         "name": "Deep Learning with Python Develop Deep Learning Models on Theano and TensorFLow Using Keras by Jason Brownlee (z-lib.org)",
         "title": "Deep Learning with Python",
@@ -6408,6 +6942,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Deep Learning with Python Develop Deep Learning Models on Theano and TensorFLow Using Keras by Jason Brownlee (z-lib.org).pdf"
     },
     {
+        "_id": "67f03d89330467e31f3b273f",
         "id": "1234",
         "name": "deep_learning_with_keras_tutorial",
         "title": "Deep Learning with Python",
@@ -6420,6 +6955,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/deep_learning_with_keras_tutorial.pdf"
     },
     {
+        "_id": "67f03d8a330467e31f3b2740",
         "id": "1234",
         "name": "Fastai-cookbook-leverage-the-easy-to-use-fastai-framework 2021",
         "title": "Deep Learning with fastai Cookbook",
@@ -6432,6 +6968,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Fastai-cookbook-leverage-the-easy-to-use-fastai-framework 2021.pdf"
     },
     {
+        "_id": "67f03d8a330467e31f3b2741",
         "id": "1234",
         "name": "Getting Started with TensorFlow 2016",
         "title": "Getting Started with Tensorflow",
@@ -6444,6 +6981,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Getting Started with TensorFlow 2016.pdf"
     },
     {
+        "_id": "67f03d8b330467e31f3b2742",
         "id": "1234",
         "name": "Getting Started with TensorFlow",
         "title": "Getting Started with Tensorflow",
@@ -6456,6 +6994,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Getting Started with TensorFlow.pdf"
     },
     {
+        "_id": "67f03d8c330467e31f3b2743",
         "id": "1234",
         "name": "hands-on-transfer-learning-with-python-tensorflow-and-keras",
         "title": "Hands-On Transfer Learning with Python",
@@ -6468,6 +7007,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/hands-on-transfer-learning-with-python-tensorflow-and-keras.pdf"
     },
     {
+        "_id": "67f03d8d330467e31f3b2744",
         "id": "1234",
         "name": "Keras_Cheat_Sheet_Python",
         "title": "Mastering-Deep-Learning-with-Keras",
@@ -6480,6 +7020,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Keras_Cheat_Sheet_Python.pdf"
     },
     {
+        "_id": "67f03d8d330467e31f3b2745",
         "id": "1234",
         "name": "Keras中文手册",
         "title": "深度學習｜使用Keras(電子書)",
@@ -6492,6 +7033,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Keras中文手册.pdf"
     },
     {
+        "_id": "67f03d8e330467e31f3b2746",
         "id": "1234",
         "name": "Learning TensorFlow - Tom Hope, Yehezkel S. Resheff",
         "title": "Learning TensorFlow",
@@ -6504,6 +7046,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Learning TensorFlow - Tom Hope, Yehezkel S. Resheff.pdf"
     },
     {
+        "_id": "67f03d8f330467e31f3b2747",
         "id": "1234",
         "name": "p1.Pytorch-workshop-build-deep-neural-networks-and-artificial-intelligence-applications",
         "title": "The Deep Learning with PyTorch Workshop",
@@ -6516,6 +7059,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/p1.Pytorch-workshop-build-deep-neural-networks-and-artificial-intelligence-applications.pdf"
     },
     {
+        "_id": "67f03d90330467e31f3b2748",
         "id": "1234",
         "name": "Python Deep Learning Exploring GANs with PyTorch, Keras and TensorFlow by Ivan Vasilev 2019",
         "title": "Python Deep Learning",
@@ -6528,6 +7072,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Python Deep Learning Exploring GANs with PyTorch, Keras and TensorFlow by Ivan Vasilev 2019.pdf"
     },
     {
+        "_id": "67f03d90330467e31f3b2749",
         "id": "1234",
         "name": "Python_Machine_Learning_By_Example_Third_Edition 2020",
         "title": "Python Machine Learning By Example",
@@ -6540,6 +7085,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Python_Machine_Learning_By_Example_Third_Edition 2020.pdf"
     },
     {
+        "_id": "67f03d91330467e31f3b274a",
         "id": "1234",
         "name": "Pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications-1nbsped-1492045357-9781492045359",
         "title": "Programming PyTorch for Deep Learning",
@@ -6552,6 +7098,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications-1nbsped-1492045357-9781492045359.pdf"
     },
     {
+        "_id": "67f03d92330467e31f3b274b",
         "id": "1234",
         "name": "PyTorch.Deep-Learning-with-PyTorch 2020",
         "title": "Deep Learning with PyTorch",
@@ -6564,6 +7111,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/PyTorch.Deep-Learning-with-PyTorch 2020.pdf"
     },
     {
+        "_id": "67f03d93330467e31f3b274c",
         "id": "1234",
         "name": "PyTorch_Deep.Learning.for.Coders.with.FASTai.and.OReilly.2020",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -6576,6 +7124,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/PyTorch_Deep.Learning.for.Coders.with.FASTai.and.OReilly.2020.pdf"
     },
     {
+        "_id": "67f03d93330467e31f3b274d",
         "id": "1234",
         "name": "Reinforcement Learning_ With Open AI, TensorFlow and Keras Using Python 2017",
         "title": "Reinforcement Learning",
@@ -6588,6 +7137,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Reinforcement Learning_ With Open AI, TensorFlow and Keras Using Python 2017.pdf"
     },
     {
+        "_id": "67f03d94330467e31f3b274e",
         "id": "1234",
         "name": "Ten.GETTING_STARTED_WITH_TENSORFLOW 2016",
         "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -6600,6 +7150,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Ten.GETTING_STARTED_WITH_TENSORFLOW 2016.pdf"
     },
     {
+        "_id": "67f03d95330467e31f3b274f",
         "id": "1234",
         "name": "Tensorflow-for-Deep-Learning 2018",
         "title": "TensorFlow for Deep Learning",
@@ -6612,6 +7163,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Tensorflow-for-Deep-Learning 2018.pdf"
     },
     {
+        "_id": "67f03d95330467e31f3b2750",
         "id": "1234",
         "name": "TensorFlow-for-Machine-Intelligence-A-Hands-On-Introduction-to-Learning-Algorithms 2016",
         "title": "TensorFlow for Machine Intelligence",
@@ -6624,6 +7176,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow-for-Machine-Intelligence-A-Hands-On-Introduction-to-Learning-Algorithms 2016.pdf"
     },
     {
+        "_id": "67f03d96330467e31f3b2751",
         "id": "1234",
         "name": "Tensorflow.Machine Learning with TensorFlow 1.x - Ahmed,Azeem,Hua (Packt Publishing;2017)",
         "title": "Machine Learning with TensorFlow 1.x",
@@ -6636,6 +7189,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/Tensorflow.Machine Learning with TensorFlow 1.x - Ahmed,Azeem,Hua (Packt Publishing;2017).pdf"
     },
     {
+        "_id": "67f03d97330467e31f3b2752",
         "id": "1234",
         "name": "TensorFlowMachineLearningCookbook 2017",
         "title": "TensorFlow Machine Learning Cookbook",
@@ -6648,6 +7202,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlowMachineLearningCookbook 2017.pdf"
     },
     {
+        "_id": "67f03d97330467e31f3b2753",
         "id": "1234",
         "name": "TensorFlow与自然语言处理应用_1_414_1580715285 2019",
         "title": "TensorFlow与自然语言处理应用_1_414_1580715285 2019",
@@ -6660,6 +7215,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow与自然语言处理应用_1_414_1580715285 2019.pdf"
     },
     {
+        "_id": "67f03d98330467e31f3b2754",
         "id": "1234",
         "name": "TensorFlow实战Google深度学习框架(第2版) 2018",
         "title": "TensorFlow实战Google深度学习框架(第2版) 2018",
@@ -6672,6 +7228,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow实战Google深度学习框架(第2版) 2018.pdf"
     },
     {
+        "_id": "67f03d98330467e31f3b2755",
         "id": "1234",
         "name": "TensorFlow实践与智能系统 2017",
         "title": "人工智能与教育",
@@ -6684,6 +7241,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow实践与智能系统 2017.pdf"
     },
     {
+        "_id": "67f03d99330467e31f3b2756",
         "id": "1234",
         "name": "TensorFlow技术解析与实战.李嘉璇 2017",
         "title": "新印象",
@@ -6696,6 +7254,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow技术解析与实战.李嘉璇 2017.pdf"
     },
     {
+        "_id": "67f03d99330467e31f3b2757",
         "id": "1234",
         "name": "TensorFlow机器学习实战2019",
         "title": "移动端机器学习实战",
@@ -6708,6 +7267,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow机器学习实战2019.pdf"
     },
     {
+        "_id": "67f03d9a330467e31f3b2758",
         "id": "1234",
         "name": "TensorFlow深度学习 2018",
         "title": "TensorFlow深度学习项目实战",
@@ -6720,6 +7280,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow深度学习 2018.pdf"
     },
     {
+        "_id": "67f03d9b330467e31f3b2759",
         "id": "1234",
         "name": "TensorFlow：实战Google深度学习框架",
         "title": "TensorFlow深度学习项目实战",
@@ -6732,6 +7293,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/TensorFlow：实战Google深度学习框架.pdf"
     },
     {
+        "_id": "67f03d9c330467e31f3b275a",
         "id": "1234",
         "name": "T从AI模型到智能机器人：基于_Python_与_TensorFlow 2019 ",
         "title": "TensorFlow自然語言處理｜善用 Python 深度學習函式庫，教機器學會自然語言(電子書)",
@@ -6744,6 +7306,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/T从AI模型到智能机器人：基于_Python_与_TensorFlow 2019 .pdf"
     },
     {
+        "_id": "67f03d9c330467e31f3b275b",
         "id": "1234",
         "name": "T官方文档】TensorFlow Python API documentation",
         "title": "智能前端技?与??",
@@ -6756,6 +7319,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1234/1234/T官方文档】TensorFlow Python API documentation.pdf"
     },
     {
+        "_id": "67f03d9d330467e31f3b275c",
         "id": "1234",
         "name": "走向TensorFlow_2_0：深度学习应用编程快速入门》",
         "title": "走向TensorFlow_2_0：深度学习应用编程快速入门》",
@@ -6766,5 +7330,5 @@ export const booklist = [
         "previewLink": "No preview link",
         "isbn_13": "",
         "original_path": "https://aibookshub.github.io/b1234/1234/走向TensorFlow_2_0：深度学习应用编程快速入门》.pdf"
-    }
+    },
 ];

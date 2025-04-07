@@ -1,5 +1,6 @@
 export const booklist = [
     {
+        "_id": "67f06b40cdd5f79c66493ff5",
         "id": "1442",
         "name": "21 Types of SQL Join",
         "title": "Advanced ANSI SQL Data Modeling and Structure Processing",
@@ -12,6 +13,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/21 Types of SQL Join.pdf"
     },
     {
+        "_id": "67f06b41cdd5f79c66493ff6",
         "id": "1442",
         "name": "26 Pages Pandas",
         "title": "Pandas",
@@ -24,6 +26,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/26 Pages Pandas.pdf"
     },
     {
+        "_id": "67f06b42cdd5f79c66493ff7",
         "id": "1442",
         "name": "Ace the Programming Interview - 160 Questions and Answers for Success",
         "title": "Ace the Programming Interview",
@@ -36,6 +39,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Ace the Programming Interview - 160 Questions and Answers for Success.pdf"
     },
     {
+        "_id": "67f06b42cdd5f79c66493ff8",
         "id": "1442",
         "name": "Addison.Wesley.-.The.Pragmatic.Programmer.1ed.1999.程序员修炼之道",
         "title": "代码大全",
@@ -48,6 +52,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Addison.Wesley.-.The.Pragmatic.Programmer.1ed.1999.程序员修炼之道.pdf"
     },
     {
+        "_id": "67f06b43cdd5f79c66493ff9",
         "id": "1442",
         "name": "Clean Code Handbook - LeetCode 50 Common Interview Questions",
         "title": "Elements of Programming Interviews",
@@ -60,6 +65,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Clean Code Handbook - LeetCode 50 Common Interview Questions.pdf"
     },
     {
+        "_id": "67f06b44cdd5f79c66493ffa",
         "id": "1442",
         "name": "Coding Interviews - Questions, Analysis & Solutions",
         "title": "Coding Interviews",
@@ -72,6 +78,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Coding Interviews - Questions, Analysis & Solutions.pdf"
     },
     {
+        "_id": "67f06b44cdd5f79c66493ffb",
         "id": "1442",
         "name": "Cracking the Coding Interview - 150 Programming Interview Questions and Solutions 4e Small",
         "title": "Cracking the Coding Interview",
@@ -84,6 +91,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Cracking the Coding Interview - 150 Programming Interview Questions and Solutions 4e Small.pdf"
     },
     {
+        "_id": "67f06b45cdd5f79c66493ffc",
         "id": "1442",
         "name": "Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions",
         "title": "Cracking the Coding Interview",
@@ -96,6 +104,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Cracking the Coding Interview, 4 Edition - 150 Programming Interview Questions and Solutions.pdf"
     },
     {
+        "_id": "67f06b46cdd5f79c66493ffd",
         "id": "1442",
         "name": "Cracking the Coding Interview, 6th Edition",
         "title": "Cracking the Coding Interview",
@@ -108,6 +117,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Cracking the Coding Interview, 6th Edition.pdf"
     },
     {
+        "_id": "67f06b46cdd5f79c66493ffe",
         "id": "1442",
         "name": "Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions",
         "title": "Cracking the Coding Interview",
@@ -120,6 +130,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Cracking_the_Coding_Interview_6th_Edition_189_Programming_Questions.pdf"
     },
     {
+        "_id": "67f06b47cdd5f79c66493fff",
         "id": "1442",
         "name": "Data Cleaning Guidelines",
         "title": "Best Practices in Data Cleaning",
@@ -132,6 +143,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Data Cleaning Guidelines.pdf"
     },
     {
+        "_id": "67f06b48cdd5f79c66494000",
         "id": "1442",
         "name": "Data Cleaning",
         "title": "Best Practices in Data Cleaning",
@@ -144,6 +156,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Data Cleaning.pdf"
     },
     {
+        "_id": "67f06b49cdd5f79c66494001",
         "id": "1442",
         "name": "Data_Science_Interview_Prep_for_SQL,_Panda,_Python",
         "title": "Build a Career in Data Science",
@@ -156,6 +169,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Data_Science_Interview_Prep_for_SQL,_Panda,_Python.pdf"
     },
     {
+        "_id": "67f06b49cdd5f79c66494002",
         "id": "1442",
         "name": "Elements of Programming Interviews",
         "title": "Elements of Programming Interviews",
@@ -168,6 +182,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Elements of Programming Interviews.pdf"
     },
     {
+        "_id": "67f06b4acdd5f79c66494003",
         "id": "1442",
         "name": "Exercises for Programmers_ 57 Challenges to Develop Your Coding Skills 2015",
         "title": "Exercises for Programmers",
@@ -180,6 +195,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Exercises for Programmers_ 57 Challenges to Develop Your Coding Skills 2015.pdf"
     },
     {
+        "_id": "67f06b4bcdd5f79c66494004",
         "id": "1442",
         "name": "Interview Experience",
         "title": "301 Smart Answers to Tough Interview Questions",
@@ -192,6 +208,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Interview Experience.pdf"
     },
     {
+        "_id": "67f06b4ccdd5f79c66494005",
         "id": "1442",
         "name": "Land the Tech Job You Love",
         "title": "Land the Tech Job You Love",
@@ -204,6 +221,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Land the Tech Job You Love.pdf"
     },
     {
+        "_id": "67f06b4ccdd5f79c66494006",
         "id": "1442",
         "name": "LetMeRead.net__Routledge.Exercises.in.Programming.Style.2nd.Edition.0367350203",
         "title": "LetMeRead.net__Routledge.Exercises.in.Programming.Style.2nd.Edition.0367350203",
@@ -216,6 +234,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/LetMeRead.net__Routledge.Exercises.in.Programming.Style.2nd.Edition.0367350203.pdf"
     },
     {
+        "_id": "67f06b4dcdd5f79c66494007",
         "id": "1442",
         "name": "Pandas Exercises for Data Analysis",
         "title": "Pandas Workout",
@@ -228,6 +247,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Pandas Exercises for Data Analysis.pdf"
     },
     {
+        "_id": "67f06b4ecdd5f79c66494008",
         "id": "1442",
         "name": "Programming Interviews Exposed - Third Edition",
         "title": "Programming Interviews Exposed",
@@ -240,6 +260,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Programming Interviews Exposed - Third Edition.pdf"
     },
     {
+        "_id": "67f06b4ecdd5f79c66494009",
         "id": "1442",
         "name": "Programming_Interviews_Exposed_Coding_Your_Way_Through_the_Interview",
         "title": "Programming Interviews Exposed",
@@ -252,6 +273,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Programming_Interviews_Exposed_Coding_Your_Way_Through_the_Interview.pdf"
     },
     {
+        "_id": "67f06b4fcdd5f79c6649400a",
         "id": "1442",
         "name": "Python For Data Analysis by Boston University",
         "title": "Python Data Analysis",
@@ -264,6 +286,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Python For Data Analysis by Boston University.pdf"
     },
     {
+        "_id": "67f06b50cdd5f79c6649400b",
         "id": "1442",
         "name": "Python For Data Analysis Free EBook",
         "title": "Python Data Science Handbook",
@@ -276,6 +299,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Python For Data Analysis Free EBook.pdf"
     },
     {
+        "_id": "67f06b51cdd5f79c6649400c",
         "id": "1442",
         "name": "Python for Data Analysis",
         "title": "Python for Data Analysis",
@@ -288,6 +312,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Python for Data Analysis.pdf"
     },
     {
+        "_id": "67f06b51cdd5f79c6649400d",
         "id": "1442",
         "name": "python面试宝典",
         "title": "程序员面试宝典",
@@ -300,6 +325,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/python面试宝典.pdf"
     },
     {
+        "_id": "67f06b52cdd5f79c6649400e",
         "id": "1442",
         "name": "Python面试通关宝典",
         "title": "Python面试通关宝典",
@@ -312,6 +338,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/Python面试通关宝典.pdf"
     },
     {
+        "_id": "67f06b53cdd5f79c6649400f",
         "id": "1442",
         "name": "SQL Notes for Professionals",
         "title": "PHP Notes for Professionals",
@@ -324,6 +351,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/SQL Notes for Professionals.pdf"
     },
     {
+        "_id": "67f06b54cdd5f79c66494010",
         "id": "1442",
         "name": "The Google Resume",
         "title": "The Google Resume",
@@ -336,6 +364,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/The Google Resume.pdf"
     },
     {
+        "_id": "67f06b55cdd5f79c66494011",
         "id": "1442",
         "name": "The_Self_Taught_Programmer_The_Definitive_Guide",
         "title": "The Self-taught Programmer",
@@ -348,6 +377,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/The_Self_Taught_Programmer_The_Definitive_Guide.pdf"
     },
     {
+        "_id": "67f06b55cdd5f79c66494012",
         "id": "1442",
         "name": "剑指offer - 名企面试官精讲典型编程题",
         "title": "剑指Offer",
@@ -360,6 +390,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/剑指offer - 名企面试官精讲典型编程题.pdf"
     },
     {
+        "_id": "67f06b56cdd5f79c66494013",
         "id": "1442",
         "name": "教你如何迅速秒杀掉：99%的海量数据处理面试题",
         "title": "教師專業發展",
@@ -372,6 +403,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/教你如何迅速秒杀掉：99%的海量数据处理面试题.pdf"
     },
     {
+        "_id": "67f06b56cdd5f79c66494014",
         "id": "1442",
         "name": "编程之法：面试和算法心得",
         "title": "编程之法",
@@ -384,6 +416,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/编程之法：面试和算法心得.pdf"
     },
     {
+        "_id": "67f06b58cdd5f79c66494015",
         "id": "1442",
         "name": "编程之美—微软技术面试心得《编程之美》小组",
         "title": "出版人",
@@ -396,6 +429,7 @@ export const booklist = [
         "original_path": "https://aibookshub.github.io/b1442/1442/编程之美—微软技术面试心得《编程之美》小组.pdf"
     },
     {
+        "_id": "67f06b58cdd5f79c66494016",
         "id": "1442",
         "name": "金领简历 - 敲开苹果、微软、谷歌的大门",
         "title": "金领简历",
@@ -406,5 +440,239 @@ export const booklist = [
         "previewLink": "No preview link",
         "isbn_13": "9787115279262",
         "original_path": "https://aibookshub.github.io/b1442/1442/金领简历 - 敲开苹果、微软、谷歌的大门.pdf"
+    },
+    {
+        "_id": "67f4047eeb8961eaf18d4067",
+        "id": "1458",
+        "name": "3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929",
+        "title": "3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "Unknown publisher",
+        "author": "Unknown Author",
+        "summary": "No summary available",
+        "previewLink": "No preview link",
+        "isbn_13": "",
+        "original_path": "https://aibookshub.github.io/b1458/1458/3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929.pdf"
+    },
+    {
+        "_id": "67f40484eb8961eaf18d4068",
+        "id": "1458",
+        "name": "Effective_Python_编写高质量Python代码的59个有效方法_Brett_Slatkin",
+        "title": "Fifty-nine Specific Ways to Write Better Python",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Brett Slatkin",
+        "summary": "None",
+        "previewLink": "No preview link",
+        "isbn_13": "9780134034416",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Effective_Python_编写高质量Python代码的59个有效方法_Brett_Slatkin.pdf"
+    },
+    {
+        "_id": "67f40488eb8961eaf18d4069",
+        "id": "1458",
+        "name": "Python GUI设计：tkinter菜鸟编程 [洪锦魁]",
+        "title": "學會改變：戒除壞習慣、實現目標、影響他人的9大關鍵策略",
+        "cover": "http://books.google.com/books/content?id=-RylDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "樂金文化（方言文化）",
+        "author": "奇普‧希思、丹‧希思（Chip Heath and Dan Heath）",
+        "summary": "紐約時報暢銷榜第一 為什麼戒菸每次都失敗？想早起運動卻爬不起來？ 我們都想變成更好的自己，但改變卻好困難！ 其實你不是懶惰或沒毅力，而是缺乏明確的指令、鮮明的情感，還有對的環境，或是用錯方法，所以改變很難成功。想要養成運動習慣？讓下屬變得不再遲到？還是希望工作團隊更有凝聚力？不論你是要改變自己、改變他人，還是改變組織，只要掌握3層面的行動架構，就能輕鬆改變、無痛成長。 我們的情感面就像大象，而理智面則是騎象人，騎象人手持韁繩，看似能控制大象，但兩者的力量實在過於懸殊，當雙方意見不合時，騎象人完全不是大象的對手，很容易敗下陣來，被大象拖著跑。 因此，如果想讓改變成功，你需要給予清晰的指令，並從情感面著手，避免因疲乏而半途而廢，最後再塑造容易改變的環境，引導大象走在正確且順暢的道路上。 本書作者是暢銷作家希思兄弟，他們在大量行為研究的基礎上，通過詳實有趣的案例，告訴我們如何掌握3層面的行動架構：理智面〈指揮騎象人〉、情感面〈激勵大象〉、環境面（形塑路徑），並提供9大關鍵策略，不論你是想要改變，還是正在改變，這本書都是你的最佳實用指南。 ◎成功改變的3層行動架構 ‧第一層：理智面〈指揮騎象人〉 我們有時候抗拒改變，可能是因為指示不清楚，所以想成功改變必須提出清晰明確的行動指令。如果想讓員工更積極，不要只是叫他們「要更加努力」，而是應該規定「每個月至少要打125通電話給客戶」。 ‧第二層：情感面〈激勵大象〉 我們以為是懶惰讓改變失敗，但通常是因為意志力已經疲乏。騎象人沒辦法長時間控制住大象，所以能否觸動情感面是關鍵。希望實驗室研發了一款電玩，讓小病友和裡面的奈米抗癌機器人產生情感連結，成功將化療藥物的服用率提高20％，存活率因此提高一倍。 ‧第三層：環境面〈形塑路徑〉 當你規劃好改變的路徑，成功的機率就會增加，因為當情境產生變化，行為就會跟著改變。亞馬遜的網站設計師在網頁上新增「一鍵下單」的功能，將購物時的操作障礙降到最低，就讓公司增加好幾百萬美元的營收。 本書特色 ★全球媒體一致好評 美國《時代雜誌》列為「使你更有思想的20本書之一」，《華盛頓郵報》、《彭博商業周刊》等全球指標性媒體好評不斷。 ★結合跨領域知識 結合心理學、認知科學、神經科學和行為設計學等知識，提供最有效的行動策略。 ★具備實用價值 包含大量有趣的案例，適合管理者、創業者以及所有想要改變自己、影響他人、實",
+        "previewLink": "No preview link",
+        "isbn_13": "9789869735087",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python GUI设计：tkinter菜鸟编程 [洪锦魁].pdf"
+    },
+    {
+        "_id": "67f4048feb8961eaf18d406a",
+        "id": "1458",
+        "name": "Python3网络爬虫数据采集",
+        "title": "机器学习实战",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Unknown Author",
+        "summary": "本书通过精心编排的实例,切入日常工作任务,摒弃学术化语言,利用高效可复用的Python代码阐释如何处理统计数据,进行数据分析及可视化.读者可从中学到一些核心的机器学习算法,并将其运用于某些策略性任务中,如分类,预测及推荐等.",
+        "previewLink": "No preview link",
+        "isbn_13": "",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python3网络爬虫数据采集.pdf"
+    },
+    {
+        "_id": "67f404a8e0a881fffe1703dc",
+        "id": "1458",
+        "name": "3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929",
+        "title": "3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "Unknown publisher",
+        "author": "Unknown Author",
+        "summary": "No summary available",
+        "previewLink": "No preview link",
+        "isbn_13": "",
+        "original_path": "https://aibookshub.github.io/b1458/1458/3209078_Python GUI设计——tkinter菜鸟编程_1_321_1581054929.pdf"
+    },
+    {
+        "_id": "67f404ace0a881fffe1703dd",
+        "id": "1458",
+        "name": "Effective_Python_编写高质量Python代码的59个有效方法_Brett_Slatkin",
+        "title": "Fifty-nine Specific Ways to Write Better Python",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Brett Slatkin",
+        "summary": "None",
+        "previewLink": "No preview link",
+        "isbn_13": "9780134034416",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Effective_Python_编写高质量Python代码的59个有效方法_Brett_Slatkin.pdf"
+    },
+    {
+        "_id": "67f404afe0a881fffe1703de",
+        "id": "1458",
+        "name": "Python GUI设计：tkinter菜鸟编程 [洪锦魁]",
+        "title": "學會改變：戒除壞習慣、實現目標、影響他人的9大關鍵策略",
+        "cover": "http://books.google.com/books/content?id=-RylDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "樂金文化（方言文化）",
+        "author": "奇普‧希思、丹‧希思（Chip Heath and Dan Heath）",
+        "summary": "紐約時報暢銷榜第一 為什麼戒菸每次都失敗？想早起運動卻爬不起來？ 我們都想變成更好的自己，但改變卻好困難！ 其實你不是懶惰或沒毅力，而是缺乏明確的指令、鮮明的情感，還有對的環境，或是用錯方法，所以改變很難成功。想要養成運動習慣？讓下屬變得不再遲到？還是希望工作團隊更有凝聚力？不論你是要改變自己、改變他人，還是改變組織，只要掌握3層面的行動架構，就能輕鬆改變、無痛成長。 我們的情感面就像大象，而理智面則是騎象人，騎象人手持韁繩，看似能控制大象，但兩者的力量實在過於懸殊，當雙方意見不合時，騎象人完全不是大象的對手，很容易敗下陣來，被大象拖著跑。 因此，如果想讓改變成功，你需要給予清晰的指令，並從情感面著手，避免因疲乏而半途而廢，最後再塑造容易改變的環境，引導大象走在正確且順暢的道路上。 本書作者是暢銷作家希思兄弟，他們在大量行為研究的基礎上，通過詳實有趣的案例，告訴我們如何掌握3層面的行動架構：理智面〈指揮騎象人〉、情感面〈激勵大象〉、環境面（形塑路徑），並提供9大關鍵策略，不論你是想要改變，還是正在改變，這本書都是你的最佳實用指南。 ◎成功改變的3層行動架構 ‧第一層：理智面〈指揮騎象人〉 我們有時候抗拒改變，可能是因為指示不清楚，所以想成功改變必須提出清晰明確的行動指令。如果想讓員工更積極，不要只是叫他們「要更加努力」，而是應該規定「每個月至少要打125通電話給客戶」。 ‧第二層：情感面〈激勵大象〉 我們以為是懶惰讓改變失敗，但通常是因為意志力已經疲乏。騎象人沒辦法長時間控制住大象，所以能否觸動情感面是關鍵。希望實驗室研發了一款電玩，讓小病友和裡面的奈米抗癌機器人產生情感連結，成功將化療藥物的服用率提高20％，存活率因此提高一倍。 ‧第三層：環境面〈形塑路徑〉 當你規劃好改變的路徑，成功的機率就會增加，因為當情境產生變化，行為就會跟著改變。亞馬遜的網站設計師在網頁上新增「一鍵下單」的功能，將購物時的操作障礙降到最低，就讓公司增加好幾百萬美元的營收。 本書特色 ★全球媒體一致好評 美國《時代雜誌》列為「使你更有思想的20本書之一」，《華盛頓郵報》、《彭博商業周刊》等全球指標性媒體好評不斷。 ★結合跨領域知識 結合心理學、認知科學、神經科學和行為設計學等知識，提供最有效的行動策略。 ★具備實用價值 包含大量有趣的案例，適合管理者、創業者以及所有想要改變自己、影響他人、實",
+        "previewLink": "No preview link",
+        "isbn_13": "9789869735087",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python GUI设计：tkinter菜鸟编程 [洪锦魁].pdf"
+    },
+    {
+        "_id": "67f404b2e0a881fffe1703df",
+        "id": "1458",
+        "name": "Python3网络爬虫数据采集",
+        "title": "机器学习实战",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Unknown Author",
+        "summary": "本书通过精心编排的实例,切入日常工作任务,摒弃学术化语言,利用高效可复用的Python代码阐释如何处理统计数据,进行数据分析及可视化.读者可从中学到一些核心的机器学习算法,并将其运用于某些策略性任务中,如分类,预测及推荐等.",
+        "previewLink": "No preview link",
+        "isbn_13": "",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python3网络爬虫数据采集.pdf"
+    },
+    {
+        "_id": "67f404b6e0a881fffe1703e0",
+        "id": "1458",
+        "name": "Python_And_Tkinter_Programming_ElectroVolt.ir_",
+        "title": "Beginning Programming with Python For Dummies",
+        "cover": "http://books.google.com/books/content?id=vEpGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "John Wiley & Sons",
+        "author": "John Paul Mueller",
+        "summary": "The easy way to learn programming fundamentals with Python Python is a remarkably powerful and dynamic programming language that's used in a wide variety of application domains. Some of its key distinguishing features include a very clear, readable syntax, strong introspection capabilities, intuitive object orientation, and natural expression of procedural code. Plus, Python features full modularity, supporting hierarchical packages, exception-based error handling, and modules easily written in C, C++, Java, R, or .NET languages, such as C#. In addition, Python supports a number of coding styles that include: functional, imperative, object-oriented, and procedural. Due to its ease of use and flexibility, Python is constantly growing in popularity—and now you can wear your programming hat with pride and join the ranks of the pros with the help of this guide. Inside, expert author John Paul Mueller gives a complete step-by-step overview of all there is to know about Python. From performi",
+        "previewLink": "No preview link",
+        "isbn_13": "9781119457893",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python_And_Tkinter_Programming_ElectroVolt.ir_.pdf"
+    },
+    {
+        "_id": "67f404b9e0a881fffe1703e1",
+        "id": "1458",
+        "name": "Python与Tkinter编程(jb51.net)",
+        "title": "你也能看得懂的Python算法书",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "王硕",
+        "summary": "本书首先介绍当下流程的编程语言Python,详细讲解Python语言中的变量和顺序,分支,循环三大结构,以及列表和函数的使用.然后以通俗易懂的语言讲解了双指针,哈希,深度优先,广度优先,回溯,贪心,动态规划和最短路径等经典算法.",
+        "previewLink": "No preview link",
+        "isbn_13": "9787121352553",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python与Tkinter编程(jb51.net).pdf"
+    },
+    {
+        "_id": "67f404bbe0a881fffe1703e2",
+        "id": "1458",
+        "name": "Python网络爬虫从入门到实践.html",
+        "title": "Python 從網路爬蟲到生活應用超實務",
+        "cover": "http://books.google.com/books/content?id=XcQiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "博碩",
+        "author": "陳會安",
+        "summary": "☀ 科技來自於人性，讓程式設計回歸生活上的應用！ ☀ 本書不只讓你學會Python，還要讓它「真正」進入你的日常生活！ 內容簡介 人工智慧世代必備的資料擷取術 ─ 網路爬蟲，幫你建立 Python 網路爬蟲 SOP 標準作業程序。 ☛ 資料是王 ( Data is King )，誰擁有資料，誰就能主宰世界。從 Python 網路爬蟲到生活應用，完整說明你需要必備的 Python 資料擷取術。 ☛ 網路爬蟲就是從 HTML 網頁取得資料。你可以想像在 Web 星球 ( WWW ) 上有眾多果園 ( 網站 ) 和 HTML 果樹 ( 網頁 )，你的工作是拿著水果籃進入指定的果園後，爬上果樹摘下樹上的水果 ( HTML 標籤 )，你需要定位水果在哪裡以及規劃摘取順序，才能成功摘下整棵樹的水果，放進水果籃。 ☛ 本書讓你學得到 Python，用得到 Python，還能夠「真正活用」Python 來解決你日常生活、學習和工作上，各種資料擷取和處理的問題。 適用讀者 ✎ 已經有其他程式語言基礎、或對運算思維有興趣的初學者。 ✎ 適合讀者自學 Python 程式設計，亦可作為 Python 程式設計相關課程的上課教材。",
+        "previewLink": "No preview link",
+        "isbn_13": "9789864345397",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python网络爬虫从入门到实践.html.pdf"
+    },
+    {
+        "_id": "67f404bfe0a881fffe1703e3",
+        "id": "1458",
+        "name": "Python网络爬虫从入门到实践第2版.html",
+        "title": "Python 從網路爬蟲到生活應用超實務",
+        "cover": "http://books.google.com/books/content?id=XcQiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "博碩",
+        "author": "陳會安",
+        "summary": "☀ 科技來自於人性，讓程式設計回歸生活上的應用！ ☀ 本書不只讓你學會Python，還要讓它「真正」進入你的日常生活！ 內容簡介 人工智慧世代必備的資料擷取術 ─ 網路爬蟲，幫你建立 Python 網路爬蟲 SOP 標準作業程序。 ☛ 資料是王 ( Data is King )，誰擁有資料，誰就能主宰世界。從 Python 網路爬蟲到生活應用，完整說明你需要必備的 Python 資料擷取術。 ☛ 網路爬蟲就是從 HTML 網頁取得資料。你可以想像在 Web 星球 ( WWW ) 上有眾多果園 ( 網站 ) 和 HTML 果樹 ( 網頁 )，你的工作是拿著水果籃進入指定的果園後，爬上果樹摘下樹上的水果 ( HTML 標籤 )，你需要定位水果在哪裡以及規劃摘取順序，才能成功摘下整棵樹的水果，放進水果籃。 ☛ 本書讓你學得到 Python，用得到 Python，還能夠「真正活用」Python 來解決你日常生活、學習和工作上，各種資料擷取和處理的問題。 適用讀者 ✎ 已經有其他程式語言基礎、或對運算思維有興趣的初學者。 ✎ 適合讀者自學 Python 程式設計，亦可作為 Python 程式設計相關課程的上課教材。",
+        "previewLink": "No preview link",
+        "isbn_13": "9789864345397",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python网络爬虫从入门到实践第2版.html.pdf"
+    },
+    {
+        "_id": "67f404c1e0a881fffe1703e4",
+        "id": "1458",
+        "name": "Python自动化运维  技术与最佳实践",
+        "title": "Python自動化的樂趣",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Al Sweigart",
+        "summary": "None",
+        "previewLink": "No preview link",
+        "isbn_13": "9789864762729",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Python自动化运维  技术与最佳实践.pdf"
+    },
+    {
+        "_id": "67f404c3e0a881fffe1703e5",
+        "id": "1458",
+        "name": "Tkinter GUI Application Development Blueprints",
+        "title": "Tkinter GUI Application Development Blueprints, Second Edition",
+        "cover": "http://books.google.com/books/content?id=5gxTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "Packt Publishing Ltd",
+        "author": "Bhaskar Chaudhary",
+        "summary": "Geometry Management, Event Handling, and more Key Features A Practical, guide to learn the application of Python and GUI programming with tkinter Create multiple cross-platform real-world projects by integrating host of third party libraries and tools Learn to build beautiful and highly interactive user interfaces, targeting multiple devices. Book Description Tkinter is the built-in GUI package that comes with standard Python distributions. It is a cross-platform package, which means you build once and deploy everywhere. It is simple to use and intuitive in nature, making it suitable for programmers and non-programmers alike. This book will help you master the art of GUI programming. It delivers the bigger picture of GUI programming by building real-world, productive, and fun applications such as a text editor, drum machine, game of chess, audio player, drawing application, piano tutor, chat application, screen saver, port scanner, and much more. In every project, you will build on the",
+        "previewLink": "No preview link",
+        "isbn_13": "9781788834452",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Tkinter GUI Application Development Blueprints.pdf"
+    },
+    {
+        "_id": "67f404c6e0a881fffe1703e6",
+        "id": "1458",
+        "name": "Tkinter GUI Application Development Hotshot",
+        "title": "Tkinter GUI Application Development Hotshot",
+        "cover": "https://raw.githubusercontent.com/aibookshub/aibookshub/main/assets/images/covermissing.png",
+        "publisher": "None",
+        "author": "Bhaskar Chaudhary",
+        "summary": "Practical, real-world example projects. Start with the topics that grab your attention or work through each project in sequence. If you have just started with GUI programming, this book is ideal for you. This book is also great if you are an experienced software developer, scientist, researcher, engineer, student, or hobbyist.",
+        "previewLink": "No preview link",
+        "isbn_13": "9781461949350",
+        "original_path": "https://aibookshub.github.io/b1458/1458/Tkinter GUI Application Development Hotshot.pdf"
+    },
+    {
+        "_id": "67f404c8e0a881fffe1703e7",
+        "id": "1458",
+        "name": "tkinter-gui-programming-example",
+        "title": "Tkinter GUI Programming by Example",
+        "cover": "http://books.google.com/books/content?id=KM85tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "publisher": "None",
+        "author": "David Love",
+        "summary": "Leverage the power of Python and its de facto GUI framework to build highly interactive interfaces Key Features The fundamentals of Python and GUI programming with Tkinter. Create multiple cross-platform projects by integrating a host of third-party libraries and tools. Build beautiful and highly-interactive user interfaces that target multiple devices. Book Description Tkinter is a modular, cross-platform application development toolkit for Python. When developing GUI-rich applications, the most important choices are which programming language(s) and which GUI framework to use. Python and Tkinter prove to be a great combination. This book will get you familiar with Tkinter by having you create fun and interactive projects. These projects have varying degrees of complexity. We'll start with a simple project, where you'll learn the fundamentals of GUI programming and the basics of working with a Tkinter application. After getting the basics right, we'll move on to creating a project of ",
+        "previewLink": "No preview link",
+        "isbn_13": "9781788627481",
+        "original_path": "https://aibookshub.github.io/b1458/1458/tkinter-gui-programming-example.pdf"
+    },
+    {
+        "_id": "67f404cce0a881fffe1703e8",
+        "id": "1458",
+        "name": "用Python写网络爬虫",
+        "title": "用Python写网络爬虫(第2版)",
+        "cover": "http://books.google.com/books/content?id=Z3H-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "Packt Publishing Ltd",
+        "author": "Posts & Telecom Press",
+        "summary": "史上首本Python网络爬虫图书全新升级版 上一版年度销量近40000册 针对Python 3.x编写 提供示例完整源码和实例网站搭建源码 Key Features 本书是使用Python 3.x的最新特性来爬取网络数据的权威指南。 提供示例完整源码和实例网站搭建源码 Book Description 史上首本Python网络爬虫图书全新升级版，上一版年度销量近40000册。 针对Python 3.x版本编写。 提供示例完整源码和实例网站搭建源码，确保用户能在本地成功复现爬取网站环境，并保障网站的稳定性与可靠性以及代码运行结果的可再现性。 Internet上包含了许多有用的数据，其中大部分是可以免费公开访问的。但是，这些数据不容易使用，它们内嵌在网站的架构和样式中，在提取时也需要多加小心。网络爬取技术作为一种收集和理解网络上海量信息的方式，正变得越来越有用。 本书是使用Python 3.x的最新特性来爬取网络数据的权威指南。本书讲解了从静态网站提取数据的方法，以及如何使用数据库和文件缓存技术来节省时间并管理服务器负载，然后介绍了如何使用浏览器、爬虫和并发爬虫开发一个更为复杂的爬虫。 借助于PyQt和Selenium，你可以决定何时以及如何从依赖JavaScript的网站上爬取数据，以及更好地理解在受CAPTCHA保护的复杂网站上提交表单的方法。本书还讲解了使用Python包（比如mechanize）进行自动化处理的方法、使用Scrapy库创建基于类的爬虫的方法，以及如何在真实的网站上实施所学的爬虫技巧。 本书最后还涵盖了使用爬虫对网站进行测试、远程爬取技术、图像处理以及其他相关的主题。 本书主要内容如下： 使用简单的Python程序从页面中提取数据； 构建并发爬虫，对页面进行并行处理； 通过跟踪链接来爬取一个网站； 从HTML中提取特性； 缓存下载的HTML，以供复用； 比较并发模型，确定最快的爬虫； 解析依赖于JavaScript的网站； 与表单和会话进行交互。 What will you learn 使用简单的Python程序从页面中提取数据； 构建并发爬虫，对页面进行并行处理； 通过跟踪链接来爬取一个网站； 从HTML中提取特性； 缓存下载的HTML，以供复用； 比较并发模型，确定最快的爬虫； 解析依赖于JavaScript的网站； 与表单和会话进行交互。 W",
+        "previewLink": "No preview link",
+        "isbn_13": "9781835888513",
+        "original_path": "https://aibookshub.github.io/b1458/1458/用Python写网络爬虫.pdf"
+    },
+    {
+        "_id": "67f404cee0a881fffe1703e9",
+        "id": "1458",
+        "name": "网络爬虫－Python和数据分析",
+        "title": "用Python写网络爬虫(第2版)",
+        "cover": "http://books.google.com/books/content?id=Z3H-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "publisher": "Packt Publishing Ltd",
+        "author": "Posts & Telecom Press",
+        "summary": "史上首本Python网络爬虫图书全新升级版 上一版年度销量近40000册 针对Python 3.x编写 提供示例完整源码和实例网站搭建源码 Key Features 本书是使用Python 3.x的最新特性来爬取网络数据的权威指南。 提供示例完整源码和实例网站搭建源码 Book Description 史上首本Python网络爬虫图书全新升级版，上一版年度销量近40000册。 针对Python 3.x版本编写。 提供示例完整源码和实例网站搭建源码，确保用户能在本地成功复现爬取网站环境，并保障网站的稳定性与可靠性以及代码运行结果的可再现性。 Internet上包含了许多有用的数据，其中大部分是可以免费公开访问的。但是，这些数据不容易使用，它们内嵌在网站的架构和样式中，在提取时也需要多加小心。网络爬取技术作为一种收集和理解网络上海量信息的方式，正变得越来越有用。 本书是使用Python 3.x的最新特性来爬取网络数据的权威指南。本书讲解了从静态网站提取数据的方法，以及如何使用数据库和文件缓存技术来节省时间并管理服务器负载，然后介绍了如何使用浏览器、爬虫和并发爬虫开发一个更为复杂的爬虫。 借助于PyQt和Selenium，你可以决定何时以及如何从依赖JavaScript的网站上爬取数据，以及更好地理解在受CAPTCHA保护的复杂网站上提交表单的方法。本书还讲解了使用Python包（比如mechanize）进行自动化处理的方法、使用Scrapy库创建基于类的爬虫的方法，以及如何在真实的网站上实施所学的爬虫技巧。 本书最后还涵盖了使用爬虫对网站进行测试、远程爬取技术、图像处理以及其他相关的主题。 本书主要内容如下： 使用简单的Python程序从页面中提取数据； 构建并发爬虫，对页面进行并行处理； 通过跟踪链接来爬取一个网站； 从HTML中提取特性； 缓存下载的HTML，以供复用； 比较并发模型，确定最快的爬虫； 解析依赖于JavaScript的网站； 与表单和会话进行交互。 What will you learn 使用简单的Python程序从页面中提取数据； 构建并发爬虫，对页面进行并行处理； 通过跟踪链接来爬取一个网站； 从HTML中提取特性； 缓存下载的HTML，以供复用； 比较并发模型，确定最快的爬虫； 解析依赖于JavaScript的网站； 与表单和会话进行交互。 W",
+        "previewLink": "No preview link",
+        "isbn_13": "9781835888513",
+        "original_path": "https://aibookshub.github.io/b1458/1458/网络爬虫－Python和数据分析.pdf"
     }
 ];
