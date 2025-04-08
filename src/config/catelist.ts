@@ -19,6 +19,7 @@ export const CatList = [
     { id: "1229", name: "Machine Learning (CN)",cover: `${UL}ai_ml.jpg`},
     { id: "1230", name: "Nerual Network",       cover: `${UL}ai_nn.jpg`},
     { id: "1232", name: "NLP",                  cover: `${UL}ai_nlp.jpg`},
+    // { id: "1233", name: "ASR",                  cover: `${UL}ai_nlp.jpg`},
     { id: "1234", name: "Tensorflow & Pytorch", cover: `${UL}ai_tf.jpg`},
     { id: "1236", name: "Reinforcement Learning RL",cover: `${UL}ai_rl.jpg`},
 
